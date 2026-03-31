@@ -36,7 +36,7 @@ const Index = () => {
           {meals.map((meal) => (
             <Link
               key={meal.slug}
-              to={`/meal/${meal.slug}`}
+              to={meal.originalPath}
               className="group block overflow-hidden rounded-lg border border-border bg-card hover:shadow-lg transition-all duration-300"
             >
               {meal.cardImage ? (
