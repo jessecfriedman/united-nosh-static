@@ -19,7 +19,7 @@ const Countries = () => (
                   {country.mealNumber}
                 </span>
                 <Link
-                  to={`/meal/${country.slug}`}
+                  to={`/countries/${country.slug}`}
                   className="text-foreground hover:text-primary transition-colors"
                 >
                   {country.name}
