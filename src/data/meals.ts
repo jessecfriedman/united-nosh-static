@@ -185,7 +185,30 @@ export const meals: Meal[] = [
   slug: "week-5-angola",
   originalPath: "/countries/2011/week-5-angola",
   dishes: [
-
+  {
+    name: "Muamba de Galinha",
+    description: "Chicken in palmnut sauce | Recipe",
+    recipeUrl: "http://www.congocookbook.com/chicken_recipes/muamba_de_galinha.html",
+    recipeLabel: "Recipe"
+  },
+  {
+    name: "Fumbua",
+    description: "Greens with palm oil and peanut | Recipe",
+    recipeUrl: "http://www.congocookbook.com/vegetable_and_side_dish_recipes/mfumbwa.html",
+    recipeLabel: "Recipe"
+  },
+  {
+    name: "Funje",
+    description: "Cassava flour porridge | Recipe",
+    recipeUrl: "http://www.celtnet.org.uk/recipes/miscellaneous/fetch-recipe.php?rid=misc-funje",
+    recipeLabel: "Recipe"
+  },
+  {
+    name: "Cocada Amarela",
+    description: "Yellow coconut pudding | Recipe",
+    recipeUrl: "http://www.marga.org/food/int/angola/cocada.html",
+    recipeLabel: "Recipe"
+  }
   ]
 },
 {
@@ -555,7 +578,24 @@ export const meals: Meal[] = [
   slug: "week-14-bangladesh",
   originalPath: "/countries/2011/week-14-bangladesh",
   dishes: [
-
+  {
+    name: "Shokto",
+    description: "Vegetable simmer | Recipe (I added pumpkin as suggested elsewhere)",
+    recipeUrl: "http://www.bongcookbook.com/2006/11/shukto-on-weekend.html",
+    recipeLabel: "Recipe"
+  },
+  {
+    name: "Alu posto",
+    description: "Potatoes with poppy-seed paste | Recipe",
+    recipeUrl: "http://sutapa.com/sutapa.html#postho",
+    recipeLabel: "Recipe"
+  },
+  {
+    name: "Rasgulla",
+    description: "Fresh cheese balls in syrup | Recipe",
+    recipeUrl: "http://www.tarladalal.com/Rasgulla-2005r",
+    recipeLabel: "Recipe"
+  }
   ]
 },
 {
@@ -994,7 +1034,18 @@ export const meals: Meal[] = [
   slug: "week-25-brunei-darussalam",
   originalPath: "/countries/2012/week-25-brunei-darussalam",
   dishes: [
-
+  {
+    name: "Rebus asam keladi",
+    description: "Boiled yam in sour sauce | Recipe",
+    recipeUrl: "http://mumsoldrecipebook.blogspot.com/2010/12/rebus-asam-batang-keladi-boiled-yam.html",
+    recipeLabel: "Recipe"
+  },
+  {
+    name: "Urap",
+    description: "Cooked vegetables with coconut | Recipe",
+    recipeUrl: "http://asiarecipe.com/bruveg.html#coco",
+    recipeLabel: "Recipe"
+  }
   ]
 },
 {
@@ -1230,7 +1281,12 @@ export const meals: Meal[] = [
   slug: "week-31-cameroon",
   originalPath: "/countries/2012/week-31-cameroon",
   dishes: [
-
+  {
+    name: "Poulet DG",
+    description: "Chicken for the boss | Recipe in French (and translated)",
+    recipeUrl: "http://www.marmiton.org/recettes/recette_poulet-dg_169643.aspx",
+    recipeLabel: "Recipe in French"
+  }
   ]
 },
 {
@@ -1412,7 +1468,24 @@ export const meals: Meal[] = [
   slug: "meal-36-china",
   originalPath: "/countries/2012/meal-36-china",
   dishes: [
-
+  {
+    name: "Hong Kong: Yee mein",
+    description: "Pan-fried noodles with shrimp and scallops | Recipe",
+    recipeUrl: "http://www.sugarlens.com/2009/02/hong-kong-style-pan-fried-noodles.html",
+    recipeLabel: "Recipe"
+  },
+  {
+    name: "Guangzhou/Canton: Hoi sam",
+    description: "Sea cucumber stuffed with pork and shrimp | Recipe",
+    recipeUrl: "http://www.chinadaily.com.cn/cndy/2010-10/23/content_11448433.htm",
+    recipeLabel: "Recipe"
+  },
+  {
+    name: "Sichuan: La zi yu",
+    description: "Fish with chilies and sichuan pepper | Recipe",
+    recipeUrl: "http://http://www.kitchenchick.com/2007/01/fish_with_chile.html",
+    recipeLabel: "Recipe"
+  }
   ]
 },
 {
@@ -1474,7 +1547,36 @@ export const meals: Meal[] = [
   slug: "meal-38-comoros",
   originalPath: "/countries/2012/meal-38-comoros",
   dishes: [
-
+  {
+    name: "Langouste à la vanille",
+    description: "Lobster with vanilla sauce | Recipe: French, English translation",
+    recipeUrl: "http://www.volcreole.com/forum/sujet-8206.html",
+    recipeLabel: "French"
+  },
+  {
+    name: "M\'tsolola",
+    description: "Green plantains with fish in coconut milk | Recipe: French, English translation",
+    recipeUrl: "http://www.comores-online.com/mwezinet/gastronomie/bananegb.htm",
+    recipeLabel: "French"
+  },
+  {
+    name: "Ambrevades au curry",
+    description: "Pigeon pea curry | Recipe: French, English translation",
+    recipeUrl: "http://www.tourisme.gouv.km/p7.php",
+    recipeLabel: "French"
+  },
+  {
+    name: "Achard aux legumes",
+    description: "Blanched vegetable salad | Recipe (scroll on page): French, English translation",
+    recipeUrl: "http://festival.webcomores.com/cuisine/cuisine.html",
+    recipeLabel: "French"
+  },
+  {
+    name: "Poutou",
+    description: "Hot sauce | Recipe: French, English translation",
+    recipeUrl: "http://dinettededouda.canalblog.com/archives/2010/08/20/18675962.html",
+    recipeLabel: "French"
+  }
   ]
 },
 {
@@ -2457,7 +2559,12 @@ export const meals: Meal[] = [
   slug: "meal-61-finland",
   originalPath: "/countries/2013/meal-61-finland",
   dishes: [
-
+  {
+    name: "Kesäkeitto",
+    description: "Summer vegetable soup | Recipe",
+    recipeUrl: "http://www.dlc.fi/~marianna/gourmet/summer1.htm",
+    recipeLabel: "Recipe"
+  }
   ]
 },
 {
@@ -2497,8 +2604,32 @@ export const meals: Meal[] = [
   country: "Gambia",
   slug: "meal-63-gambia",
   originalPath: "/countries/2013/meal-63-gambia",
+  cardImage: "https://farm8.staticflickr.com/7307/9274148304_79a7866b8d.jpg",
   dishes: [
-
+  {
+    name: "Pepe soup",
+    description: "Spicy chicken and tomato soup | Recipe",
+    recipeUrl: "http://www.thegambiablog.co.uk/2012/03/the-gambian-cookbook-recipes-from-the-smiling-coast/",
+    recipeLabel: "Recipe"
+  },
+  {
+    name: "Benachin",
+    description: "Fish and rice with vegetables | Recipe",
+    recipeUrl: "http://resourcepage.gambia.dk/benachin.htm#Kebbeh",
+    recipeLabel: "Recipe"
+  },
+  {
+    name: "Plasas",
+    description: "Spinach stew with peanut butter and beef | Recipe",
+    recipeUrl: "http://www.accessgambia.com/information/plasas-dish.html",
+    recipeLabel: "Recipe"
+  },
+  {
+    name: "Chakery",
+    description: "Pineapple-dairy sauce over couscous | Recipe",
+    recipeUrl: "http://www.celtnet.org.uk/recipes/miscellaneous/fetch-recipe.php?rid=misc-chakery",
+    recipeLabel: "Recipe"
+  }
   ]
 },
 {
@@ -3289,8 +3420,32 @@ export const meals: Meal[] = [
   country: "Iran",
   slug: "meal-79-iran",
   originalPath: "/countries/2014/meal-79-iran",
+  cardImage: "https://farm3.staticflickr.com/2899/13974925632_6afa5b28fa.jpg",
   dishes: [
-
+  {
+    name: "Ash-e reshteh",
+    description: "Legume, herb and noodle stew | Recipe",
+    recipeUrl: "http://www.farsinet.com/farsieats/recipes/ash_reshteh.html",
+    recipeLabel: "Recipe"
+  },
+  {
+    name: "Sabzi polo va mahi",
+    description: "Herbed rice with fried fish | Recipe",
+    recipeUrl: "http://www.livinginseason.com/celebrations/food-for-nowruz/",
+    recipeLabel: "Recipe"
+  },
+  {
+    name: "Kuku sabzi",
+    description: "Frittata with herbs and walnuts | Recipe",
+    recipeUrl: "http://www.najmiehskitchen.com/pdf/FoodofLife_2012_HerbKukuRecipe.pdf",
+    recipeLabel: "Recipe"
+  },
+  {
+    name: "Bereshtook-e nokhodchi",
+    description: "Chickpea cookies | Recipes (though I\'d use butter/ghee rather than oil)",
+    recipeUrl: "http://gapersblock.com/drivethru/2010/01/26/persian_chickpea-cardamom_cookies_simple_no-bake_and_gluten-free/",
+    recipeLabel: "Recipes"
+  }
   ]
 },
 {
@@ -3298,8 +3453,14 @@ export const meals: Meal[] = [
   country: "Ireland",
   slug: "meal-80-ireland",
   originalPath: "/countries/2014/meal-80-ireland",
+  cardImage: "https://farm6.staticflickr.com/5458/13978121165_29094b163f.jpg",
   dishes: [
-
+  {
+    name: "Colcannon",
+    description: "Cabbage and mashed potato | Recipe",
+    recipeUrl: "http://www.dochara.com/the-irish/food-recipes/colcannon/",
+    recipeLabel: "Recipe"
+  }
   ]
 },
 {
@@ -3307,8 +3468,20 @@ export const meals: Meal[] = [
   country: "Italy",
   slug: "meal-81-italy",
   originalPath: "/countries/2014/meal-81-italy",
+  cardImage: "https://farm8.staticflickr.com/7315/13978532394_ede2016b43.jpg",
   dishes: [
-
+  {
+    name: "Pane tipo Altamura",
+    description: "Semolina sourdough bread | Recipe",
+    recipeUrl: "http://www.myitaliansmorgasbord.com/2013/08/08/breads-of-italy-pane-tipo-altamura/",
+    recipeLabel: "Recipe"
+  },
+  {
+    name: "Pasta fresca all\'uovo con pesto alla genovese",
+    description: "Fresh pasta with basil pesto | Recipe",
+    recipeUrl: "http://www.saveur.com/article/Recipes/Pesto-Genovese-Classic-Basil-Pesto",
+    recipeLabel: "Recipe"
+  }
   ]
 },
 {
@@ -3316,8 +3489,20 @@ export const meals: Meal[] = [
   country: "Iraq",
   slug: "meal-82-iraq",
   originalPath: "/countries/2014/meal-82-iraq",
+  cardImage: "https://farm4.staticflickr.com/3916/14395416965_a665efbdc3.jpg",
   dishes: [
-
+  {
+    name: "Kubba halab",
+    description: "Lamb-stuffed rice croquette | Recipe",
+    recipeUrl: "http://maryamsculinarywonders.blogspot.com/2012/07/103-kubba-halab.html",
+    recipeLabel: "Recipe"
+  },
+  {
+    name: "Masgouf",
+    description: "Grilled butterflied fish | Recipe",
+    recipeUrl: "http://books.google.com/books?id=B2NJwATacbYC&amp;pg=PA319&amp;lpg=PA319&amp;dq=masgouf+turmeric+tamarind&amp;source=bl&amp;ots=Hyuo1eUdog&amp;sig=qFT0_jZApOmZhjoiDksjloppB70&amp;hl=en&amp;sa=X&amp;ei=pS5bU83hBaXIsASWr4CQCg&amp;ved=0CFsQ6AEwBQ#v=onepage&amp;q&amp;f=false",
+    recipeLabel: "Recipe"
+  }
   ]
 },
 {
@@ -3325,8 +3510,38 @@ export const meals: Meal[] = [
   country: "Israel",
   slug: "meal-83-israel",
   originalPath: "/countries/2014/meal-83-israel",
+  cardImage: "https://farm6.staticflickr.com/5471/14458746770_eb916bc8c7.jpg",
   dishes: [
-
+  {
+    name: "Chraime",
+    description: "White fish in spicy tomato sauce | Recipe",
+    recipeUrl: "http://culinarygypsy.com/recipes-2/recipes/mediterranean-sea-bass-in-spicy-tomato-sauce/",
+    recipeLabel: "Recipe"
+  },
+  {
+    name: "Yerakot kluim im daloreet, krooveet, ve\'batzal adom",
+    description: "Roasted vegetables with tahini sauce | Recipe",
+    recipeUrl: "http://www.theguardian.com/lifeandstyle/2011/dec/16/roasted-squash-stuffed-quince-recipes",
+    recipeLabel: "Recipe"
+  },
+  {
+    name: "Kebabim",
+    description: "Ground lamb with pine nuts and tahini sauce | Recipe",
+    recipeUrl: "http://www.foodandwine.com/recipes/ground-lamb-kebabs-with-pine-nuts-and-tahini-sauce",
+    recipeLabel: "Recipe"
+  },
+  {
+    name: "Yerushalmi kugel",
+    description: "Peppery caramel casserole | Recipe",
+    recipeUrl: "http://www.myjewishlearning.com/culture/2/Food/Ashkenazic_Cuisine/Israel/Yerushalmi_Kugel.shtml",
+    recipeLabel: "Recipe"
+  },
+  {
+    name: "Rugelach",
+    description: "Chocolate-walnut-jam rolled cookies | Recipe",
+    recipeUrl: "http://food52.com/recipes/14783-chocolate-hazelnut-rugelach",
+    recipeLabel: "Recipe"
+  }
   ]
 },
 {
@@ -3343,8 +3558,30 @@ export const meals: Meal[] = [
   country: "Japan",
   slug: "meal-85-japan",
   originalPath: "/countries/2014/meal-85-japan",
+  cardImage: "https://farm8.staticflickr.com/7551/15530104750_f41a588451.jpg",
   dishes: [
-
+  {
+    name: "Kyuuri to wakame no amasuzuke",
+    description: "Cucumber and seaweed pickles | Recipe",
+    recipeUrl: "http://www.justhungry.com/sweet-and-sour-cucumber-and-wakame-pickles",
+    recipeLabel: "Recipe"
+  },
+  {
+    name: "Goma ai shingiku",
+    description: "Chrysanthemum greens with sesame sauce"
+  },
+  {
+    name: "Negima yakitori",
+    description: "Chicken and scallion skewers | Recipe",
+    recipeUrl: "http://www.saveur.com/article/Recipes/chicken-and-scallion-skewers-yakitori",
+    recipeLabel: "Recipe"
+  },
+  {
+    name: "Zaru soba",
+    description: "Cold buckwheat noodles with dipping sauce | Recipe",
+    recipeUrl: "http://www.nytimes.com/recipes/4793/cold-soba-noodles-zaru-soba.html%20",
+    recipeLabel: "Recipe"
+  }
   ]
 },
 {
@@ -3366,8 +3603,26 @@ export const meals: Meal[] = [
   country: "Kazakhstan",
   slug: "meal-87-kazakhstan",
   originalPath: "/countries/2014/meal-87-kazakhstan",
+  cardImage: "https://farm4.staticflickr.com/3950/15691358216_21d18e1e11.jpg",
   dishes: [
-
+  {
+    name: "Kuyrdak",
+    description: "Meat and organs with onions | Recipe",
+    recipeUrl: "http://books.google.com/books?id=z_fIAwAAQBAJ&amp;pg=PA62&amp;dq=kuyrdak&amp;hl=en&amp;sa=X&amp;ei=T7Q-VKbQE8bwiwK40YCQBw&amp;ved=0CCsQ6AEwAg#v=onepage&amp;q=kuyrdak&amp;f=false",
+    recipeLabel: "Recipe"
+  },
+  {
+    name: "Beshbarmak",
+    description: "Boiled meat and noodles in broth | Recipe",
+    recipeUrl: "http://www.pinchofcinnamon.com/2012/09/home-made-kazakh-dinner-and-beshbarmak.html",
+    recipeLabel: "Recipe"
+  },
+  {
+    name: "Chak-chak",
+    description: "Fried dough in honey syrup | Recipe",
+    recipeUrl: "http://kazavida.blogspot.com/2009/01/chak-chak.html",
+    recipeLabel: "Recipe"
+  }
   ]
 },
 {
@@ -3391,8 +3646,20 @@ export const meals: Meal[] = [
   country: "Kiribati",
   slug: "meal-89-kiribati",
   originalPath: "/countries/2015/meal-89-kiribati",
+  cardImage: "https://farm8.staticflickr.com/7470/16042003259_4e7e659ac9.jpg",
   dishes: [
-
+  {
+    name: "Te bwaukin",
+    description: "Pumpkin simmered in coconut milk with pandanus leaf | Recipe",
+    recipeUrl: "http://globaltableadventure.com/2011/10/02/recipe-sweet-coco-pumpkin-with-pandan-leaves/",
+    recipeLabel: "Recipe"
+  },
+  {
+    name: "Te bua toro",
+    description: "Sweet potato and coconut milk loaf | Recipe (in comments)",
+    recipeUrl: "http://www.196flavors.com/2012/12/04/kiribati-te-bua-toro-ni-baukin/#comment-98236",
+    recipeLabel: "Recipe (in comments)"
+  }
   ]
 },
 {
@@ -3400,8 +3667,24 @@ export const meals: Meal[] = [
   country: "Kuwait",
   slug: "meal-90-kuwait",
   originalPath: "/countries/2015/meal-90-kuwait",
+  cardImage: "https://farm8.staticflickr.com/7578/16040781188_c6b827a1f9.jpg",
   dishes: [
-
+  {
+    name: "Machboos",
+    description: "Chicken with spiced tomato sauce and split peas over rice | Recipe at end of post"
+  },
+  {
+    name: "Zubaidi",
+    description: "Stuffed fish over rice | Recipe",
+    recipeUrl: "http://journals.worldnomads.com/shootingben/photos/45794/Australia/Passport-and-Plate-Twice-Cooked-Kuwaiti-Zubaidi",
+    recipeLabel: "Recipe"
+  },
+  {
+    name: "Gers ogely",
+    description: "Cardamom saffron sponge cake | Recipe",
+    recipeUrl: "http://sukarah.com/2013/03/kuwaiti-saffron-cardamom-cake-gers-ogely-cake-of-the-month.html",
+    recipeLabel: "Recipe"
+  }
   ]
 },
 {
@@ -3409,8 +3692,20 @@ export const meals: Meal[] = [
   country: "Kyrgyzstan",
   slug: "meal-91-kyrgyzstan",
   originalPath: "/countries/2015/meal-91-kyrgyzstan",
+  cardImage: "https://farm8.staticflickr.com/7472/16217259746_b7ec01e7b8.jpg",
   dishes: [
-
+  {
+    name: "Laghman",
+    description: "Soup with hand-stretched noodles | Recipes: noodles, soup",
+    recipeUrl: "http://amiralace.blogspot.com/2008/06/hand-stretched-noodles.html",
+    recipeLabel: "noodles"
+  },
+  {
+    name: "Paloo",
+    description: "Rice with lamb and carrots | Recipe",
+    recipeUrl: "http://ianbek.kg/?p=1210",
+    recipeLabel: "Recipe"
+  }
   ]
 },
 {
@@ -3418,8 +3713,20 @@ export const meals: Meal[] = [
   country: "Laos",
   slug: "meal-92-laos",
   originalPath: "/countries/2015/meal-92-laos",
+  cardImage: "https://farm8.staticflickr.com/7542/16243021195_cce60f4f49.jpg",
   dishes: [
-
+  {
+    name: "Larb gai",
+    description: "Chicken and herb salad | Recipe",
+    recipeUrl: "http://www.splendidtable.org/recipes/chicken-larb-laotion-chicken-and-herb-salad",
+    recipeLabel: "Recipe"
+  },
+  {
+    name: "Khao niao ma muang",
+    description: "Sweetened coconut sticky rice with mango | Recipe",
+    recipeUrl: "http://www.epicurious.com/recipes/food/views/Coconut-Milk-Sticky-Rice-with-Mangoes-233842",
+    recipeLabel: "Recipe"
+  }
   ]
 },
 {
@@ -3427,8 +3734,26 @@ export const meals: Meal[] = [
   country: "Lebanon",
   slug: "meal-93-lebanon",
   originalPath: "/countries/2015/meal-93-lebanon",
+  cardImage: "https://farm9.staticflickr.com/8579/16110440453_16d20cb417.jpg",
   dishes: [
-
+  {
+    name: "Kabees",
+    description: "Pickles | Recipes: turnip, mixed",
+    recipeUrl: "http://www.wander-crush.com/2014/04/13/pickled-turnips/",
+    recipeLabel: "turnip"
+  },
+  {
+    name: "Kibbeh bil sanieh",
+    description: "Bulgur meat casserole | Recipe",
+    recipeUrl: "http://www.rehanadujour.com/2014/05/20/kibbeh-bil-sanieh-baked-kibbeh/",
+    recipeLabel: "Recipe"
+  },
+  {
+    name: "Sfouf",
+    description: "Turmeric-anise yellow cake | Recipe",
+    recipeUrl: "http://chichoskitchen.blogspot.com/2012/04/sfouf-lebanese-yellow-cake.html",
+    recipeLabel: "Recipe"
+  }
   ]
 },
 {
@@ -3436,8 +3761,24 @@ export const meals: Meal[] = [
   country: "Latvia",
   slug: "meal-94-latvia",
   originalPath: "/countries/2015/meal-94-latvia",
+  cardImage: "https://farm9.staticflickr.com/8636/16729557271_e05f9acb48.jpg",
   dishes: [
-
+  {
+    name: "Speķa pīrāgi",
+    description: "Bacon buns | Recipe at end of post"
+  },
+  {
+    name: "Selyodka pod shuboy",
+    description: "Layered herring salad | Recipe",
+    recipeUrl: "http://www.saveur.com/article/Recipes/Selyodka-Pod-Shuboy-Layered-Herring-Salad",
+    recipeLabel: "Recipe"
+  },
+  {
+    name: "Maizes zupa",
+    description: "Rye bread soup dessert | Recipe",
+    recipeUrl: "http://kitchenmouse.rozentali.com/2009/08/maizes-zupa-latvian-bread-soup/",
+    recipeLabel: "Recipe"
+  }
   ]
 },
 {
@@ -3463,8 +3804,32 @@ export const meals: Meal[] = [
   country: "Libya",
   slug: "meal-97-libya",
   originalPath: "/countries/2015/meal-97-libya",
+  cardImage: "https://farm8.staticflickr.com/7637/16554405893_b855c3a840.jpg",
   dishes: [
-
+  {
+    name: "Bazeen",
+    description: "Recipes: Dough and lamb stew; tomato soup",
+    recipeUrl: "http://libyanfood.blogspot.com/2010/08/bazeen.html",
+    recipeLabel: "Dough and lamb stew"
+  },
+  {
+    name: "Makaruna imbaukha",
+    description: "Steamed pasta with pumpkin and raisins | Recipe",
+    recipeUrl: "http://libyanfood.blogspot.com/2010/09/makaruna-imbaukha.html",
+    recipeLabel: "Recipe"
+  },
+  {
+    name: "Mbattan kusha",
+    description: "Potato and ground lamb casserole | Recipe",
+    recipeUrl: "http://libyanfood.blogspot.se/2010/08/mbattan-in-oven-mbattan-kusha.html",
+    recipeLabel: "Recipe"
+  },
+  {
+    name: "Basbousa bil tamr",
+    description: "Semolina cake with date filling | Recipe",
+    recipeUrl: "http://libyanfood.blogspot.com/2011/02/basbousa-with-dates-basbousa-bil-tamr.html",
+    recipeLabel: "Recipe"
+  }
   ]
 },
 {
@@ -3472,8 +3837,26 @@ export const meals: Meal[] = [
   country: "Liechtenstein",
   slug: "meal-98-liechtenstein",
   originalPath: "/countries/2015/meal-98-liechtenstein",
+  cardImage: "https://farm9.staticflickr.com/8813/16554625433_06861c78f0.jpg",
   dishes: [
-
+  {
+    name: "Kaninchengeschnetzeltes",
+    description: "Rabbit in cream sauce | Recipe",
+    recipeUrl: "http://www.celtnet.org.uk/recipes/miscellaneous/fetch-recipe.php?rid=misc-kaninchengeschnetzeltes",
+    recipeLabel: "Recipe"
+  },
+  {
+    name: "Käsknöpfle",
+    description: "Cheesy mini-dumplings | Recipe",
+    recipeUrl: "http://www.tourismus.li/en/gastronomy-wine/gastronomy-restaurants/typical-dishes/Kaesknoepfle.html",
+    recipeLabel: "Recipe"
+  },
+  {
+    name: "Ribel",
+    description: "Milky cornmeal gruel | Recipe",
+    recipeUrl: "http://www.tourismus.li/en/gastronomy-wine/gastronomy-restaurants/typical-dishes/Ribel.html",
+    recipeLabel: "Recipe"
+  }
   ]
 },
 {
@@ -3519,8 +3902,14 @@ export const meals: Meal[] = [
   country: "Luxembourg",
   slug: "meal-100-luxembourg",
   originalPath: "/countries/2015/meal-100-luxembourg",
+  cardImage: "https://images.squarespace-cdn.com/content/v1/5a8a382cf14aa1408b29abde/1519341021172-0ML9Q5SNNJGOUAC0F4WS/IMG_20150502_110939-300x225.jpg",
   dishes: [
-
+  {
+    name: "Judd mat Gaardebounen",
+    description: "Smoked pork collar with fava beans and potatoes | Recipe",
+    recipeUrl: "http://static1.squarespace.com/static/5a8a382cf14aa1408b29abde/5a8f4a57448c8ae2ce4abac1/5a8f4a9a448c8ae2ce4ac3b3/1519340186998/?format=original",
+    recipeLabel: "Recipe"
+  }
   ]
 },
 {
