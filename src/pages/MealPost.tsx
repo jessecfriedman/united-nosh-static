@@ -3,7 +3,7 @@ import Layout from "@/components/Layout";
 import { getMealBySlug } from "@/data/meals";
 
 const MealPost = () => {
-  const { slug } = useParams<{ slug: string }>();
+  const { slug, year } = useParams<{ slug: string; year?: string }>();
   const meal = slug ? getMealBySlug(slug) : undefined;
 
   if (!meal) {
