@@ -1,16 +1,74 @@
-// Update this page (the content is just a fallback if you fail to update the page)
+import { Link } from "react-router-dom";
+import Layout from "@/components/Layout";
+import { getMealsSorted } from "@/data/meals";
 
-// IMPORTANT: Fully REPLACE this with your own code
-const PlaceholderIndex = () => {
-  // PLACEHOLDER: Replace this entire return statement with the user's app.
-  // The inline background color is intentionally not part of the design system.
+const heroImage = "https://images.squarespace-cdn.com/content/v1/5a8a382cf14aa1408b29abde/1522800490205-HSHU963N58J764OTAPS6/39851386631_ccb9ceb619_o.jpg";
+
+const Index = () => {
+  const meals = getMealsSorted();
+
   return (
-    <div className="flex min-h-screen items-center justify-center" style={{ backgroundColor: '#fcfbf8' }}>
-      <img data-lovable-blank-page-placeholder="REMOVE_THIS" src="/placeholder.svg" alt="Your app will live here!" />
-    </div>
+    <Layout>
+      {/* Hero */}
+      <section className="relative">
+        <div className="w-full h-[50vh] sm:h-[60vh] overflow-hidden">
+          <img
+            src={heroImage}
+            alt="United Noshes dinner party"
+            className="w-full h-full object-cover"
+          />
+        </div>
+        <div className="container mx-auto px-4 py-10 sm:py-14 text-center max-w-3xl">
+          <h1 className="text-4xl sm:text-5xl font-bold mb-6 text-foreground">
+            158 Down, 36 to Go!
+          </h1>
+          <p className="text-lg text-muted-foreground leading-relaxed">
+            We're hosting a series of 194 dinner parties for the members of the United Nations, in alphabetical order.
+            We invite guests to our home in Portland to share what they know about that country or to learn through the food.
+            Well over 1,000 guests have donated nearly $50,000 to international relief charities.
+          </p>
+        </div>
+      </section>
+
+      {/* Meal Grid */}
+      <section className="container mx-auto px-4 pb-16">
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+          {meals.map((meal) => (
+            <Link
+              key={meal.slug}
+              to={`/meal/${meal.slug}`}
+              className="group block overflow-hidden rounded-lg border border-border bg-card hover:shadow-lg transition-all duration-300"
+            >
+              {meal.cardImage ? (
+                <div className="aspect-[4/3] overflow-hidden">
+                  <img
+                    src={meal.cardImage}
+                    alt={`Meal ${meal.number}: ${meal.country}`}
+                    className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
+                    loading="lazy"
+                  />
+                </div>
+              ) : (
+                <div className="aspect-[4/3] bg-muted flex items-center justify-center">
+                  <span className="text-4xl text-muted-foreground/40 font-bold">#{meal.number}</span>
+                </div>
+              )}
+              <div className="p-4">
+                <h2 className="text-lg font-semibold text-card-foreground group-hover:text-primary transition-colors">
+                  Meal {meal.number}: {meal.country}
+                </h2>
+                {meal.dishes.length > 0 && (
+                  <p className="text-sm text-muted-foreground mt-1">
+                    {meal.dishes.map(d => d.name).join(" · ")}
+                  </p>
+                )}
+              </div>
+            </Link>
+          ))}
+        </div>
+      </section>
+    </Layout>
   );
 };
-
-const Index = PlaceholderIndex;
 
 export default Index;
