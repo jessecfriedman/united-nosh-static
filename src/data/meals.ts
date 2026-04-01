@@ -953,7 +953,7 @@ export const meals: Meal[] = [
   slug: "week-23-botswana",
   originalPath: "/countries/2012/week-23-botswana",
   dishes: [
-      { name: "Shisanyama / Braai", description: "Barbecue. Shisanyama means \\"burn the meat\\" in Zulu, while Braai is the Afrikaans word for \\"barbecue.\\" Citrus-based marinades including a basic Jamaican jerk and Robertson's Shisanyama spice rub made everything really flavorful." },
+      { name: "Shisanyama / Braai", description: "Barbecue. Shisanyama means 'burn the meat' in Zulu, while Braai is the Afrikaans word for 'barbecue.' Citrus-based marinades including a basic Jamaican jerk and Robertson's Shisanyama spice rub made everything really flavorful." },
       { name: "Moragaraga wa dinama", description: "Pasta casserole with meat. When Ssebbaale threw in a bunch of spices, this seemingly country-agnostic dish really came alive." },
       { name: "Beetroot and cabbage salad", description: "Pretty simple, tasty, and quite nutritious: peeled and shredded beets, boiled a few minutes, mixed with shredded cabbage." },
       { name: "Paletshe", description: "Corn mush. A lot of effort for what's essentially bland starch, but an important staple." },
@@ -3588,7 +3588,7 @@ export const meals: Meal[] = [
       { name: "Fattet hummus", description: "Chickpeas two ways — plain and as hummus — plus yogurt, tahini, pita, olive oil, pine nuts, and parsley. It's like seven-layer dip for Levantine food.", recipeUrl: "http://www.nourition.com/2010/05/28/recipe-hummus-casserole-fattet-hummus/", recipeLabel: "Recipe" },
       { name: "Moutabal", description: "Roasted eggplant dip. What Jordanians call moutabal is what's often called baba ghannoush elsewhere — roasted eggplant, tahini, garlic and lemon juice.", recipeUrl: "http://bennydoro.com/chef/recipes/moutabal-roasted-eggplant-dip/", recipeLabel: "Recipe" },
       { name: "Mukhalal", description: "Pickled turnips. Deep, earthy tones play off the bright crisp of the vinegar, all made cartoonishly pink by beet pieces.", recipeUrl: "http://desertcandy.blogspot.com/2012/11/pauls-pickled-turnips.html", recipeLabel: "Recipe" },
-      { name: "Mansaf", description: "Lamb and rice over flatbread with reconstituted buttermilk sauce. The undisputed National Dish — mansaf means \\"explosion\\" in Arabic. Over 30 pounds of lamb were bought for this feast!", recipeUrl: "http://www.cliffordawright.com/caw/recipes/display/bycountry.php/recipe_id/903/id/5/", recipeLabel: "Recipe" },
+      { name: "Mansaf", description: "Lamb and rice over flatbread with reconstituted buttermilk sauce. The undisputed National Dish — mansaf means 'explosion' in Arabic. Over 30 pounds of lamb were bought for this feast!", recipeUrl: "http://www.cliffordawright.com/caw/recipes/display/bycountry.php/recipe_id/903/id/5/", recipeLabel: "Recipe" },
       { name: "Mudardara", description: "Rice and lentils with caramelized onions. A hearty, inexpensive comfort food.", recipeUrl: "http://www.mamaslebanesekitchen.com/vegetarian/lentils-rice-caramelized-onions-mudardara/", recipeLabel: "Recipe" },
       { name: "Knafeh", description: "Cheese and shredded filo pastry doused in sweet syrup. The runaway success of the night.", recipeUrl: "http://www.tartqueenskitchen.com/?p=1973", recipeLabel: "Recipe" }
     ]
