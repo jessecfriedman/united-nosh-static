@@ -148,9 +148,12 @@ export const meals: Meal[] = [
   slug: "week-4-andorra",
   originalPath: "/countries/2011/week-4-andorra",
   dishes: [
-  {
-    name: "Pa de Pag\u00e8s amb Tom\u00e0quet",
-    description: "I wanted to learn what kind of bread they eat in Andorra, which took me nowhere. So I searched for \"Catalan bread,\" since Andorra shares a language and a culture with Catalonia so I figured that'd be close enough. But, all you get when searching for that is Pa amb Tom\u00e0quet, the famous tomato-rubbed bread. Nice, and yummy, but what do they actually rub that tomato on? A search for [catalan bread -tomato] yielded the answer: Pa de Pag\u00e8s. I was thrilled to learn that it's a sort of sourdough with a \"mother dough\" that can be made overnight, and doesn't rely on spontaneous environmental yeast. (Given our proximity to the Gowanus Canal and a major expressway, I shudder to think of what that would be.) As you can see, the bread turned out quite beautifully, a shocker given that I used the recipe in Spanish and converted all the weights to volume. It didn't get as crunchy on the crust as I'd have liked, but that's probably because I didn't have the wooden banet\u00f3n to bake it in and had to make do with what I had. But who really cares, because once rubbed with garlic and tomato and drizzled with olive oil, it made quite a nice appetizer.",
+      { name: "Pa de Pagès amb Tomàquet", description: "Rustic loaf rubbed with tomato and garlic. The bread turned out quite beautifully, a shocker given that the recipe was in Spanish and all the weights had to be converted to volume.", recipeUrl: "http://petiteboulangerie.blogspot.com/2010/10/pa-de-pages.html", recipeLabel: "Recipe" },
+      { name: "Escudella", description: "A hearty stew loaded with veal bones, black pudding, ham hocks, and plenty of fat and protein — a one-bowl calorie bomb." },
+      { name: "Trinxat", description: "Cabbage and potato pancake. Boil the cabbage and potato into submission, mash them up, fry up a bit of fatty pork, and form a pancake." },
+      { name: "Espinacs amb Panses i Pinyons", description: "Spinach with raisins and pine nuts." },
+      { name: "Coques amb Pinyons", description: "Pine nut pastry." }
+    ] yielded the answer: Pa de Pag\u00e8s. I was thrilled to learn that it's a sort of sourdough with a \"mother dough\" that can be made overnight, and doesn't rely on spontaneous environmental yeast. (Given our proximity to the Gowanus Canal and a major expressway, I shudder to think of what that would be.) As you can see, the bread turned out quite beautifully, a shocker given that I used the recipe in Spanish and converted all the weights to volume. It didn't get as crunchy on the crust as I'd have liked, but that's probably because I didn't have the wooden banet\u00f3n to bake it in and had to make do with what I had. But who really cares, because once rubbed with garlic and tomato and drizzled with olive oil, it made quite a nice appetizer.",
     recipeUrl: "http://petiteboulangerie.blogspot.com/2010/10/pa-de-pages.html",
     recipeLabel: "Rustic loaf rubbed with tomato and garlic"
   },
@@ -977,8 +980,13 @@ export const meals: Meal[] = [
   slug: "week-23-botswana",
   originalPath: "/countries/2012/week-23-botswana",
   dishes: [
-
-  ]
+      { name: "Shisanyama / Braai", description: "Barbecue. Shisanyama means \\"burn the meat\\" in Zulu, while Braai is the Afrikaans word for \\"barbecue.\\" Citrus-based marinades including a basic Jamaican jerk and Robertson's Shisanyama spice rub made everything really flavorful." },
+      { name: "Moragaraga wa dinama", description: "Pasta casserole with meat. When Ssebbaale threw in a bunch of spices, this seemingly country-agnostic dish really came alive." },
+      { name: "Beetroot and cabbage salad", description: "Pretty simple, tasty, and quite nutritious: peeled and shredded beets, boiled a few minutes, mixed with shredded cabbage." },
+      { name: "Paletshe", description: "Corn mush. A lot of effort for what's essentially bland starch, but an important staple." },
+      { name: "Amarula", description: "A cream liqueur from southern Africa." },
+      { name: "Fruit salad with custard", description: "A simple dessert of mixed fruits with custard." }
+    ]
 },
 {
   number: 24,
@@ -1281,13 +1289,13 @@ export const meals: Meal[] = [
   slug: "week-31-cameroon",
   originalPath: "/countries/2012/week-31-cameroon",
   dishes: [
-  {
-    name: "Poulet DG",
-    description: "Chicken for the boss | Recipe in French (and translated)",
-    recipeUrl: "http://www.marmiton.org/recettes/recette_poulet-dg_169643.aspx",
-    recipeLabel: "Recipe in French"
-  }
-  ]
+      { name: "Poulet DG", description: "Chicken for the boss. In French, directeur-général or DG is the equivalent of CEO. This chicken in a richly flavored sauce of curry and vegetables is considered a meal fit for the big shot." },
+      { name: "Fufu", description: "Cassava and corn mush, made with fermented cassava for authentic Cameroonian flavor." },
+      { name: "Koki", description: "Steamed pea cakes." },
+      { name: "Ndolé", description: "Bitter leaf stew, considered by many to be the national dish of Cameroon." },
+      { name: "Missole", description: "Roasted plantains." },
+      { name: "Pepe", description: "Hot pepper sauce." }
+    ]
 },
 {
   number: 32,
@@ -1710,8 +1718,14 @@ export const meals: Meal[] = [
   slug: "meal-42-croatia",
   originalPath: "/countries/2012/meal-42-croatia",
   dishes: [
-
-  ]
+      { name: "Pršut, Paški sir i masline", description: "Prosciutto, Pag cheese and olives. The star was truly the cheese — Paški sir comes from the isle of Pag, where a salty dry wind stresses the pasture grass." },
+      { name: "Pogača", description: "Rich hearth bread. The first bread I've ever made that a friend offered to pay me to bake again.", recipeUrl: "http://easteuropeanfood.about.com/od/breads/r/pogacha.htm", recipeLabel: "Recipe" },
+      { name: "Janjetina ispod peke", description: "Roasted lamb under the bell. Traditionally cooked under a domed metal lid covered in hot coals.", recipeUrl: "http://honestcooking.com/2011/04/29/traditionroasted-lamb-under-the-bell/", recipeLabel: "Recipe" },
+      { name: "Mlinci", description: "Baked flatbread pasta. Dried dough sheets rehydrated with the drippings from roast meat.", recipeUrl: "http://adambalic.typepad.com/the_art_and_mystery_of_fo/2007/04/mlinci_balkan_p.html", recipeLabel: "Recipe" },
+      { name: "Vino i rakije", description: "Wine and fruit brandy." },
+      { name: "Macerated cherries", description: "Fresh cherries macerated in liqueur." },
+      { name: "Apple Strudel", description: "A classic Central European dessert." }
+    ]
 },
 {
   number: 43,
@@ -2559,13 +2573,15 @@ export const meals: Meal[] = [
   slug: "meal-61-finland",
   originalPath: "/countries/2013/meal-61-finland",
   dishes: [
-  {
-    name: "Kesäkeitto",
-    description: "Summer vegetable soup | Recipe",
-    recipeUrl: "http://www.dlc.fi/~marianna/gourmet/summer1.htm",
-    recipeLabel: "Recipe"
-  }
-  ]
+      { name: "Karjalanpiirakka", description: "Karelian pasties. These very practical pies have spread across all of Finland. The crust is a simple rye flour dough, filled with an unsweetened rice pudding.", recipeUrl: "http://cloudberryquark.blogspot.com/2007/03/leftover-tuesday-3-carroty-karelian.html?m=1", recipeLabel: "Recipe" },
+      { name: "Ruisleipä", description: "Sourdough rye bread. Compared to the five-day rye of Estonia, this loaf was a cinch. Definitely one to slather with butter!", recipeUrl: "http://tofufortwo.net/2009/06/08/finnish-rye-bread-2/", recipeLabel: "Recipe" },
+      { name: "Kesäkeitto", description: "Summer vegetable soup. A very light and delicate soup made to highlight the fresh flavors and textures of new vegetables.", recipeUrl: "http://www.dlc.fi/~marianna/gourmet/summer1.htm", recipeLabel: "Recipe" },
+      { name: "Poronkäristys", description: "Sautéed reindeer. The best-known dish from Lapland — just wild mushrooms, beer, and butter, plus several hours of super slow stewing.", recipeUrl: "http://www.realfoodsuomi.com/finnish-beef-or-reindeer-stew/", recipeLabel: "Recipe" },
+      { name: "Sillisalaatti", description: "Herring salad. Pickled herring in a sour cream sauce with mustard and sugar, layered with chopped dill and chive.", recipeUrl: "http://freshfromfinland.com/finnfood/midsummer_herring.php", recipeLabel: "Recipe" },
+      { name: "Varhaisperunat", description: "New potatoes. After a gentle boiling and a very generous dousing in plucked dill — essential for Midsummer.", recipeUrl: "http://www.dlc.fi/~marianna/gourmet/summer5.htm", recipeLabel: "Recipe" },
+      { name: "Viili", description: "Cultured milk. A fermented milk product, very similar to yogurt — just add a dollop to milk, let sit on the counter, and presto!" },
+      { name: "Pulla", description: "Cardamom bread. Probably the richest sweet bread I've ever made — a whole stick of butter! What makes it special is the freshly crushed cardamom.", recipeUrl: "http://allrecipes.com/recipe/finnish-pulla/", recipeLabel: "Recipe" }
+    ]
 },
 {
   number: 62,
@@ -3455,13 +3471,13 @@ export const meals: Meal[] = [
   originalPath: "/countries/2014/meal-80-ireland",
   cardImage: "https://farm6.staticflickr.com/5458/13978121165_29094b163f.jpg",
   dishes: [
-  {
-    name: "Colcannon",
-    description: "Cabbage and mashed potato | Recipe",
-    recipeUrl: "http://www.dochara.com/the-irish/food-recipes/colcannon/",
-    recipeLabel: "Recipe"
-  }
-  ]
+      { name: "Soda bread", description: "Thanks to the Society for the Prevention of Irish Soda Bread, I learned to disregard recipes with raisins and sugar and bake in a cast-iron dutch oven. The brown bread version went very well with Kerrygold butter.", recipeUrl: "http://www.sodabread.info/Recipes/sodabreadrecipes.htm", recipeLabel: "Recipe" },
+      { name: "Curry chips", description: "Fried potatoes smothered in a mild curry sauce — the snack of choice while drinking out on the town in modern Ireland. It's like Irish poutine." },
+      { name: "Boiled bacon", description: "A salt-brined hunk of pork closer to ham than American bacon — the closest thing to a national dish in Ireland." },
+      { name: "Black and white puddings", description: "Both made with oats and spice; white pudding is made with fat and pig bits, while black is made of blood. Both were plenty tasty fried in rendered bacon fat." },
+      { name: "Colcannon", description: "Cabbage and mashed potato. Real comfort food with cream and butter mixed in — a good foil to the salty meat.", recipeUrl: "http://www.dochara.com/the-irish/food-recipes/colcannon/", recipeLabel: "Recipe" },
+      { name: "Porter cake", description: "A dense affair with a whole lot of raisins and a bottle of Guinness. Made from a grandmother's closely guarded recipe." }
+    ]
 },
 {
   number: 81,
@@ -3550,8 +3566,14 @@ export const meals: Meal[] = [
   slug: "meal-84-jamaica",
   originalPath: "/countries/2014/meal-84-jamaica",
   dishes: [
-
-  ]
+      { name: "Planter's Punch", description: "A sweet, tropical refresher. Tropical juices and homemade grenadine hook up with dark rum and a dash of bitters." },
+      { name: "Sorrel", description: "The rich red hibiscus drink — fruity sourness reminiscent of pomegranate. Goes very well with rum." },
+      { name: "Saltfish and ackees", description: "The undisputed national dish — a breakfast food that looks like scrambled eggs but is made from an oily fruit and salty dried fish from Canada.", recipeUrl: "http://www.jehancancook.com/?p=1679", recipeLabel: "Recipe" },
+      { name: "Patties", description: "Flaky, tinged yellow with curry, and traditionally stuffed with an allspice-heavy, moderately spicy ground-beef filling.", recipeUrl: "http://www.jamaicatravelandculture.com/food_and_drink/patties.htm", recipeLabel: "Recipe" },
+      { name: "Jerk chicken", description: "That long marinade, heavy with onions and the classic thyme and allspice, took it to beautiful, spicy, flavorful places.", recipeUrl: "http://www.jamaicatravelandculture.com/food_and_drink/jerk_chicken.htm", recipeLabel: "Recipe" },
+      { name: "Breadfruit", description: "A big, fleshy, surprisingly bread-like fruit roasted whole over fire. Tastes something between a banana and an artichoke." },
+      { name: "Ice creams: Grape-nuts and Mango", description: "Grape-nuts ice cream is one of the most beloved flavors in Jamaica — something about how the malt plays off the sweet and cream is just really delightful." }
+    ]
 },
 {
   number: 85,
@@ -3590,13 +3612,13 @@ export const meals: Meal[] = [
   slug: "meal-86-jordan",
   originalPath: "/countries/2014/meal-86-jordan",
   dishes: [
-  {
-    name: "Knafeh",
-    description: "Take a feta-like cheese out of its salty brine, soak in several changes of water, then simmer to make darn sure all the salt's gone. Tear open a package of shredded filo and fry in ghee until it's crispy. Layer a pan with filo, then that weird cheese, then more filo. Wait, this is dessert? Yup! Because after baking on one side, flipping over, and baking again to ensure even caramelization, you douse the whole thing in a ton of sweet syrup. You know what? This thing was pretty darn awesome, the runaway success of the night. And congrats to Elly, pastry chef for the night, who followed the spirit of the recipe by \"summoning the courage of her convictions\"\u00a0when flipping the trays, beautifully executed. It was a lovely evening, mild by late-July New York standards, and many of us transitioned out to the hostel's lawn, enjoying last nibbles of sweets, including a whole box of dates I'd forgotten about in the rush. After lots of hugs goodbye and a team effort to clean up, we rushed home to pack \u2014 and a week later hit the road to move across the country!",
-    recipeUrl: "http://www.tartqueenskitchen.com/?p=1973",
-    recipeLabel: "Cheese and shredded filo pastry"
-  }
-  ]
+      { name: "Fattet hummus", description: "Chickpeas two ways — plain and as hummus — plus yogurt, tahini, pita, olive oil, pine nuts, and parsley. It's like seven-layer dip for Levantine food.", recipeUrl: "http://www.nourition.com/2010/05/28/recipe-hummus-casserole-fattet-hummus/", recipeLabel: "Recipe" },
+      { name: "Moutabal", description: "Roasted eggplant dip. What Jordanians call moutabal is what's often called baba ghannoush elsewhere — roasted eggplant, tahini, garlic and lemon juice.", recipeUrl: "http://bennydoro.com/chef/recipes/moutabal-roasted-eggplant-dip/", recipeLabel: "Recipe" },
+      { name: "Mukhalal", description: "Pickled turnips. Deep, earthy tones play off the bright crisp of the vinegar, all made cartoonishly pink by beet pieces.", recipeUrl: "http://desertcandy.blogspot.com/2012/11/pauls-pickled-turnips.html", recipeLabel: "Recipe" },
+      { name: "Mansaf", description: "Lamb and rice over flatbread with reconstituted buttermilk sauce. The undisputed National Dish — mansaf means \\"explosion\\" in Arabic. Over 30 pounds of lamb were bought for this feast!", recipeUrl: "http://www.cliffordawright.com/caw/recipes/display/bycountry.php/recipe_id/903/id/5/", recipeLabel: "Recipe" },
+      { name: "Mudardara", description: "Rice and lentils with caramelized onions. A hearty, inexpensive comfort food.", recipeUrl: "http://www.mamaslebanesekitchen.com/vegetarian/lentils-rice-caramelized-onions-mudardara/", recipeLabel: "Recipe" },
+      { name: "Knafeh", description: "Cheese and shredded filo pastry doused in sweet syrup. The runaway success of the night.", recipeUrl: "http://www.tartqueenskitchen.com/?p=1973", recipeLabel: "Recipe" }
+    ]
 },
 {
   number: 87,
@@ -3787,8 +3809,16 @@ export const meals: Meal[] = [
   slug: "meal-95-lesotho",
   originalPath: "/countries/2015/meal-95-lesotho",
   dishes: [
-
-  ]
+      { name: "Motoho", description: "Sour sorghum porridge. Fermented overnight with sourdough starter, it had a slightly sweet and definitely sour whiff of fermentation gone right." },
+      { name: "Morogo", description: "Greens. Cabbage or chard chopped finely, cooked in oil with salt and a Maggi bouillon cube. Quite tasty for how basic it is." },
+      { name: "Tamati", description: "Tomato-carrot stew. Just three ingredients plus oil and salt — onion, carrots, and tomatoes simmered together." },
+      { name: "Dinawa", description: "Beans. Pink beans simmered for a long time with a bouillon cube." },
+      { name: "Lekhotloane", description: "Bashed beef. A brisket boiled then bashed in a mortar and pestle — sounds unpleasant but was delicious.", recipeUrl: "http://www.timeslive.co.za/lifestyle/food/2012/09/11/basotho-bashed-beef", recipeLabel: "Recipe" },
+      { name: "Mokopu", description: "Pumpkin. Kabocha squash, boiled, mashed, with salt." },
+      { name: "Bete", description: "Beets. One ingredient: beets, boiled, cooled, peeled, sliced." },
+      { name: "Gemere", description: "Ginger beer. If you've ever wanted to experiment with home brewing, ginger beer is absolutely the easiest way to start.", recipeUrl: "http://whatsforsupper-juno.blogspot.com/2007/06/old-fashioned-home-made-ginger-beer.html", recipeLabel: "Recipe" },
+      { name: "Jello trifle", description: "A curious dessert that combines Jello and custard with cookies — wonderfully weird." }
+    ]
 },
 {
   number: 96,
@@ -3796,8 +3826,14 @@ export const meals: Meal[] = [
   slug: "meal-96-liberia",
   originalPath: "/countries/2015/meal-96-liberia",
   dishes: [
-
-  ]
+      { name: "Kanyah", description: "Peanut snack. Just peanuts, rice, and sugar — the resulting mix is like slightly wet sand, reminiscent of halva.", recipeUrl: "http://www.congocookbook.com/snack_recipes/kanyah.html", recipeLabel: "Recipe" },
+      { name: "Palm butter", description: "Rich palm nut sauce stew with whatever proteins are available — crab, shrimp, chicken, beef, and smoked turkey.", recipeUrl: "http://www.african-recipes-secrets.com/palm-butter.html", recipeLabel: "Recipe" },
+      { name: "Sweet potato greens", description: "Tasty, nutritious greens in a stew with meats — a fresher, less heavy flavor than the palm butter. The clear crowd favorite!", recipeUrl: "http://www.african-recipes-secrets.com/potato-greens.html", recipeLabel: "Recipe" },
+      { name: "Check rice", description: "Rice with jute (molokhiya), an astonishingly mucilaginous green. Made with parboiled rice.", recipeUrl: "http://www.african-recipes-secrets.com/check-rice.html", recipeLabel: "Recipe" },
+      { name: "Hot fried pepper", description: "An intense condiment with unmistakably West African flavor — the peppers and pungent smoked fish really pack a punch.", recipeUrl: "http://www.african-recipes-secrets.com/fried-pepper.html", recipeLabel: "Recipe" },
+      { name: "Pineapple beer", description: "Not actually beer — an extract made by boiling pineapple and leaving it to sit overnight.", recipeUrl: "http://www.celtnet.org.uk/recipes/miscellaneous/fetch-recipe.php?rid=misc-pineapple-beer", recipeLabel: "Recipe" },
+      { name: "Ricebread", description: "Full of plantains along with broken rice. Rich and hearty, a nice gluten-free option from the American baking tradition that returned freed slaves brought back.", recipeUrl: "http://www.african-recipes-secrets.com/ricebread.html", recipeLabel: "Recipe" }
+    ]
 },
 {
   number: 97,
@@ -3904,13 +3940,11 @@ export const meals: Meal[] = [
   originalPath: "/countries/2015/meal-100-luxembourg",
   cardImage: "https://images.squarespace-cdn.com/content/v1/5a8a382cf14aa1408b29abde/1519341021172-0ML9Q5SNNJGOUAC0F4WS/IMG_20150502_110939-300x225.jpg",
   dishes: [
-  {
-    name: "Judd mat Gaardebounen",
-    description: "Smoked pork collar with fava beans and potatoes | Recipe",
-    recipeUrl: "http://static1.squarespace.com/static/5a8a382cf14aa1408b29abde/5a8f4a57448c8ae2ce4abac1/5a8f4a9a448c8ae2ce4ac3b3/1519340186998/?format=original",
-    recipeLabel: "Recipe"
-  }
-  ]
+      { name: "Wäin", description: "Wine. Luxembourg's wines are similar to those of the adjacent German Mosel and French Alsace — Müller-Thurgau and Auxerrois top the list." },
+      { name: "Bouneschlupp", description: "Green bean soup. Don't be fooled by the simple recipe — you start by sautéing bacon in butter, and end up with one rich, delightful soup.", recipeUrl: "http://www.visitluxembourg.com/en/place/localproducts/bouneschlupp", recipeLabel: "Recipe" },
+      { name: "Judd mat Gaardebounen", description: "Smoked pork collar with fava beans and potatoes. Really three dishes held together by salty, smoky, meaty stock. Luxembourg's national dish is oddly specific but darn good.", recipeLabel: "Recipe" },
+      { name: "Quetschentaart", description: "Plum tart. A quetsch is a damson plum — an extremely simple recipe that turns out just fine with whipped cream.", recipeUrl: "http://anneskitchen.co.uk/wp-content/uploads/2012/10/Quetschentaart.pdf", recipeLabel: "Recipe" }
+    ]
 },
 {
   number: 101,
@@ -5349,166 +5383,6 @@ export const meals: Meal[] = [
     description: "These are the most beloved dessert of southern South America: crumbly cookie sandwiches, filled with something sweet and covered with a dusting of powdered sugar. Dulce de leche is the classic filling, and as you can see above, it\u2019s a lot easier (and less messy) to apply with a squeeze bottle than from the can. One of our guests baked the cookies so I don\u2019t have the recipe, but I made some dulce de membrillo (quince paste) that made for another sort of filling.",
     recipeLabel: "Cookie sandwiches"
   }
-  ]
-},
-{
-  number: 134,
-  country: "Peru",
-  slug: "meal-134-peru",
-  originalPath: "/countries/meal-134-peru",
-  cardImage: "https://images.squarespace-cdn.com/content/v1/5a8a382cf14aa1408b29abde/1523317014753-0IPF0QMT40T79IX0HXLL/25978161488_ff3cce6839_k.jpg",
-  dishes: [
-
-  ]
-},
-{
-  number: 135,
-  country: "Republic of Korea",
-  slug: "meal-135-republic-of-korea",
-  originalPath: "/countries/meal-135-republic-of-korea",
-  cardImage: "https://images.squarespace-cdn.com/content/v1/5a8a382cf14aa1408b29abde/1523855997736-VXNX2QUIQQ5ZN6DF16OQ/27615172938_9e0f287e23_k.jpg",
-  dishes: [
-
-  ]
-},
-{
-  number: 136,
-  country: "Philippines",
-  slug: "meal-136-philippines",
-  originalPath: "/countries/meal-136-philippines",
-  cardImage: "https://images.squarespace-cdn.com/content/v1/5a8a382cf14aa1408b29abde/1523856748612-RMMVANRL5G7LEHWPOV0V/41486482191_3e79e11898_k.jpg",
-  dishes: [
-
-  ]
-},
-{
-  number: 137,
-  country: "Portugal",
-  slug: "meal-137-portugal",
-  originalPath: "/countries/meal-137-portugal",
-  cardImage: "https://images.squarespace-cdn.com/content/v1/5a8a382cf14aa1408b29abde/1523860400779-98SHZC4FQUO3MJ5AHPRN/41444806292_a2d0c00c81_k.jpg",
-  dishes: [
-
-  ]
-},
-{
-  number: 138,
-  country: "Poland",
-  slug: "meal-138-poland",
-  originalPath: "/countries/meal-138-poland",
-  cardImage: "https://images.squarespace-cdn.com/content/v1/5a8a382cf14aa1408b29abde/1525649819813-VRNDU5B4LALB13SLCQBV/40128325460_63fb3533dc_k.jpg",
-  dishes: [
-
-  ]
-},
-{
-  number: 139,
-  country: "Qatar",
-  slug: "meal-139-qatar",
-  originalPath: "/countries/meal-139-qatar",
-  cardImage: "https://images.squarespace-cdn.com/content/v1/5a8a382cf14aa1408b29abde/1527654377550-G1A7HSBLT6XJDUXCRA26/42444420631_bdfedf1a96_k.jpg",
-  dishes: [
-
-  ]
-},
-{
-  number: 140,
-  country: "Republic of Moldova",
-  slug: "meal-140-republic-of-moldova",
-  originalPath: "/countries/meal-140-republic-of-moldova",
-  cardImage: "https://images.squarespace-cdn.com/content/v1/5a8a382cf14aa1408b29abde/1532199350837-FSA7JNJ78TA90J1KASYQ/42617530375_dda10492b7_k.jpg",
-  dishes: [
-
-  ]
-},
-{
-  number: 141,
-  country: "eSwatini",
-  slug: "meal-141-eswatini",
-  originalPath: "/countries/meal-141-eswatini",
-  cardImage: "https://images.squarespace-cdn.com/content/v1/5a8a382cf14aa1408b29abde/1543768766382-DS596CEUNEJTZYYPL4X9/46060729582_1a2d7f0815_k.jpg",
-  dishes: [
-
-  ]
-},
-{
-  number: 142,
-  country: "Romania",
-  slug: "meal-142-romania",
-  originalPath: "/countries/meal-142-romania",
-  cardImage: "https://images.squarespace-cdn.com/content/v1/5a8a382cf14aa1408b29abde/1543769773476-DV4GK03R1HX35Q3U7Y3K/44294423640_82d62961b2_k.jpg",
-  dishes: [
-
-  ]
-},
-{
-  number: 143,
-  country: "Russian Federation",
-  slug: "meal-143-russian-federation",
-  originalPath: "/countries/meal-143-russian-federation",
-  cardImage: "https://images.squarespace-cdn.com/content/v1/5a8a382cf14aa1408b29abde/1543772245741-I9HOOLN0D2PUFQPSTAY4/32239717038_0179bcac00_k.jpg",
-  dishes: [
-
-  ]
-},
-{
-  number: 144,
-  country: "Rwanda",
-  slug: "meal-144-rwanda",
-  originalPath: "/countries/meal-144-rwanda",
-  cardImage: "https://images.squarespace-cdn.com/content/v1/5a8a382cf14aa1408b29abde/1559195809152-OJ9SOVG7O5BDJ6F100QV/IMG_8694.jpg",
-  dishes: [
-
-  ]
-},
-{
-  number: 145,
-  country: "St. Kitts and Nevis",
-  slug: "meal-145-st-kitts-and-nevis",
-  originalPath: "/countries/meal-145-st-kitts-and-nevis",
-  cardImage: "https://images.squarespace-cdn.com/content/v1/5a8a382cf14aa1408b29abde/1564980509949-QM7Y14NV7S1F6C1YYRCA/48459924462_38813a77aa_b.jpg",
-  dishes: [
-
-  ]
-},
-{
-  number: 146,
-  country: "North Macedonia",
-  slug: "meal-146-north-macedonia",
-  originalPath: "/countries/meal-146-north-macedonia",
-  cardImage: "https://images.squarespace-cdn.com/content/v1/5a8a382cf14aa1408b29abde/1564981049166-G68G8I6JUKMJE33R40DW/48459805096_62ab615aec_b.jpg",
-  dishes: [
-
-  ]
-},
-{
-  number: 147,
-  country: "St. Lucia",
-  slug: "meal-147-st-lucia",
-  originalPath: "/countries/meal-147-st-lucia",
-  cardImage: "https://images.squarespace-cdn.com/content/v1/5a8a382cf14aa1408b29abde/1729396800319-WYS3Y4LPP6R8QSHDFIZU/unsplash-image-e1y4IySnZEc.jpg",
-  dishes: [
-
-  ]
-},
-{
-  number: 148,
-  country: "St. Vincent and the Grenadines",
-  slug: "meal-148-st-vincent-grenadines",
-  originalPath: "/countries/meal-148-st-vincent-grenadines",
-  cardImage: "https://images.squarespace-cdn.com/content/v1/5a8a382cf14aa1408b29abde/1729400039734-A8Q6QVD0VZSCTVLJ95I0/Flag_of_Saint_Vincent_and_the_Grenadines.svg.png",
-  dishes: [
-
-  ]
-},
-{
-  number: 149,
-  country: "Samoa",
-  slug: "meal-149-samoa",
-  originalPath: "/countries/meal-149-samoa",
-  cardImage: "https://images.squarespace-cdn.com/content/v1/5a8a382cf14aa1408b29abde/1729463340706-RN87BS9052LR5D60NE9L/unsplash-image-1K52ZwwDLD4.jpg",
-  dishes: [
-
   ]
 },
 ];
