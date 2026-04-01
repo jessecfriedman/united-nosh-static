@@ -79,7 +79,11 @@ const MealPost = () => {
 
         {/* Wrapup */}
         {meal.wrapup && (
-          <p className="text-muted-foreground leading-relaxed mt-8">{meal.wrapup}</p>
+          <div className="text-muted-foreground leading-relaxed mt-8 space-y-4">
+            {meal.wrapup.split('\n\n').map((para, i) => (
+              <p key={i}>{para}</p>
+            ))}
+          </div>
         )}
 
         {/* Images gallery */}
