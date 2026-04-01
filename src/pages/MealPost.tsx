@@ -5,6 +5,7 @@ import { getCountryBySlug } from "@/data/country-meals";
 import { getContentBlocks, ContentBlock } from "@/data/content-blocks";
 import ReactMarkdown from "react-markdown";
 import remarkGfm from "remark-gfm";
+import { assetUrl } from "@/lib/utils";
 
 // Fix missing spaces around markdown links: "word[link](url)word" → "word [link](url) word"
 const fixLinkSpacing = (text: string): string => {
@@ -188,7 +189,7 @@ const MealPost = () => {
           block.type === "image" ? (
             <div key={i} className="my-6 flex justify-center">
               <img
-                src={block.url}
+                src={assetUrl(block.url!)}
                 alt={`${country.name} photo`}
                 className="max-w-full rounded"
                 loading={i < 2 ? "eager" : "lazy"}

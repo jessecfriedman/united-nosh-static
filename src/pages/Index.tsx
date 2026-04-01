@@ -1,6 +1,7 @@
 import { Link } from "react-router-dom";
 import Layout from "@/components/Layout";
 import { getCountriesSorted, getHeroImage } from "@/data/country-meals";
+import { assetUrl } from "@/lib/utils";
 
 const heroImage = "/images/5f40673f1345.jpg";
 
@@ -13,7 +14,7 @@ const Index = () => {
       <section className="relative">
         <div className="w-full h-[50vh] sm:h-[60vh] overflow-hidden">
           <img
-            src={heroImage}
+            src={assetUrl(heroImage)}
             alt="United Noshes dinner party"
             className="w-full h-full object-cover"
           />
@@ -44,7 +45,7 @@ const Index = () => {
                 return hero ? (
                   <div className="aspect-[4/3] overflow-hidden">
                     <img
-                      src={hero}
+                      src={assetUrl(hero)}
                       alt={`Meal ${country.mealNumber}: ${country.name}`}
                       className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
                       loading="lazy"
