@@ -12,7 +12,26 @@ export default defineConfig(({ mode }) => ({
       overlay: false,
     },
   },
-  plugins: [react(), mode === "development" && componentTagger()].filter(Boolean),
+  build: {
+    rollupOptions: {
+      output: {
+        manualChunks: undefined,
+      },
+    },
+  },
+  plugins: [
+    react(),
+    mode === "development" && componentTagger(),
+    {
+      name: "copy-404",
+      closeBundle() {
+        const fs = require("fs");
+        if (fs.existsSync("dist/index.html")) {
+          fs.copyFileSync("dist/index.html", "dist/404.html");
+        }
+      },
+    },
+  ].filter(Boolean),
   resolve: {
     alias: {
       "@": path.resolve(__dirname, "./src"),
