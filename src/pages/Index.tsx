@@ -39,20 +39,23 @@ const Index = () => {
               to={country.originalPath}
               className="group block overflow-hidden rounded-lg border border-border bg-card hover:shadow-lg transition-all duration-300"
             >
-              {country.heroImage ? (
-                <div className="aspect-[4/3] overflow-hidden">
-                  <img
-                    src={country.heroImage}
-                    alt={`Meal ${country.mealNumber}: ${country.name}`}
-                    className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
-                    loading="lazy"
-                  />
-                </div>
-              ) : (
-                <div className="aspect-[4/3] bg-muted flex items-center justify-center">
-                  <span className="text-4xl text-muted-foreground/40 font-bold">#{country.mealNumber}</span>
-                </div>
-              )}
+              {(() => {
+                const hero = getHeroImage(country);
+                return hero ? (
+                  <div className="aspect-[4/3] overflow-hidden">
+                    <img
+                      src={hero}
+                      alt={`Meal ${country.mealNumber}: ${country.name}`}
+                      className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
+                      loading="lazy"
+                    />
+                  </div>
+                ) : (
+                  <div className="aspect-[4/3] bg-muted flex items-center justify-center">
+                    <span className="text-4xl text-muted-foreground/40 font-bold">#{country.mealNumber}</span>
+                  </div>
+                );
+              })()}
               <div className="p-4">
                 <h2 className="text-lg font-semibold text-card-foreground group-hover:text-primary transition-colors">
                   Meal {country.mealNumber}: {country.name}
