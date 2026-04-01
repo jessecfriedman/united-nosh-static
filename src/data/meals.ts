@@ -153,36 +153,9 @@ export const meals: Meal[] = [
       { name: "Trinxat", description: "Cabbage and potato pancake. Boil the cabbage and potato into submission, mash them up, fry up a bit of fatty pork, and form a pancake." },
       { name: "Espinacs amb Panses i Pinyons", description: "Spinach with raisins and pine nuts." },
       { name: "Coques amb Pinyons", description: "Pine nut pastry." }
-    ] yielded the answer: Pa de Pag\u00e8s. I was thrilled to learn that it's a sort of sourdough with a \"mother dough\" that can be made overnight, and doesn't rely on spontaneous environmental yeast. (Given our proximity to the Gowanus Canal and a major expressway, I shudder to think of what that would be.) As you can see, the bread turned out quite beautifully, a shocker given that I used the recipe in Spanish and converted all the weights to volume. It didn't get as crunchy on the crust as I'd have liked, but that's probably because I didn't have the wooden banet\u00f3n to bake it in and had to make do with what I had. But who really cares, because once rubbed with garlic and tomato and drizzled with olive oil, it made quite a nice appetizer.",
-    recipeUrl: "http://petiteboulangerie.blogspot.com/2010/10/pa-de-pages.html",
-    recipeLabel: "Rustic loaf rubbed with tomato and garlic"
+    ]
   },
   {
-    name: "Escudella",
-    description: "How lucky I am to be a few minutes' bike ride from a great butcher, because this recipe put them through their paces. Veal bones? Black pudding? Ham hocks? No problem! In terms of calorie-loading, it's a no-holds-barred stew, with at least four different animals (depending on what went into the sausages) and three grains (or four, if you include beans). But what a lost opportunity for flavor! How I wish I could have roasted the veal bones to bring out their flavor, or drop in a bouquet garni to freshen up the stock. Oh well. It still turned out ok, although all the meat was, strangely, the same color pink. Apparently every church in Andorra cooks up a huge pot of this on some saint's day in January, and gives it out to all comers, so keep that in mind if you're ever in the area.",
-    recipeUrl: "http://www.andorra.ad/en-US/Resources/Pages/ESCUDELLA_DE_PAGeS_O_BARREJADA.aspx",
-    recipeLabel: "Stew"
-  },
-  {
-    name: "Trinxat",
-    description: "I definitely didn't do this one very well, but even still I wonder how much potential it has. Essentially, boil the cabbage and potato into submission, mash 'em up, fry up a bit of fatty pork, and make big ol' pancakes out of them. I've never been good at things that fill a whole pan and require flipping (all my attempts at omelets magically become scrambles toward the end), and as you can see by the mounding mess, this was no exception. I guess the dish was OK, since most of it got eaten, but it could have done with some more spices and maybe an egg.",
-    recipeLabel: "Cabbage and potato pancake | Recipe"
-  },
-  {
-    name: "Espinacs amb Panses i Pinyons",
-    description: "I've enjoyed this dish ever since I first tasted it in Seville. Really easy, and you get a lot of flavor out of just three ingredients. Try it sometime soon, it's a fun alternative to yet another veggie sauteed with garlic.",
-    recipeUrl: "http://www.andorra.ad/en-US/suggestions/Pages/gastronomia_casa.aspx",
-    recipeLabel: "Spinach with raising and pine nuts"
-  },
-  {
-    name: "Coques amb Pinyons",
-    description: "Sugar, butter, eggs, what's not to like? It even looks good! Eh. Maybe I messed it up, maybe I didn't cook it long enough, maybe I messed up the weight conversion on the sugar. I saw so many breathless articles of excitement over this Iberian take on pizza, which is done both sweet and savory, but in the end of the day it was fine but nothing great. Might have the last bit for breakfast. Oh, it was sure nice to have a meal that goes with wine! Andorran wine is either non-existent or not available in the US, so we went for some nice Spanish reds instead. Bierzo is hundreds of miles away from Andorra, but their fruity and deep reds go nicely with a meaty stew. That went along a bit better than our attempt to find Catalan music on Spotify, which was pretty much either brass bands or covers of American/English pop tunes. Thanks to the rain, this was our first indoor meal, which was a bit of a challenge, but thankfully our couch is sectional so we just moved the chaise part out of the way to expand the table. And now we know that for indoor meals, our limit is pretty solid at a total of nine. Next is we head a bit under 4,000 miles south to Angola. Should be quite the contrast!",
-    recipeUrl: "http://www.gastroteca.cat/en/recipes-detail/pine-nuts-coca-pastry/",
-    recipeLabel: "Pine nut pastry"
-  }
-  ]
-},
-{
   number: 5,
   country: "Angola",
   slug: "week-5-angola",
@@ -980,7 +953,7 @@ export const meals: Meal[] = [
   slug: "week-23-botswana",
   originalPath: "/countries/2012/week-23-botswana",
   dishes: [
-      { name: "Shisanyama / Braai", description: "Barbecue. Shisanyama means \\"burn the meat\\" in Zulu, while Braai is the Afrikaans word for \\"barbecue.\\" Citrus-based marinades including a basic Jamaican jerk and Robertson's Shisanyama spice rub made everything really flavorful." },
+      { name: "Shisanyama / Braai", description: "Barbecue. Shisanyama means 'burn the meat' in Zulu, while Braai is the Afrikaans word for 'barbecue.' Citrus-based marinades including a basic Jamaican jerk and Robertson's Shisanyama spice rub made everything really flavorful." },
       { name: "Moragaraga wa dinama", description: "Pasta casserole with meat. When Ssebbaale threw in a bunch of spices, this seemingly country-agnostic dish really came alive." },
       { name: "Beetroot and cabbage salad", description: "Pretty simple, tasty, and quite nutritious: peeled and shredded beets, boiled a few minutes, mixed with shredded cabbage." },
       { name: "Paletshe", description: "Corn mush. A lot of effort for what's essentially bland starch, but an important staple." },
@@ -3615,7 +3588,7 @@ export const meals: Meal[] = [
       { name: "Fattet hummus", description: "Chickpeas two ways — plain and as hummus — plus yogurt, tahini, pita, olive oil, pine nuts, and parsley. It's like seven-layer dip for Levantine food.", recipeUrl: "http://www.nourition.com/2010/05/28/recipe-hummus-casserole-fattet-hummus/", recipeLabel: "Recipe" },
       { name: "Moutabal", description: "Roasted eggplant dip. What Jordanians call moutabal is what's often called baba ghannoush elsewhere — roasted eggplant, tahini, garlic and lemon juice.", recipeUrl: "http://bennydoro.com/chef/recipes/moutabal-roasted-eggplant-dip/", recipeLabel: "Recipe" },
       { name: "Mukhalal", description: "Pickled turnips. Deep, earthy tones play off the bright crisp of the vinegar, all made cartoonishly pink by beet pieces.", recipeUrl: "http://desertcandy.blogspot.com/2012/11/pauls-pickled-turnips.html", recipeLabel: "Recipe" },
-      { name: "Mansaf", description: "Lamb and rice over flatbread with reconstituted buttermilk sauce. The undisputed National Dish — mansaf means \\"explosion\\" in Arabic. Over 30 pounds of lamb were bought for this feast!", recipeUrl: "http://www.cliffordawright.com/caw/recipes/display/bycountry.php/recipe_id/903/id/5/", recipeLabel: "Recipe" },
+      { name: "Mansaf", description: "Lamb and rice over flatbread with reconstituted buttermilk sauce. The undisputed National Dish — mansaf means 'explosion' in Arabic. Over 30 pounds of lamb were bought for this feast!", recipeUrl: "http://www.cliffordawright.com/caw/recipes/display/bycountry.php/recipe_id/903/id/5/", recipeLabel: "Recipe" },
       { name: "Mudardara", description: "Rice and lentils with caramelized onions. A hearty, inexpensive comfort food.", recipeUrl: "http://www.mamaslebanesekitchen.com/vegetarian/lentils-rice-caramelized-onions-mudardara/", recipeLabel: "Recipe" },
       { name: "Knafeh", description: "Cheese and shredded filo pastry doused in sweet syrup. The runaway success of the night.", recipeUrl: "http://www.tartqueenskitchen.com/?p=1973", recipeLabel: "Recipe" }
     ]
