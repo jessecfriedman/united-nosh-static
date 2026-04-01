@@ -1,4 +1,5 @@
 import { CountryMeal } from "@/types/meal";
+import { getContentBlocks } from "@/data/content-blocks";
 
 export const countryMeals: CountryMeal[] = [
   {
@@ -1212,4 +1213,11 @@ export function getCountryBySlug(slug: string): CountryMeal | undefined {
 
 export function getCountriesSorted(): CountryMeal[] {
   return [...countryMeals].sort((a, b) => b.mealNumber - a.mealNumber);
+}
+
+export function getHeroImage(meal: CountryMeal): string | undefined {
+  if (meal.heroImage) return meal.heroImage;
+  const blocks = getContentBlocks(meal.slug);
+  const firstImage = blocks.find((b) => b.type === "image");
+  return firstImage?.url;
 }
