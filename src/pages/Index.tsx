@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 import Layout from "@/components/Layout";
 import { getCountriesSorted, getHeroImage } from "@/data/country-meals";
 
-const heroImage = "https://images.squarespace-cdn.com/content/v1/5a8a382cf14aa1408b29abde/1522800490205-HSHU963N58J764OTAPS6/39851386631_ccb9ceb619_o.jpg";
+const heroImage = "/images/5f40673f1345.jpg";
 
 const Index = () => {
   const countries = getCountriesSorted();
