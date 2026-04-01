@@ -154,26 +154,8 @@ export const meals: Meal[] = [
       { name: "Espinacs amb Panses i Pinyons", description: "Spinach with raisins and pine nuts." },
       { name: "Coques amb Pinyons", description: "Pine nut pastry." }
     ]
-  {
-    name: "Trinxat",
-    description: "I definitely didn't do this one very well, but even still I wonder how much potential it has. Essentially, boil the cabbage and potato into submission, mash 'em up, fry up a bit of fatty pork, and make big ol' pancakes out of them. I've never been good at things that fill a whole pan and require flipping (all my attempts at omelets magically become scrambles toward the end), and as you can see by the mounding mess, this was no exception. I guess the dish was OK, since most of it got eaten, but it could have done with some more spices and maybe an egg.",
-    recipeLabel: "Cabbage and potato pancake | Recipe"
   },
   {
-    name: "Espinacs amb Panses i Pinyons",
-    description: "I've enjoyed this dish ever since I first tasted it in Seville. Really easy, and you get a lot of flavor out of just three ingredients. Try it sometime soon, it's a fun alternative to yet another veggie sauteed with garlic.",
-    recipeUrl: "http://www.andorra.ad/en-US/suggestions/Pages/gastronomia_casa.aspx",
-    recipeLabel: "Spinach with raising and pine nuts"
-  },
-  {
-    name: "Coques amb Pinyons",
-    description: "Sugar, butter, eggs, what's not to like? It even looks good! Eh. Maybe I messed it up, maybe I didn't cook it long enough, maybe I messed up the weight conversion on the sugar. I saw so many breathless articles of excitement over this Iberian take on pizza, which is done both sweet and savory, but in the end of the day it was fine but nothing great. Might have the last bit for breakfast. Oh, it was sure nice to have a meal that goes with wine! Andorran wine is either non-existent or not available in the US, so we went for some nice Spanish reds instead. Bierzo is hundreds of miles away from Andorra, but their fruity and deep reds go nicely with a meaty stew. That went along a bit better than our attempt to find Catalan music on Spotify, which was pretty much either brass bands or covers of American/English pop tunes. Thanks to the rain, this was our first indoor meal, which was a bit of a challenge, but thankfully our couch is sectional so we just moved the chaise part out of the way to expand the table. And now we know that for indoor meals, our limit is pretty solid at a total of nine. Next is we head a bit under 4,000 miles south to Angola. Should be quite the contrast!",
-    recipeUrl: "http://www.gastroteca.cat/en/recipes-detail/pine-nuts-coca-pastry/",
-    recipeLabel: "Pine nut pastry"
-  }
-  ]
-},
-{
   number: 5,
   country: "Angola",
   slug: "week-5-angola",
