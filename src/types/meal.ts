@@ -1,27 +1,37 @@
-export interface Dish {
-  name: string;
-  description: string;
-  recipeUrl?: string;
-  recipeLabel?: string;
+export interface RecipeLink {
+  url: string;
+  label?: string;
 }
 
-export interface Meal {
-  number: number;
-  country: string;
+export interface FoodItem {
+  /** Unique id: countrySlug + index */
+  id: string;
+  countrySlug: string;
+  /** Name in native/original language */
+  nativeName: string;
+  /** English translation if applicable */
+  englishName?: string;
+  /** Narrative text about this dish */
+  description: string;
+  /** One or more recipe links */
+  recipeLinks: RecipeLink[];
+  /** Photo URL for this specific dish */
+  photo?: string;
+}
+
+export interface CountryMeal {
+  name: string;
   slug: string;
-  /** Original Squarespace URL path for redirects */
+  mealNumber: number;
   originalPath: string;
-  /** Card/thumbnail image */
-  cardImage?: string;
-  /** Full-size hero image(s) for the post */
+  /** Hero/card image */
+  heroImage?: string;
+  /** Gallery images */
   images?: string[];
-  /** Intro text before the dishes */
-  intro?: string;
-  /** Wrapup text after the dishes */
-  wrapup?: string;
-  dishes: Dish[];
-  /** Date of the meal (ISO string) */
-  date?: string;
+  /** Intro/preamble text */
+  preamble?: string;
+  /** Closing/postscript text */
+  postscript?: string;
 }
 
 /** All 194 UN member states */
