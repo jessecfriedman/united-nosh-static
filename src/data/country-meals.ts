@@ -1217,9 +1217,7 @@ export function getCountriesSorted(): CountryMeal[] {
 
 export function getHeroImage(meal: CountryMeal): string | undefined {
   if (meal.heroImage) return meal.heroImage;
-  // Fallback: first image from content blocks
-  const { getContentBlocks } = require("@/data/content-blocks");
   const blocks = getContentBlocks(meal.slug);
-  const firstImage = blocks.find((b: any) => b.type === "image");
+  const firstImage = blocks.find((b) => b.type === "image");
   return firstImage?.url;
 }
