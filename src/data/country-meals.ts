@@ -1,4 +1,5 @@
 import { CountryMeal } from "@/types/meal";
+import { getContentBlocks } from "@/data/content-blocks";
 
 export const countryMeals: CountryMeal[] = [
   {
