@@ -43,7 +43,11 @@ const MealPost = () => {
         </h1>
 
         {meal.intro && (
-          <p className="text-muted-foreground leading-relaxed mt-4 mb-8">{meal.intro}</p>
+          <div className="text-muted-foreground leading-relaxed mt-4 mb-8 space-y-4">
+            {meal.intro.split('\n\n').map((para, i) => (
+              <p key={i}>{para}</p>
+            ))}
+          </div>
         )}
 
         {/* Dishes */}
@@ -72,6 +76,15 @@ const MealPost = () => {
             </div>
           ))}
         </div>
+
+        {/* Wrapup */}
+        {meal.wrapup && (
+          <div className="text-muted-foreground leading-relaxed mt-8 space-y-4">
+            {meal.wrapup.split('\n\n').map((para, i) => (
+              <p key={i}>{para}</p>
+            ))}
+          </div>
+        )}
 
         {/* Images gallery */}
         {meal.images && meal.images.length > 0 && (

@@ -6,6 +6,12 @@ export const meals: Meal[] = [
   country: "Afghanistan",
   slug: "week-1-afghanistan",
   originalPath: "/countries/2011/week-1-afghanistan",
+  intro: `By virtue of the alphabet, first up in the culinary romp around the world is Afghanistan!
+
+I had it easy with the research for what to cook, since my good friend Oliver lived in Kabul for two years and is very into food. I took his advice on what to cook just about exactly, merely turning to the internet for the recipes. (Don't think I know anyone with deep experience on Albania, so next week will require some more planning.)
+
+Afghan food turned out to be super good. It's got a lot of spices, especially cardamom, which has a mysteriously floral aroma. But none of the dishes were at all spicy, at least none of the dishes I made.`,
+  wrapup: "For more shots by Laura, check out the Picasa album, including live-action grilling snaps!",
   dishes: [
   {
     name: "Dough",
@@ -44,6 +50,12 @@ export const meals: Meal[] = [
   country: "Albania",
   slug: "week-2-albania",
   originalPath: "/countries/2011/week-2-albania",
+  intro: `A nation's food is quite often a reflection of its geographic and historical circumstances. In Albania's case, it's across the Adriatic from Italy, not far from Greece, and was a part of the Ottoman Empire for centuries. Hence: yogurt, peppers, lamb, and a hell of a lot of olive oil. (See the shopping list, which doesn't include the gallon of olive oil I bought later.) But of course, each country adds its own twist. In the case of Albania, it's egg. Of course, almost every culture makes use of eggs. But I've never seen a cuisine that puts a little bit in almost every dish!
+
+Our guide for the evening was Rudina, a radio producer from UNICEF from the north of Albania. (Thanks also to Elton and Quinn who sent their advice!) We met her through Snezan, the agent who found us our amazing apartment, and his girlfriend Neely. Rudina gave me a bunch of suggestions of what to cook, and the recipes that went with them. Along with the three of them, we had my college roommate Jeff, his girlfriend Elly, another college friend Sarah-Doe, and Laura's coworker Kirsty.
+
+There were six dishes in the meal, four of which were oven-baked and three of which were fried in olive oil. (Huge thanks to Kirsty for helping with chopping, frying, and much more.) For those of you doing the math, that means that one dish was indeed fried and then baked. It required some gymnastics to do it all on the small range, but it all turned out quite well. Most of the dishes came from Rudina directly; she's graciously allowed me to include them at the bottom of this post.`,
+  wrapup: "Cut the meat in five or six pieces. (Note: I used lamb stew meat and it turned out great.) Put it in the baking pan with some olive oil, salt, pepper and bake in miedum heat (I did 350 degrees). Just before the meat is ready, add rice with ½ glass of hot water. Mix the rice into the juices and let it cook. In a bowl mix yogurt, eggs and flour. When rice is done, add the yogurt sauce slowly, stirring it in so it doesn't shock. Put it back in the oven for another 10-15 mins until the top begins to firm up, then remove and serve.",
   dishes: [
   {
     name: "Rakia",
@@ -94,6 +106,14 @@ export const meals: Meal[] = [
   country: "Algeria",
   slug: "week-3-algeria",
   originalPath: "/countries/2011/week-3-algeria",
+  intro: `Another "A" country, another meal with lamb and eggplant. But Algerian food does have a distinguishing aspect: couscous. My obsession for the week was figuring out how to go about finding a couscousière, the specialized two-part pot: a voluptuous lower chamber for the stew, and a upper chamber with perforations on the bottom to allow steam through. Apparently, this is an extremely fuel-efficient method of cooking, since the same fire cooks both the stew and the starch. I ended up buying a couscousière, for far cheaper than what's on offer on Amazon, at a middle eastern supply store on Atlantic Avenue, and strapping it on the bike to take it home, filled with olives and couscous.
+
+Thanks to Amine, an Algerian friend of a friend, I came upon Chef Zadi, who provided not only recipes but also plenty of background and even philosophy about Algerian cuisine.
+
+I cooked a big one since I kind of turned it into a birthday party too! I overestimated, and now there's a ton of leftovers. Hopefully I'll get the hang of the quantity soon. Now, to the food, in the order in which I cooked it. I made the first two the night before.`,
+  wrapup: `We enjoyed the main course outside, but it was too muggy and hot to linger, so we migrated inside to enjoy dessert and enjoy some Algerian music piped through Spotify.  We also enjoyed for the first time what's sure to become a tradition, when Laura marks the evening's country on our scrach-off map.
+
+Taking a break for two weeks, due to travel on both weekends, but we'll be back atcha with Andorra, followed by Angola and Antigua & Barbuda. Any suggestions for any of those three would be most welcome!`,
   dishes: [
   {
     name: "Badhinjan Misharmla",
@@ -147,6 +167,20 @@ export const meals: Meal[] = [
   country: "Andorra",
   slug: "week-4-andorra",
   originalPath: "/countries/2011/week-4-andorra",
+  intro: `Andorra's cuisine is built around the sorts of things that go well in its high mountainous environment: meat and winter-hardy vegetables in stews. In other words, exactly the wrong thing for a humid New York summer. But the weather tried its best to comply: it's been raining sheets all day.
+
+Precious little of neighboring France or Spain's spectacular culinary traditions rubbed off on mountain-ringed Andorra over the centuries. The food is, dare I say it, pretty bland: you won't find any seasoning beyond salt and pepper in these recipes. The stew didn't even have a bay leaf.
+
+Not surprisingly, then, it's little wonder I had a tough time finding good recipes for real Andorran food. My journeys took me to two primary places: Andorra's tourism website, and the sites of others who felt compelled to cook Andorran food, including two others who are doing their own alphabetical gastronomical world joints. So, word up to My Hungry Tum and Global Table Adventure!
+
+What the food lacked in pizzaz, the company made up for in preciousness: our dear friends Jens and Molly, who moved away to Portland last year, were back in town and came to dinner. We also enjoyed the company of Padraig, Sophie, Mike, Kate, and Gina.`,
+  wrapup: `Sugar, butter, eggs, what's not to like? It even looks good! Eh. Maybe I messed it up, maybe I didn't cook it long enough, maybe I messed up the weight conversion on the sugar. I saw so many breathless articles of excitement over this Iberian take on pizza, which is done both sweet and savory, but in the end of the day it was fine but nothing great. Might have the last bit for breakfast.
+
+Oh, it was sure nice to have a meal that goes with wine! Andorran wine is either non-existent or not available in the US, so we went for some nice Spanish reds instead. Bierzo is hundreds of miles away from Andorra, but their fruity and deep reds go nicely with a meaty stew. That went along a bit better than our attempt to find Catalan music on Spotify, which was pretty much either brass bands or covers of American/English pop tunes.
+
+Thanks to the rain, this was our first indoor meal, which was a bit of a challenge, but thankfully our couch is sectional so we just moved the chaise part out of the way to expand the table. And now we know that for indoor meals, our limit is pretty solid at a total of nine.
+
+Next is we head a bit under 4,000 miles south to Angola. Should be quite the contrast!`,
   dishes: [
       { name: "Pa de Pagès amb Tomàquet", description: "Rustic loaf rubbed with tomato and garlic. The bread turned out quite beautifully, a shocker given that the recipe was in Spanish and all the weights had to be converted to volume.", recipeUrl: "http://petiteboulangerie.blogspot.com/2010/10/pa-de-pages.html", recipeLabel: "Recipe" },
       { name: "Escudella", description: "A hearty stew loaded with veal bones, black pudding, ham hocks, and plenty of fat and protein — a one-bowl calorie bomb." },
@@ -160,6 +194,18 @@ export const meals: Meal[] = [
   country: "Angola",
   slug: "week-5-angola",
   originalPath: "/countries/2011/week-5-angola",
+  intro: `What's stewed and tasty and red all over? Angolan food! Just about everything tonight was drenched in highly saturated, boldly colored, and distinctly strong and nutty-tasting red palm oil.
+
+This was the first meal that required venturing out of my normal shopping sphere. I found the red palm oil, palmnut concentrate, and cassava flour for the meal at an African market at Franklin and Fulton, which had very few items I'd ever seen before, but will probably get familiar with over the next few years — given the fact that the ingredients came from Ghana, I wouldn't be surprised if the food all along the West African coast was pretty similar in terms of base ingredients.
+
+Today's guests featured Laura's friends and classmates from school, Iva, Nathan, and Flonia (and her boyfriend Diem), as well as Jessica and Kendal.
+
+So, let's get cooking!`,
+  wrapup: `This one really didn't turn out right. Our thermometer seems to not work (boiling liquid registered at about 180°), so we couldn't judge when it got to the right temperature, and then the recipe had me have the heat too high when I added the yolks so it all curdled. Oh well. It's still kind of yummy when you combine fresh coconut, sugar, and egg yolks. And we all enjoyed it when Nathan, who just came back from six months in Micronesia, schooled us on how to crack a coconut.
+
+Excluding dessert, it was quite a success. Even the vegans had a decent meal of it, since I left the salt fish out of the greens. Angolan music was streaming (which sounds a lot like Brazilian music, not surprising given colonial history), beer and wine was flowing, and some very friendly cats happily nosed around the table.
+
+We're crossing the Atlantic to the Caribbean nation of Antigua and Barbuda next week.`,
   dishes: [
   {
     name: "Muamba de Galinha",
@@ -192,6 +238,12 @@ export const meals: Meal[] = [
   country: "Antigua and Barbuda",
   slug: "week-6-antigua-and-barbuda",
   originalPath: "/countries/2011/week-6-antigua-and-barbuda",
+  intro: `Our first Caribbean country! With so many little islands with a lot of culinary and cultural overlap, I'm trying to pick out what's really distinctive about the cuisine of each.
+
+My prep-work was made really easy this time: I found the recipes for the entire meal on just one page! Big thanks to Cordy for that, especially the photos which helped me make sure I did it right.
+
+This was our first meal on a weeknight, thanks to Irene. Our guest of honor was Ed, better known as the NYC Nomad — for the last year and a half he's been staying in a different neighborhood of New York each week, and this week he's camping in our backyard. Our other guests were Lauren, Cory, Elsa, Jess, and Laura's friend Laura.`,
+  wrapup: "We're off next weekend due to Labor Day travels. The next meal is Argentina — good thing I own a grill.",
   dishes: [
   {
     name: "Ducana",
@@ -221,6 +273,16 @@ export const meals: Meal[] = [
   country: "Argentina",
   slug: "week-7-argentina",
   originalPath: "/countries/2011/week-7-argentina",
+  intro: `It's been said that there's no cuisine in Argentina, only beef. So this week, I did my best to throw together an Argentinean asado, the classic communal barbecue whose tradition began from the gaucho days out on the vast grassy pampas. Accordingly, I felt it imperative to find grass-fed beef, so I schlepped up to the Meat Hook in Williamsburg for the biggest single meat purchase of my life. Thankfully, the rain threatened in the forecast never materialized, so not only was the outdoor cooking not a problem, but we could all hang out on the porch.
+
+Tonight's guests were: Liz (visiting from California), Vicky, Caroline, Ben, Nick, Bex, another Ben, and Gina. The meal is listed in the order served, but I actually had to prepare it in reverse: the dessert took five hours start to finish whereas the sausages cooked in mere minutes.
+
+My research made it clear that the gas grill just wouldn't work. Apparently the asado is all about indirect, slow cooking, with the smoke and the distinctive glow of wood and/or lump charcoal providing the sear and the flavor. Finding the traditional quebracho (from "quebra hacha" or axe-breaker) wood seemed like a fool's errand on short notice, so I did the next best thing and got both firewood and lump charcoal (which is to say, real pieces of tree and not briquets). I built up a fire in a somewhat dilapidated old barbecue that the previous tenants left behind, and waited quite a while for it to build up and die down. Once it was manageable, I piled the wood and charcoal to one side, making a hotter and a cooler side — see how the fire is on the right here.`,
+  wrapup: `Caramelization is one of the most wonderful accidents of science. It took like four hours, with skimming skins of milk and a lot of very slow cooking, to make the golden goop for which Argentina is famous. I paired it with Argentinean gelato, which is a little lighter than most frozen desserts: cream to milk is in a two-to-one ratio whereas normal ice cream is the opposite. The ice cream wasn't quite frozen solid and the dulce de leche was too thin, but nobody seemed to care. Rich milky products with sugar are a sure winner. And in this case, the milk was from (wait for it) grass-fed cows from Milk Thistle Farm, so it was extra delicious.
+
+Oh, and on top of all of this there was plenty of excellent Argentinean wine brought by our guests. Rich and spicy malbec and bonarda grapes balanced the primal meat flavors very well. Next stop next week is all the way over to Armenia -- we're heading back to yogurt-land.
+
+Laura and I agree that this was our favorite meal yet for pure flavor excitement. And although we're shocked there's no leftover meat, we do still have a cup of dulce de leche.`,
   dishes: [
   {
     name: "The grill",
@@ -270,6 +332,9 @@ export const meals: Meal[] = [
   country: "Armenia",
   slug: "week-8-armenia",
   originalPath: "/countries/2011/week-8-armenia",
+  intro: `Armenia has a very long and tough history. The country as it currently stands is a small patch of just a few million people in the south Caucasus, with a diaspora of many million more around the world. As with many diaspora populations, the culinary tradition is a core part of identity, so I was glad to have our friend the nomad, Ed, helping me through it properly.
+
+The meal was quite delicious and a heck of a lot of work, starting with marinating and butter-clarifying the night before. I think the chopped-onion count came to about twelve, and at one point we had four people actively cooking and preparing with oven, wood fire, and gas grill — and miraculously, it came together all pretty much at the same time. Besides Ed as our guest of honor, everyone was a first-timer: Emily and her boyfriend Noel, Ed's friend Colin, and our friends Lisa and Tammy. Despite the arrival of fall weather at precisely 3 PM this Thursday, the weather was clear and still and definitely amenable to eating outside.`,
   dishes: [
   {
     name: "Armenian string cheese",
@@ -331,6 +396,12 @@ export const meals: Meal[] = [
   country: "Australia",
   slug: "week-9-australia",
   originalPath: "/countries/2011/week-9-australia",
+  intro: `While Australia is the furthest country in the world from most of the US, my research made it clear that the cuisine there is quite similar to our own — a Western European base with plenty of influences from immigrants around the world. So it took a little asking around to figure out what I could make that would be an only-in-Australia sort of thing. And this is how I learned about the mad genius of the Aussie burger, with a few other gems thrown in.
+
+Tonight was a mini-reunion of Albania, with Snezan, Neely, Rudina, and Kirsty in attendance. We also had the pleasure of the company of Kirsty's mother (all the way from England) and elementary school teacher (all the way from Alabama), as well as Rudina's boyfriend Adam and my friend Mike. Thank goodness the threat of rain never materialized, because between the crowd and the need to grill, doing this one outside was a must.`,
+  wrapup: `As Mike put it, we'd been expecting that this might be a boring meal, but it turned out to defy that expectation. And I'll definitely keep that prawn marinate recipe in mind for future cooking — I could see it going on other types of fish, or even chicken. Next week takes us to Austria, where they don't do shrimps on barbies. Laura's parents and sister will be our guests of honor!
+
+Combine oats, sifted flour, sugar and coconut. Combine butter and golden syrup stir over a gentle heat until melted. Mix bicarb of soda with boiling water, add to melted butter mixture, stir into dry ingredients. If the mixture appears a little dry just add a little more butter or margarine. Place tablespoonfuls of mixture on lightly greased oven trays: allow room for spreading. Cook in slow oven for 20 minutes. Loosen while warm, then cool on trays.`,
   dishes: [
   {
     name: "Vegemite on toast",
@@ -366,6 +437,10 @@ export const meals: Meal[] = [
   country: "Austria",
   slug: "week-10-austria",
   originalPath: "/countries/2011/week-10-austria",
+  intro: "Laura learned early in our relationship that I'd never seen The Sound of Music. (That's around the same time I learned that she'd never seen Star Wars.) Turns out this musical classic, set in Salzburg, Austria, was the movie of her childhood household, so much so that the two VHSes had worn out. (And now I've seen it, while she still hasn't watched Star Wars. Too bad Tatooine isn't a UN country or that would be a surefire way to obligate her.) Needless to say, with Laura's parents and sister in town, there's no way we could do Austria night without the Von Trapps' dulcet tones.",
+  wrapup: `I'm not positive this is an authentic recipe, but it was sure delicious. Anything involving cream, chocolate, coffee and cinnamon is destined for success.
+
+Perhaps aided by the prior consumption of some lovely Austrian wines, the evening devolved (or evolved?) into a good-old sing-a-long. And now we're just one country away from finishing the A's — Azerbaijan is next week.`,
   dishes: [
   {
     name: "Wiener Schnitzel",
@@ -404,6 +479,24 @@ export const meals: Meal[] = [
   country: "Azerbaijan",
   slug: "week-11-azerbaijan",
   originalPath: "/countries/2011/week-11-azerbaijan",
+  intro: `"Do you have narsharab?" I asked the older gentleman, whose dusty and rambling Middle Eastern grocery shop seems to wither a bit in the shadow of the much busier, more popular, and crowded neighbor across Atlantic Avenue, Sahadi's. "Where are you from?" he responded. "That's not the English name for what you're looking for. Do you speak Persian?"
+
+I'd been emailing with Marsha, our Azeri guest for tonight's meal, who said that narsharab was a must. But somehow I didn't make the connection that that's the same thing as pomegranate molasses, which is kind of like the maple syrup of the Near East: pomegranate juice boiled down to the consistency of, well, molasses. And then it all clicked for me linguistically.
+
+"Nar" means pomegranate in Turkish and, apparently, Azeri. "Sharab," well, I figured it out. I'd read that "sharbet," which has been kind of bastardized in English and other European languages to be a frozen fruit-based dessert, is actually a chilled fruit drink: pour boiling water over something, let it steep for a few hours, strain it, add sugar, chill, drink. I also remembered that "şarap" (the s-with-a-hook is pronounced sh) is the Turkish word for wine. Noticing a similarity? Perhaps even the English word "syrup?" Turns out they all come back to the Arabic word meaning drink, such as "shariba," meaning he drank. Well then! Narsharab: liquid pomegranate.
+
+Appropriately for this discovery, this meal was all about liquids and syrups in various forms. It was also fun and delicious. Our guests were Marsha the Azeri, Julia, Tammy, Robin, and Drew. It was a simply lovely and unseasonably warm and dry evening, so we enjoyed what's likely our last outdoor meal for a good while.
+
+Black tea is considered the national drink of Azerbaijan. We still have plenty of Turkish tea from our trip this summer, and it did the trick just fine. A little dangerous to drink caffeine at night, but what the heck.`,
+  wrapup: `On the other end of the effort/reward ratio, I present this lovely drink. (And no, it's not pee.) So simple, and just delicious. Steep the mint for a few hours, strain, add sugar (thank you Robin for making it "Honest Tea" sweet), enjoy. It went shockingly well with the halva — so maybe all that effort was worth it to allow the sharbat to reveal such a moment of crisp clarity after the spiced frenzy. (Hey linguistics dorks: notice how they use a schwa in their written language!)
+
+Nar | Pomegranate
+
+We took the word "syrup" from the Middle East, but for some reason we had to come up with a four-syllable, hard-to-spell name for a fruit that has a perfectly short and useful name ripe for the borrowing. Anyway, Marsha led us through a post-dinner nar appreciation session deftly separating it and passing out segments, which we all plucked out and crunched and savored.
+
+This meal actually took a lot of work to research, since it seems that most of what I can find on the internet is all copies of other recipes and Wikipedia articles. It's a shame, I'm sure there's a lot of diversity and variety in the cuisine that just hasn't made it online yet. But I'm sure glad that at least this much was up there.
+
+And that is it for the A countries! We're on to the Bahamas next.`,
   dishes: [
   {
     name: "Tea",
@@ -461,6 +554,11 @@ export const meals: Meal[] = [
   country: "The Bahamas",
   slug: "week-12-the-bahamas",
   originalPath: "/countries/2011/week-12-the-bahamas",
+  intro: `The word Bahamas is attributed to the Spanish "baja mar," or under the sea. Accordingly, seafood was a prominent factor in this meal. Amazing we got through eleven meals before cooking fresh treats from the ocean. (Remember, for Antigua and Barbuda, the fish was salt cod.) And by all accounts, the seafood that defines Bahamian cuisine is the conch — pronounced conk.
+
+To find this and other ingredients such as sour orange, I biked up to south Williamsburg and to the inimitable Food Bazaar. Aside from bird peppers and fresh guava, I found everything I needed, and even then I found acceptable substitutes in scotch bonnet peppers and frozen guava paste.
+
+Our guests tonight were Kate and her husband Jason (our bartender for the evening), Dan and Raven, Sarah-Doe, and Alex.`,
   dishes: [
   {
     name: "Old sour |",
@@ -509,6 +607,16 @@ export const meals: Meal[] = [
   country: "Bahrain",
   slug: "week-13-bahrain",
   originalPath: "/countries/2011/week-13-bahrain",
+  intro: `One of the unexpected discoveries of cooking around the world has been learning just how many different ways there are to cook rice, far beyond the basic boil-then-simmer that a rice cooker does.
+
+For example, parboiling, as I've learned, involves cooking it quickly in a rolling boil for a few minutes, until it's soft on the outside but still crunchy on the inside. Then you drain it, and then either put it in another dish or cook it on its own to finish. This Bahraini meal features basmati rice parboiled rice two ways: seasoned and put into a chicken dish, and boiled in caramelized sugar water.
+
+This cuisine also involves a lot of stirring. Stirring whole spices as I toasted them in a pan on the grill outside to prevent the house from getting smoky. Stirring plain sugar until it melted into a caramelly goop. Stirring green coffee to lightly roast it. It's enough to make you stir crazy.
+
+Three of our guests were from my college dorm: Sarah, Sebastian, and Jeff. Also there were Jeff's girlfriend Elly, and Sophie and Henry.`,
+  wrapup: `We sent our guests home with some of that bezar spice mix, but not before press-ganging a few of the into helping us remove the air conditioner, a true admission of the changing seasons.
+
+Next week we head across the Arabian Sea and over the Subcontinent to Bangladesh, yet another place on the sea with a British colonial legacy.`,
   dishes: [
   {
     name: "Sala6a |",
@@ -553,6 +661,18 @@ export const meals: Meal[] = [
   country: "Bangladesh",
   slug: "week-14-bangladesh",
   originalPath: "/countries/2011/week-14-bangladesh",
+  intro: `It's apparently well-known across the Subcontinent that Bengalis take their cooking and eating very seriously. In fact, most Indian restaurants you have eaten at were probably actually run by Bangladeshis. (At the risk of greatly over-simplifying, Bengali refers to both a language and a culture, whose homeland after the partition of 1947 upon Britain's departure was split into the mostly Hindu state of India of West Bengal whose capital is Kolkata; the mostly Muslim eastern portion of Pakistan, which gained independence in 1971, is now called Bangladesh.) Bangladesh is the world's eighth most populated country at around 145 million, and ninth most densely populated, with 2,559 people per square mile. That's almost 31 times more dense than the US.
+
+Straddling the delta of of the great Ganges-Brahmaputra river system, Bangladesh's food features fish and rice as staples. But since several of our vegetarian friends hadn't been able to fully enjoy a Noshes dinner so far, we decided to take advantage of the ample flesh-free options of Bangladeshi cuisine. So at the Bangla Nagar Grocery in Kensington, Brooklyn, which accepts Bangladeshi taka, I steered away from the fish and meat counter, and instead delved whole-heartedly into the vegetable section full of bizarre-looking specimens. I also made sure to try a fish dish at the restaurant next door, which was delicately flavored, moderately spicy, and riddled with seriously dangerous bones.
+
+Our vegetarian contingent tonight featured two classmates from high school I'd not seen in ten years: standup comedian Emily Heller and her friend Sam, as well as Michelle, Zach, Christen, Sean and Sophie. We all diligently ate the meal, most of which was seasoned with judicious dabs of pungent mustard oil and smatterings of the panch phoron (five-spice blend), with our hands.
+
+Rudina, two-time Nosher, just happened to go to Bangladesh recently, so I asked her how they take their tea. Turns out it's milky and very sweet. So that's how we had it, made with loose Bangladeshi tea that I randomly pulled from the shelf. It was tasty and the caffeine is still powering me, a few hours later.`,
+  wrapup: `It blows my mind a bit that it's so easy to make cheese, at least the very basic versions. Boil milk, add citric acid, drain the whey, squeeze it through cheesecloth, and boom, you've got your curds. In this case, one liter of milk yielded sixteen little balls, which I then boiled in clarified sugar water until they puffed up. Imagine if feta cheese were sweet instead of salty, packed in syrup instead of brine. If that sounds good to you, then you'd like this.
+
+Guided by Sean's excellently curated playlists of Bangladeshi DJs and pop music, we then cracked into some store-made sweets that were all variations on the theme of taking dense dough and dousing it in sugar water. Density surrounded and at times inundated by water: cuisine mirrors geography.
+
+We're taking off again next week, and will be returning to the Caribbean with a meal from Barbados on the 20th.`,
   dishes: [
   {
     name: "Shokto",
@@ -579,6 +699,12 @@ export const meals: Meal[] = [
   country: "Barbados",
   slug: "week-15-barbados",
   originalPath: "/countries/2011/week-15-barbados",
+  intro: `Barbados is forever connected to rum — they've been making it there for over three hundred years, probably for nearly as long as it was a British sugar plantation colony. So because given this was our third Caribbean meal, and perhaps because the previous two countries were Muslim, I focused a bit more on the drinking side of things, making two drinks from scratch that are classically Bajan (BAH-zhun, the colloquial term for Barbadian).
+
+Our guests tonight were Elly, her visiting friend Tasha, Alexis, Dan, and Raven. To shop for this meal I took advantage of the unseasonably mild weather to bike out to the southern end of Crown Heights, to a fish store and a produce shop.`,
+  wrapup: `The drinks were flowing, the Rihanna was blasting (did you know she's from Barbados?), and the apartment was warm enough to evoke a Caribbean evening.
+
+Our next stop around the world is Belarus, and we're taking it on the road to San Francisco over Thanksgiving weekend.`,
   dishes: [
   {
     name: "Falernum",
@@ -623,6 +749,9 @@ export const meals: Meal[] = [
   country: "Belarus",
   slug: "week-16-belarus",
   originalPath: "/countries/2011/week-16-belarus",
+  intro: "(Above: Google Translate into Belarussian of, \"Cheers, bitches!\")",
+  wrapup: `1.   Combine honey with water, vanilla, spices, lemon in a large saucepan.  Bring to a boil; cover, simmer 5 minutes.
+2.   Add vodka. Remove from heat.   Serve hot or cooled.`,
   dishes: [
   {
     name: "Rye bread",
@@ -689,6 +818,11 @@ export const meals: Meal[] = [
   country: "Belgium",
   slug: "week-17-belgium",
   originalPath: "/countries/2011/week-17-belgium",
+  intro: `It's been said that Belgium cooks food at French quality in Germanic quantity. This happy duality befits the split nature of this small country: the Flemish of the north speak a dialect of Dutch, the Walloons of the south speak French, and they all eat well. (For the purposes of this post I'll give the menu item names in French, if for no other reason than that I'm a lot more familiar with it than Flemish.)
+
+When I was thinking ahead to Belgium, I figured we'd enjoy good beer with mussels, fries, and waffles. Turns out my assumptions were entirely correct, plus a few additions seasonal to the time of year. Our guest of honor on this delicious journey was Chris, who led us through a beer tasting paired with the meal. We also had on hand Chris' friend and my coworker Caro; another colleague Ginny in town from DC; Lauren and Lauryn who each brought a waffle-maker; and Laura's classmate Cassie. And in absentia, Laura's sister Jen, whose experience from a year and a half in Brussels helped us on the right path.
+
+There's nothing like a Belgian beer: rich, balanced, flavorful, and each one distinctive. As you see, we tried six different ones (albeit one of them, the Maredsous, in the form of stew!), and with Chris's coaching learned a bit about them. The Dupont is in the saison style, with "only" 6.5% alcohol, was developed because workers were getting too drunk on the beer they normally drank (ya know, because water was unsanitary back then). Chimay and Westmalle are brewed by Trappist monks, two of only seven Trappist ales produced — the Chimay is a nice rich color and balanced, and while the Westmalle looks unassuming, it packs a punch of both flavor and alcohol. La Grande Blanche is a wheat beer, and the Lambic is a beer brewed without hops, so its lack of bitterness helps it take very well to the raspberries.`,
   dishes: [
   {
     name: "Bi\u00e8re",
@@ -754,6 +888,14 @@ export const meals: Meal[] = [
   country: "Belize",
   slug: "week-18-belize",
   originalPath: "/countries/2011/week-18-belize",
+  intro: `Belize navidad! In our last feast of the year in Brooklyn, we head to the small yet super-diverse country of Belize. From the creoles in the towns, to the inland Mayans, to the Afro-Caribbean Garifuna in the south, there are several culinary traditions to follow in a country of a third of a million people. So I did my best to incorporate some of all of them, and as I discovered, what ties them all together is coconut milk — four coconuts' worth, in this case.
+
+Our guests were Kirsty, her boyfriend Grant, Elsa, Lisa, and new neighbors Jessica and Alex.
+
+Thanks to John and Monica for the heads-up on this drink which is apparently all over Belize. It's super-simple: equal parts of coconut rum and pineapple juice. It's sweet, it's smooth, it's refreshing. Not hard to see how it got its name. (Note: this is Monica's photo from Belize, we didn't find these bottles here!)`,
+  wrapup: `Apparently this odd name is a Creolization of pone, the word for a basic cornbread from US Mid-Atlantic native tribes. Anyway, this hardly resembles a cornbread, but it is tasty: shredded sweet potatoes (the "sweet" part got left out of the final name too!) with yet more coconut milk, a lot of brown sugar, ginger, and nutmeg. I left out the raisins but it was no worse for wear. In fact, it was quite thick and sticky and pretty yummy.
+
+Thanks to our guests who braved the chilly evening to make it over, and warm wishes for happy holidays to all. The next meal is Bhutan, which we'll enjoy of Laura's hometown of Tacoma. (We're leapfrogging over Benin; we'll get there in January with a friend who did Peace Corps there.)`,
   dishes: [
   {
     name: "Panti ripa",
@@ -790,6 +932,12 @@ export const meals: Meal[] = [
   country: "Bhutan",
   slug: "week-19-bhutan",
   originalPath: "/countries/2011/week-19-bhutan",
+  intro: `The Himalayan kingdom of Bhutan is closer linked culturally, ethnically, and culinarily to Tibet than to India with which it shares most of its border. Given its generally high altitudes, the standard way to cook is with slow simmering over a small fire, with lots of yak butter and cheese for energy in the cold climate. The stovetop is a fine substitute for the fire, but for better or for worse (and, given what I've read, perhaps for better), yak dairy just isn't available in the States.
+
+This was our second West Coast nosh, in rainy Tacoma, Washington, at Laura's parents' place. Happily we were able to find everything we needed (besides yak dairy) in town, even the rare Bhutanese red rice. At the table were Laura's parents Lyall and Eileen, sister Jen, Jen's friend Mike, and Laura's high school friends Ellen and Molly.`,
+  wrapup: `And on to the grand finale that we were all kinda dreading: tea made with butter, cream, and salt. But really, it wasn't all that bad. The butter taste was definitely there (but probably not as much as if it'd been yak butter!), and it would have been more palatable with sugar, but hey.
+
+And with that, we are a tenth of the way through the UN countries! We're now on pace to finish in a bit over five years. And we're having a lot of fun.`,
   dishes: [
   {
     name: "Emma datshi |",
@@ -833,6 +981,18 @@ export const meals: Meal[] = [
   country: "Benin",
   slug: "week-20-benin",
   originalPath: "/countries/2012/week-20-benin",
+  intro: `Benin, on the West African coast next to Nigeria, was formerly known as Dahomey, after a fearsome warrior kingdom that for a few centuries would sell captives to European slave traders. The countless souls passing through on their way to the Americas brought many foods with them, such as yams, okra, and peanuts, and many people from the Caribbean islands where they landed now live in Brooklyn. Thus, due to a long, strange path of history, I didn't have to leave my neighborhood to buy all the food I needed to cook Beninese.
+
+Our guide through the foodways of this sliver of a country was Anna, who did Peace Corps up in the inland north. Also on hand were her husband and Laura's coworker David, along with Russell, Rachel, Christen, Sophie, Cole, and Mila. Happily, we managed to squeeze ten around the table without too much trouble.
+
+All recipes, except for the chicken, came from the Friends of Benin site, especially the Peace Corps Volunteer Cookbook hosted there. Everything was served on a plate together, and eating with hands was heartily encouraged.`,
+  wrapup: `This definitely was the highlight of the meal. Pureed tomatoes lend freshness, peppers give it zing, and peanut butter makes it rich, thick, and tasty. Was awesome slathered over everything.
+
+I tried making a dessert of fried peanut butter, but it totally failed — I really should have started with whole peanuts and blended them myself to separate out the oil, and instead just made burned mushy junk. Fortunately we had some chocolate around to satisfy.
+
+We really dug the music of the béninoise Angélique Kidjo, if you're not familiar do yourself a favor and check her out. She has a shockingly diverse range of musical styles, sings in several languages, and everything is great to listen to.
+
+We're off to New Orleans next weekend (suggestions for where/what to eat welcome!), and when we're back it's an Andean feast from the Plurinational State of Bolivia.`,
   dishes: [
   {
     name: "P\u00e2te rouge |",
@@ -867,6 +1027,14 @@ export const meals: Meal[] = [
   country: "Bolivia",
   slug: "week-21-bolivia",
   originalPath: "/countries/2012/week-21-bolivia",
+  intro: "Laura and I went to Bolivia for part of our honeymoon. It is telling of our unremarkable culinary experience that I can't find any representative photos of the food there, but we did take our favorite photo ever at the Salar de Uyuni, the world's largest salt flat:",
+  wrapup: `Bolivians (where, I'm eager to point out apropos of nothing, the currency is the uncreatively-named yet annoying-to-say-all-five-syllables Boliviano) aren't much for sweets, but Dan gave me the heads-up that Raven's birthday was around the corner so I had to do something. You also might be thinking, "Bolivia? Isn't that where quinoa comes from?" It's true, but in recent years so much of their crop has been exported to fat-walleted countries that this native, highly nutritious grain now costs a lot more than other staples. (I think the only time we ate quinoa when we were there was part of the package lunch out on the salt flats, incidentally.)
+
+Anyway, in homage to this wondergrain, I baked this brownie-like cake the likes of which have probably never actually been seen on un plato boliviano (that's "Bolivian" as an adjective, not the money. See? So confusing). I winged it twice on the recipe: I used King Arthur Flour's Fior di Sicilia in place of half of the vanilla for a luscious orange accent, and since no baking powder measure was given I improvised with a teaspoon and a half and probably should have done a bit more. I thought it was quite nice and finished my piece, but not everyone finished theirs, so maybe the texture was too dense, the orange a bit too strong, or their machismo spent on the main course.
+
+Full disclosure time: King Arthur Flour (whose amazing people I had the pleasure to meet while filming a commercial starring them for Google) sent me the Fior di Sicilia at no cost. (Being a blogger has a few benefits!) I should also point out that the shipment included the 8 inch baking pan which was very nice; the recipe called for a springform pan which I don't have, but due to the corrugation of this square pan, it removed easily.
+
+And that's a wrap! Next week we're back in the Balkans with Bosnia & Herzegovina. If it's anything like Albanian food, I know we're in for a treat.`,
   dishes: [
   {
     name: "Yungue\u00f1o",
@@ -904,6 +1072,14 @@ export const meals: Meal[] = [
   country: "Bosnia and Herzegovina",
   slug: "week-22-bosnia-and-herzegovina",
   originalPath: "/countries/2012/week-22-bosnia-and-herzegovina",
+  intro: `Upon stepping into the EuroMarket at 31st Street and 30th Road in Astoria — and residents of Queens wonder why we make fun of their street naming! — I was assaulted by the smell of smoke and meat, from bins labeled suho meso, which a quick search on my phone confirmed is Bosnian smoked, dried beef. I agonized for several minutes over whether to cram a kilo sack of Bosnian flour into my bag, and decided to go for it, since it was labeled at Type 400, which another search revealed is a soft pastry flour that would make for a better burek. A six-pack of Bosnian beer here, two bottles of Herzegovinan wine and some Croatian plum brandy there, ground meat, homemade clotted cream and sundry other ingredients later, I was laden like a pack mule for my three-train ride home.
+
+We had quite a full table tonight. Many of our guests came from The Moth, Laura's workplace: Brandon brought his roommates Eric and Nicole, David brought his wife Anna (to whom he proposed in Bosnia!), and Aditi put in an appearance before finishing her internship. We also enjoyed the company of Jeff and Elly, as well as Mark who'd recently been to Bosnia's neighbor Macedonia and brought some potent liquor. Very present in absentia were Snezan and Neely, who helped a ton with the menu and shopping suggestions, but couldn't make it tonight.
+
+Big thanks to everyone for schlepping over from Jersey, the Bronx, and Prospect Heights!`,
+  wrapup: `Blessedly, the most distinctive Bosnian dessert doesn't involve pastry or bread. It's baked apples, but the technique is a bit of a twist: you boil the apples first in a light syrup, stuff the apples with egg whites and walnuts, bake them off, and simmer down and sweeten the syrup. Add a dollop of whipped cream, and you've got yourself a treat.
+
+Thanks to our guests for their generous contributions to the World Food Program, which will make for a $220 donation, our biggest yet for a single meal. Next week we're heading 4,800 miles due south to Botswana, whose cuisine has at least one point in common: dry-preserved meat. More on that soon!`,
   dishes: [
   {
     name: "\u0106evapi |",
@@ -952,6 +1128,28 @@ export const meals: Meal[] = [
   country: "Botswana",
   slug: "week-23-botswana",
   originalPath: "/countries/2012/week-23-botswana",
+  intro: `We were super fortunate to have a Botswanan on hand! Ssebbaale, from the north of this large but sparsely populated country in southern Africa,  is a colleague of previous nosher Jessica. Not only did he share recipes before coming — which was very helpful since there's precious little online in the way of Botswanan recipes — but he also brought spices he'd recently picked up back home. And those spices made all the difference in giving the dishes a lovely, exotic flavor.
+
+Our other guests for this novel Saturday meal were Jessica M. and Alex, Sarah-Doe and her friend Carolyn, and Jessica G. and her friends Eli and Nadia.`,
+  wrapup: `Serves about 10 as a side dish, perhaps six as a main course
+
+1 can peas and carrots
+
+1/2 jar marinara sauce (like Prego)
+
+1 medium onion, diced
+
+1 green pepper, diced
+
+3 plum tomatoes, insides scooped then diced
+
+whatever meat appeals: we used 1 lb bratwurst, you could add shrimp too for instance
+
+all manner of spices: in addition to the imported spice mixes we used various chili peppers, thyme, turmeric, etc. Use either garlic powder or fresh garlic.
+
+1/4 lb shredded cheese
+
+Method: Boil spaghetti until it's about two minutes away from done, drain and toss with a bit of oil. Preheat oven to about 375° and have a 9x13 casserole dish ready. Get two frying pans. In one cook the sausage or whatever meat you're using. In the other, start by sauteeing the onion until it starts to soften, then add the pepper, then the tomatoes, marinara sauce, and peas and carrots. As that simmers get creative with spices. About 15 minutes before dinner put everything in the casserole, mix around, and cover with cheese. Bake about 15 minutes, until the cheese melts.`,
   dishes: [
       { name: "Shisanyama / Braai", description: "Barbecue. Shisanyama means 'burn the meat' in Zulu, while Braai is the Afrikaans word for 'barbecue.' Citrus-based marinades including a basic Jamaican jerk and Robertson's Shisanyama spice rub made everything really flavorful." },
       { name: "Moragaraga wa dinama", description: "Pasta casserole with meat. When Ssebbaale threw in a bunch of spices, this seemingly country-agnostic dish really came alive." },
@@ -966,6 +1164,16 @@ export const meals: Meal[] = [
   country: "Brazil",
   slug: "week-24-brazil",
   originalPath: "/countries/2012/week-24-brazil",
+  intro: `Brazil is a hugely diverse country both geographically and demographically. Well, first, it's just huge, ranking #5 for both land area and population. The geography spans from the depths of the Amazon jungle to tropical shores (over 4,500 miles' worth!) to temperate cattle-grazing lands. Its people come from all over, and of course brought their foods with them: Africans brought palm oil and okra, Europeans contributed pastry and cattle, the local lands provide manioc and all manner of fruit. (Also, did you know that São Paulo has the largest Japanese population of any city outside of Japan?) To that end, I did my best to choose a menu incorporating this diversity.
+
+To bring a flavor of the tropics to this cold February weekend, I trundled up to Astoria again, where the Rio Supermarket had every last Brazilian specialty item on my shopping list. At the buffet here, rather than at home, is where I enjoyed feijoada — while it is the favorite for being Brazil's national dish, it didn't fit with my regional-specialties ambition. It wasn't until I was done shopping that I realized this is an entirely gluten-free menu: celiacs take note! Manioc/cassava/tapioca is your friend.
+
+We had quite the media-inclined group around the table. From Laura's MFA IMA program were Cassie (with friend Marian), Nathan (with friend Sophia) and Esy; Andi from UN News and Media, Lisa, and Sophie. Cassie spent a year as a high schooler in Brazil and regaled us with tales, especially of some of the courtship rituals around Carnaval; Lisa has some Brazilian family too.`,
+  wrapup: `If only this flan tasted as good as it looks! The caramel was fine, and also insanely tedious, taking about 40 minutes of careful stirring. The texture was marvelous. But despite my hopes and expectations for cooking with this close relative of cacao, it just tasted weird and not in a good way. Good thing I made two desserts!
+
+All in all, I was a bit disappointed in Brazilian food. Maybe it was my technique, but the only dish that I knowingly messed up turned out really nicely anyway. But the company was fantastic, we shared plenty of stories and laughs.
+
+Next week we're taking off, and after that we're heading over to Brunei Darussalam for a very different angle on what tropical cooking can be!`,
   dishes: [
   {
     name: "Caipirinhas and caipiroshkas",
@@ -1014,6 +1222,16 @@ export const meals: Meal[] = [
   country: "Brunei Darussalam",
   slug: "week-25-brunei-darussalam",
   originalPath: "/countries/2012/week-25-brunei-darussalam",
+  intro: `Hands down, Brunei posed the biggest challenge to date. Partly due to the fact that this small, wealthy, Islamic sultanate is proud of its internationally diverse culinary culture, there's not a ton of info available online about distinctly Bruneian foods. It was an online treasure hunt, with plenty of Google Translate and a few key finds such as an article from a Philippine newspaper, leading me mostly to ethnically Malay recipes that seemed to also be popular in Brunei. Then, finding the ingredients was tough: with the go-to Indonesian place in Chinatown recently closed, I found most of what I needed at Asia Corp and Hong Kong Supermarket, then had to head to Murray Hill for a few last things — and even then a few ingredients, such as fermented durian, proved totally elusive. At least I found most of what I needed, here's some of the loot I picked up:
+
+Tonight's meal was, as Emily puts it, "vegaquarian," so no meat but plenty of fish of various sizes. Our other guests were Kate, Nick, Raven, Eleanor, and Forrest. They were all extremely patient and helpful as I tried to figure out what the heck to make of the various recipes.
+
+Laura also tried out a 50 mm lens for tonight's photography, and we think it turned out pretty well – note the tight focus on a lot of the photos.`,
+  wrapup: `You know you've just had an exotic meal when gelatinous black rice feels like a comforting return to normal food. And it was actually pretty tasty. We sweetened it with palm sugar to what felt like the culturally accurate amount, which is to say about half as sweet as I'd have liked. On top we poured fresh coconut milk, which I made by mushing around shredded coconut in fresh water.
+
+It was a fun crowd, with lively discussions of game shows, competitive nakedness (don't ask!), and much more. And once again, our generous guests helped us make something bigger out of the meal, with another $180 going to the World Food Program.
+
+We're taking off again next week, and then a major shift up to the yogurt and pork of Bulgaria.`,
   dishes: [
   {
     name: "Rebus asam keladi",
@@ -1034,6 +1252,16 @@ export const meals: Meal[] = [
   country: "Bulgaria",
   slug: "week-26-bulgaria",
   originalPath: "/countries/2012/week-26-bulgaria",
+  intro: `Since we took a break last weekend, I thought I'd be smart and get a head start on Bulgarian shopping and get some exercise in the meanwhile. So I hopped on my bike and rode nearly nine miles to Brighton Beach, only to discover that while it's the place to go for Russian, Ukrainian, and even Georgian food, they just don't have Bulgarian there. When I asked for lukanka, a type of dry-cured sausage, the kind lady at a deli said, "Oh, you have to go to Astoria, Queens, that's the only place." So I rode the Q train two stops short the entire distance, and found virtually everything on my shopping list including Bulgarian-style yogurt and, yes, lukanka.
+
+Thanks to this head start, I made both the pickled vegetables and the millet beer well ahead of time. The rest of the dishes were either simple to whip up in advance, or took a long time in the oven — no short-order prep here! So for the first time in 26 meals, I wasn't scurrying when guests arrived. And I was glad to have plenty of time to get to know them, since six were brand new to United Noshes: Melanie, Angad, Phia, Rachael, Noah, and Kara. Kirsty and Jessica, two frequent noshers, rounded out the table.
+
+We should also note that between brandy, beer, and wine, and the rockin' tunes, we had quite a fun Saturday evening.`,
+  wrapup: `Throughout the meal, we enjoyed a variety of Bulgarian music, which pleasantly surprised us with its Middle East-style pop tunes (read up on chalga) and gorgeous choral harmonies. If you have Spotify, it's well worth a listen to the playlist.
+
+Six of our next seven meals are from Africa. We dive into things with Burundi next week!
+
+Photos by Laura Hadden.`,
   dishes: [
   {
     name: "Lukanka, sujuk, kashkaval",
@@ -1101,6 +1329,18 @@ export const meals: Meal[] = [
   country: "Burundi",
   slug: "week-27-burundi",
   originalPath: "/countries/2012/week-27-burundi",
+  intro: `Starting with Burundi, six of the next eight countries alphabetically are African. I suspect I'm going to get to know some of the shop owners up around Franklin and Fulton, which is the best area I've found for the various starches, oils, greens, and other distinctly African ingredients that you just don't find in the supermarket. That said, it's amazing what you can find in supermarkets in Brooklyn, such as goat! But the one thing I couldn't find anywhere was unhulled whole millet or sorghum for making beer, for which the grains have to sprout (a process known as malting) and you can't get grain to sprout if part of it's missing. Oh well.
+
+This was the least expensive meal yet to procure, a reflection of how Burundi's cuisine is based on affordable basics. Yet it was really delicious: the beans and greens and paste all blended so nicely, and plantains are always a tasty treat. All our guests were game for scooping from a communal platter (see photo above!) and eating with their hands: Elly brought Chi, Iva brought Tara, and UChicago alums Jessica, Max, and Sarah. (Please parton the weird facial expression on some of us, we must have been caught on the first half of saying "Burundi!")`,
+  wrapup: `We're starting to get good at making mush or paste or whatever you want to call it. This time the credit for the lion's share of the stirring goes to Max, and then Chi took on the task of plattering it. Out of the various versions of this dish we've had, including yam and corn, I think I like cassava the best.
+
+Hard to believe it took 27 meals for us to fry some plantains! Despite the fact that this is cheap and basic food for millions the world over, I still get really excited by this heavenly food, which really seems like dessert but is magically served with the meal. As I was frying them — in corn oil mixed with palm oil, hence the red color — our guests kept nibbling them off the paper towels , so it took many rounds to build up enough plantains to put on the dish. Then after dinner, we fried up more and turned them into dessert, first by squeezing honey on them, then by breading them in flour and sugar and cocoa. Burundian? Nah. But Burundi isn't much of a place for sweets, apparently, and we had a sweet tooth, so we took matters into our own hands.
+
+Jessica found a great YouTube playlist of Burundi hip-hop, which set the mood for a really fun meal. All that was missing was eating outside, since it was just a bit too chilly to sit on the back porch, where we'd just strung up some lights. Can't wait for our first outdoor meal of the year!
+
+Next week we're off to Cambridge, Massachusetts, where at long last we'll finish off the B's with a meal from Burkina Faso.
+
+Photos by Laura Hadden, who was glad there was no silverware for the meal since it made dishes easier.`,
   dishes: [
   {
     name: "Somb\u00e9",
@@ -1130,6 +1370,16 @@ export const meals: Meal[] = [
   country: "Burkina Faso",
   slug: "week-28-burkina-faso",
   originalPath: "/countries/2012/week-28-burkina-faso",
+  intro: `Our plans took us to Cambridge, MA this weekend, so for the third time, we took United Noshes on the road. This week was Burkina Faso, a landlocked West African former French colony, and I was not terribly confident that we'd find the proper ingredients in the Boston area, given that it's not very easy in New York. But lo and behold, the Tropical Foods market in Roxbury had just about everything, including sumbala seeds and fermented cornflour. Heck, they even had the unhulled millet that eluded me in Brooklyn!
+
+While we were able to enjoy a plentiful and tasty meal from Burkina Faso, that's a privilege that many there are lacking these days, as another drought has hit the Sahel region that stretches along the southern edge of the Sahara. With failed harvests and high food prices, the work of the World Food Program to both provide immediate relief and help mitigate future disasters is so important. With this meal we raised $190; please take a look at this slideshow to see the people whom the WFP helps.
+
+Our gracious hosts were Jesse R. and Clara, and the guests were Otto, Laura G.,  Maya, and Micah. The crowd was quite game for the adventure of eating thick mush and stew with their hands and washing it down with sweetened flower extract.`,
+  wrapup: `It doesn't get much simpler than balls of flour and sugar, leavened with flour, and fried. It's also hard to imagine a more simply satisfying treat. Crisp and golden brown on the outside, soft and spongy on the inside. Yum.
+
+Spotify came through yet again, with more than enough lovely tunes from Ouagadougou and beyond. You may enjoy the playlist Laura made.
+
+And that's a wrap for the B's! These 17 meals took us across five continents, so please check out our Noshies awards for the best, worst, and most notable discoveries from the past several months.`,
   dishes: [
   {
     name: "Bissap",
@@ -1174,6 +1424,16 @@ export const meals: Meal[] = [
   country: "Cambodia",
   slug: "week-29-cambodia",
   originalPath: "/countries/2012/week-29-cambodia",
+  intro: `Having grown up in the Bay Area, I had more than my fair share of many southeast Asian cuisines, including Thai, Vietnamese, even Burmese. But I'd never really encountered Cambodian until this meal. The core ingredients are pretty similar to those of its neighbors, especially the triptych of galangal, kaffir lime leaf and lemongrass. Yet as the Wikipedia page observes, the country is full of wetlands and floodplains, a geography which is reflected in a culinary style where solid and liquid frequently coexist.
+
+We were super fortunate to have two Cambodians on hand, Navin and Melanie, who suggested what to cook and swept in to correct flavors — which involved a lot more fish sauce! — and finish up the presentation. Also attending were Christen, Nikki, J.P, Tennessee and Bill.`,
+  wrapup: `Like much of Southeast Asia, curries swept east from India into Cambodia. This version puts a local twist by adding lemongrass and the like to a yellow curry paste, and the noodles were a good contrast from the rice of the rest of the meal The recipe called for fish but I subbed shrimp just for variety.
+
+Luckily it was a good day for fruit in Chinatown! Up and down Canal Street, vendors were selling beautifully exotic dragonfruit, musta been a shipment that just came in. One website I found accuses them of being the "Wonderbra of fruit" in that they promise so much but deliver so little, but I'll be darned, these were just as subtly tasty as what I had in Vietnam many years ago.
+
+The star of the show was durian, the famously spiky and pungent fruit. Note how Navin used a garden glove to hold it, and after making a few slices from top to bottom, she peeled back the ridiculously sharp skin to reveal pods that look somewhere between raw chicken, half-molten ice cream, and alien larvae. And the taste? Well, the Cambodians enjoyed it, a number of us really didn't like it on first taste, and J.P. ate two of them and still couldn't decide if it was repulsive or alluring.
+
+Now attention turns to Canada, for which we'll be throwing a big party celebrating Laura's birthday. Can't wait to report on poutine and much more!`,
   dishes: [
   {
     name: "Somlor machu kreung ktih sach chrook |",
@@ -1209,6 +1469,10 @@ export const meals: Meal[] = [
   country: "Canada",
   slug: "week-30-canada",
   originalPath: "/countries/2012/week-30-canada",
+  intro: `Laura is Canadian, Monday was her birthday, and we're at the beginning of the C's. That's a recipe for a Canadian blowout party! For eight hours we fried, drank, and sang our way through the Great White North. We went through the better part of twenty pounds of potatoes, five pounds of cheese curds, a gallon of gravy, and every last bottle of wine in the house.
+Let's be honest, this isn't a collection of dishes you'd likely find on a table in Halifax or Edmonton — by and large they eat roughly the same up there as we do down here, perhaps with more ketchup squirted on top. But by dint of history, marketing, and circumstance, there are indeed some dishes that are classically Canuck. Not surprisingly given the universal link between cultural identity and cuisine, many of the dishes come from the French Canadians, who have had a complex identity with and within Canada ever since becoming subjects of the British Crown after the French and Indian War in the eighteenth century.
+
+We had about thirty people come and go throughout the afternoon and evening — including Laura's mom Eileen and sister Jen, who were visiting! It was a lovely day, and our first meal of the year outside. This time we took a break from fundraising for the World Food Program, and instead asked guests to support Laura's fundraising ride in the upcoming Five Boro Bike Tour benefitting CAMFED, an amazing organization that directly supports girls' education in sub-Saharan Africa. Please consider donating!`,
   dishes: [
   {
     name: "Poutine",
@@ -1261,6 +1525,22 @@ export const meals: Meal[] = [
   country: "Cameroon",
   slug: "week-31-cameroon",
   originalPath: "/countries/2012/week-31-cameroon",
+  intro: `For our first Nosh in DC, we teamed up with WFP USA to host the biggest yet, with over 25 people — just about none of whom Laura or I had ever met! — coming to experience a Cameroonean feast meal. It was quite the affair, with a buffet line, speeches before and after, a Q&A with our guests, a slideshow of prior Noshes, and a really powerful video about the amazing work WFP does that we hope to put online soon. Perhaps the most poignant part of the experience was discussing how the foods we were eating relate to work fighting hunger and malnutrition on the ground.
+
+The development team from WFP USA, which advocates and raises money for the UN's World Food Program, were so friendly and accommodating: Barbara gave us free rein of her kitchen and arranged for the common area in her condo, Courtney organized the invitations and logistics, and Keri Kae drummed up interest on Twitter and then chopped and diced vegetables for hours! Speaking of kitchen help, we couldn't have done it without the skills and humor of my friend since high school, Oliver, who put in a good eight hours of shopping and cooking. Can't wait for his reports on the food of the UN's newest member state, South Sudan, where he's going soon for his first tour as a foreign service officer.
+
+As far as the food, Cameroon is blessed with ocean and rich soils, so the food has generally more flavor and variety than many of its inland neighbors. Like most African cuisine, it's cooked in big pots over flames, as opposed to grilling or baking, so the real limitation was stovetop space and the size of the pots we had on hand. Cooking for such a crowd, in a normal-sized kitchen, was definitely a challenge, but thanks to an African market a mere three blocks away, two sous-chefs, some creative transitions between cooking vessels, and a swarm of angels who cleaned up all the mess while the rest of us ate, it all turned out pretty darn well.
+
+It was a pleasure to meet so many great people, and also really amazing that despite the really short notice (the invites went out eight days before the event!), we raised $635, which is enough for a whopping 2,540 meals!`,
+  wrapup: `During the meal, one guest remarked, "Wow, this hot sauce makes me finally feel alive!" If pure, hot zip is what you seek, you will love this recipe with its blow-your-brains-out strength of habanero peppers. We even cut it three times with onions and carrots, and mixed in oil, and it was still quite a blast. But it all got consumed, so, success!
+
+For the next few meals at least, I hope to keep it a bit smaller, since cooking so much is really exhausting. But it was a great experience, and I hope to do it again, in DC and beyond.
+
+In related news, we've update our invite sign-up form to include cities we are likely to be noshing in outside of the New York City area in the near future. If you live in DC, Boston, the Bay Area, or the Pacific Northwest, make sure you join the list to find out when we'll be swinging through your town.
+
+Again, many thanks to our new friends in at WFP USA and DC for your generosity of time and money, and especially Barbara for welcoming us so generously into her home.
+
+Photos by Laura Hadden (except for the one that she's in), who particularly enjoyed reconnecting with old friends from FUP.`,
   dishes: [
       { name: "Poulet DG", description: "Chicken for the boss. In French, directeur-général or DG is the equivalent of CEO. This chicken in a richly flavored sauce of curry and vegetables is considered a meal fit for the big shot." },
       { name: "Fufu", description: "Cassava and corn mush, made with fermented cassava for authentic Cameroonian flavor." },
@@ -1275,6 +1555,20 @@ export const meals: Meal[] = [
   country: "Cape Verde",
   slug: "meal-32-cape-verde",
   originalPath: "/countries/2012/meal-32-cape-verde",
+  intro: `Note: In 2013, the year after we cooked this meal, this country changed its official name in English to Cabo Verde.
+
+For some countries it's tough to nail down which dishes to cook, but Cape Verde, a cluster of islands off the coast of Senegal, offers an unmistakable national dish. The cachupa is a stew based on dried corn and beans, and what goes in beyond that depends on your family history, socioeconomic status, and whether the rains came.
+
+To inventory the sorts of ingredients that typically go in a cachupa is to trace the extent of the Portuguese empire: corn, dry beans, and manioc from South America; plantains from Southeast Asia; kale, cabbage, and sausage from Europe; and yams from Africa. Conveniently enough, the Spanish colonial pantry overlaps substantially, so I was able to find just about all I needed at the strip of Mexican markets on 5th Avenue in Sunset Park. The only ingredient that I was nervous about finding was unground corn with intact germ (e.g., not nitxamalized), and although dozens of searches on Google and a visit to Brooklyn Kitchen didn't turn up anything, I found it in the Goya aisle of the local Met Foods supermarket. You know that song "Jimmy Crack Corn?" Well, this is that sort of corn.
+
+I should also note that the U.S. is home to a long-established Cape Verdean community. Most of them are in New England, the core having made its way here on American whaling ships in the mid-19th century that often picked up crew in Cape Verde.
+
+Tonight's adventuresome guests were Tammy, Raven, Dan, Chrys, Sean, Tennessee, and Lemuel, who brought lots of gorgeous Cape Verdean music — if you like the sounds of classic Brazilian crooners, you're sure to love it too.`,
+  wrapup: `I kept seeing this recipe pop up, so I had to do it. Most recipes implied that you need a fairly unripe papaya, but I couldn't find one so I just made this with a big ol' normally-ripe papaya. We cooked it all throughout dinner, so by the time dessert came around the dish got really red, the sugar got thick and even a bit caramelized, and it was a marvelous topping for the pudim. It's also versatile: we had it on french toast with yogurt for brunch the next day, and it was awesome.
+
+That's it for this little island country. Next weekend we're back on the African mainland, to the heart of it in fact with the Central African Republic. We've been planning the recipes with some pretty knowledgeable sources that we'll tell you all about next time!
+
+Photos by Laura Hadden, who's looking forward to putting papaya jam on everything for the next few weeks.`,
   dishes: [
   {
     name: "Cachupa rica",
@@ -1301,6 +1595,16 @@ export const meals: Meal[] = [
   country: "Central African Republic",
   slug: "meal-33-central-african-republic",
   originalPath: "/countries/2012/meal-33-central-african-republic",
+  intro: `I'd have been pretty clueless about what to cook were it not for a chance introduction to the daughters of the US Ambassador to the Central African Republic. You see, I begin my research for a country's cuisine by searching online, but the Central African Republic certainly wasn't thinking of search-engine optimization when they chose their name, and it's super hard to find info that relates to the country and not to Central Africa generically. But thankfully, through my friend Oliver (sous chef for Cameroon!), I met the Wohlers daughters, and got first-hand advice on what to cook from those who know! This was really handy, because some of the food, like the mangoes and the avocado salad, aren't exactly the sort of things you find recipes for, but are the touches that make for a more representative meal.
+
+We hosted a rare Saturday brunch because Laura and I rode the Five Boro Bike Tour the next day with an early wake-up time. For whatever reason — perhaps the country name that few have heard? — we didn't get many signups off our list, and it was a great opportunity to invite some last-minute guests. On hand were Jessica, Jill, Chrys, Al, Juliet, Barrak, and Kate.
+
+This was the first meal I made with my new African mortar and pestle. Not only does it have a fun design, but having this long-handled and heavy mortar and tall-sided and heavy-bottomed pestle is a big improvement over the wine-bottle-and-bowl method I've used for previous African meals!`,
+  wrapup: `After the Cameroon frying fiasco, I was anticipating a break, but Sophie insisted that these "beignets are sold everywhere, and people love them." Twist my arm! Out came the deep fryer, with a mix of palm and corn oils — latter to save our unaccustomed Western guts from the full onslaught of the, uh, richness of the palm oil. It took a bit of experimenting with the batter recipe. I used plantains since I figure that's what they mean by bananas in that part of the world, but either one would probably be fine. The 100 grams of semolina was not enough to absorb the liquid and made for a very goopy batter that didn't hold together when frying. With perhaps double the amount of semolina, it made for fantastic fritters: a crispy outside redolent with luscious palm oil, and a soft and sweet inside with the lovely flavor of banana and a hint of the nuttiness of semolina.
+
+Thanks to the generosity of our guests, we were able to contribute over $160 for the World Food Program USA this week. The WFP is active in Central African Republic, with plans to serve over 320,000 people there this year.
+
+Big thanks again to the Wohlers sisters, especially Sophie, for the help in figuring out what to cook! Next week we head one country to the north to Chad, where we'll wrap up our string of six African countries in an eight-country stretch. I'll be trying my hand at millet beer, let's see how it goes!`,
   dishes: [
   {
     name: "Boisson au gingembre",
@@ -1342,6 +1646,13 @@ export const meals: Meal[] = [
   country: "Chad",
   slug: "meal-34-chad",
   originalPath: "/countries/2012/meal-34-chad",
+  intro: `Chad spans the three S's of the heart of Africa: the Sahara desert in the north, the arid Sahel in the middle, and the wetter savanna to the south. Or put into culinary terms, this extent is why we see both dates and peanuts factor into this meal.
+
+However, on the heels of the generically-named Central African Republic, Chad's another country that poses some online searching problems, at least in English. To wit, I was looking for advice on cooking the staple grain of that country, but a search for [chad millet] turns up a doctor with that name in Louisiana. Fortunately, French provides a nice opportunity for disambiguation: they spell it Tchad, and as far as I could tell, nobody goes by that name.
+
+Chad's going through a rough time right now: the food crisis in the Sahel has made food scarce and expensive across much of the middle of the country, and unfortunately the World Food Program is predicting a looming humanitarian disaster. They're hoping to help 1.2 million people in Chad alone — now would be an excellent time to consider helping before the situation turns from "extreme" to "famine." Our guests' generous donations tonight, after matching, will enable WFP to provide 1,000 meals.
+
+Tonight's guests included Matt Green, a nosher with a mission: to walk every single street of New York City. Check him out! We also welcomed Matt's friend Jason, Laura's psychogeography professor Rachel and classmates Alex, Grayson, and Gabi, and Bradley and Jenny. Although Chadians are relatively big meat-eaters, we kept this meal pescatarian.`,
   dishes: [
   {
     name: "Karkanji",
@@ -1392,6 +1703,18 @@ export const meals: Meal[] = [
   country: "Chile",
   slug: "meal-35-chile",
   originalPath: "/countries/2012/meal-35-chile",
+  intro: `Chile has gone through a nutritional upheaval in the past half century. Whereas a few decades ago malnourishment was a worry, now their obesity levels are in the same league as the US. With flaky pastries and tasty breads, it's easy to see where the temptation lies.
+
+For this long Memorial Day weekend, we shook things up by heading up to the Catskills. Our friend Sarah-Doe spent much of her childhood in this big, rambling structure, a former grain mill that her family converted into a home and woodworking shop, set between two streams that form part of the headwaters of the Delaware River.
+
+photo by Kirsty Bennett
+
+Given that we were farther from the ocean than just about any point in Chile, and the concerns of transporting fish for hours by car, we decided to pass up Chile's robust seafood opportunities and stick to safer foods. Our friends around the table were Kirsty, Saskia, Adam, Raven, Dan, Sarah-Doe, Michael, and Julia. A huge thanks to all the kitchen help, especially Kirsty for her major efforts particularly on pastry. And of course an enormous abrazo to Sarah-Doe for hosting us all!`,
+  wrapup: `For dessert, we enjoyed what was seems to have been invented by a stoned teenager locked in a patisserie: layers of pie crust with dulce de leche and nuts. Rather than the very tedious, stir-for-many-hours method of making classic Chilean manjar (that's what they call their dulce de leche, which omits the vanilla that the Argentines use), I opted for the much easier and more common method of simmering cans of condensed milk. I cooked the for two hours, and lo and behold they got that brown hue, though they probably could have gone for maybe an hour longer for a richer flavor. But there was plenty of richness from the individually baked layers of pastry dough, in which we used lard instead of butter for extra crispiness. Wow. The only thing better than this cake was the leftovers the next day, when the caramel had soaked about halfway through, leading to a broader spectrum of textures.
+
+This coming weekend we're tackling China, which is shaping up to be quite the adventure!
+
+Photos by Laura Hadden, who's looking forward to more noshing in the countryside.`,
   dishes: [
   {
     name: "Pisco sour",
@@ -1448,6 +1771,16 @@ export const meals: Meal[] = [
   country: "China",
   slug: "meal-36-china",
   originalPath: "/countries/2012/meal-36-china",
+  intro: `When asked over the past year which upcoming meal intimidated me the most, I'd answer "China." The most populated country in the world covers a huge variety of cuisines, virtually uncountable ingredients and cooking techniques, and tremendous extremes: it has 9,100 miles of coastline and also the point on Earth farthest from any ocean. China is a telling example of the imperfection of using the United Nations member list as a proxy for the world's cuisines. But here we are.
+
+Thanks to the thorough consultation and guidance of Chrys Wu, who gave generously of her time and knowledge to compile the menu (and then jumped in to help with the cooking!), I think we did about as well as we could have in a single meal in terms of variety on several dimensions: pork, duck, fish, seafood, tofu; steaming, pan-frying, roasting; rice, wheat, bean noodles; and heck, we even managed to include yogurt. A huge shout-out as well to Oliver, for making the trip from DC to shop and cook and enjoy, and bringing back memories of cooking Chinese food together in high school.
+
+Our other guests were Sam, Jenny, Ben, and Caroline. Thankfully this on-again, off-again rain gave us a respite, and we enjoyed the meal outside — which is a good thing since the house got seriously smoky when we reheated the Peking duck!
+
+Chrys brought over some gorgeous white needle tea. It was just a bit hot out to enjoy the tea warm, so we iced it. Good decision! It was crisp but not too bitter, a nice contrast to the rich flavors we encountered throughout the meal.`,
+  wrapup: `I'll be honest, I'm not a big fan of typical Chinese desserts. So I jumped on the opportunity to acknowledge the Uyghurs of far Western China, and make this dish of yogurt sweetened with honey and lemon juice and thinned with shaved ice. We couldn't find a recipe for durap, only descriptions, so we had to wing it. And I think it was pretty good!
+
+I'm happy to say we ended up with surprisingly few leftovers given the abundance of this feast — our guests were eatin' champs! And now our attention turns to Colombia, where with the bandeja paisa they've managed to create that treasure that's rare and highly appreciated here in Noshlandia: a single dish that incorporates the essence of the country's cuisine. See you next week!`,
   dishes: [
   {
     name: "Hong Kong: Yee mein",
@@ -1474,6 +1807,14 @@ export const meals: Meal[] = [
   country: "Colombia",
   slug: "meal-37-colombia",
   originalPath: "/countries/2012/meal-37-colombia",
+  intro: `With coasts on the Caribbean and Pacific, and a variety of lowlands, highlands, and valleys leading all the way to the Andes, there's plenty of regional variation in much of Colombia, expressed in both in music and food. But unlike for China, where we picked representative dishes from across the country, we took a different approach with a deep dive on a traditional meal from the Paisa Region. That's because the bandeja paisa is a traditional, unitary, and utterly abundant amalgam of a good dozen ingredients, famous across the country and region.
+
+Cooking started the day before, and ended in a frenzy of last-minute prep. Our guests tonight included three out-of-towners: Carla and Kirk from LA, and Kelly from DC. Rounding out the table were Sophie, Kambui, Anna, Elsa, Mal, and Jim.`,
+  wrapup: `The hot chocolate, on the other hand, was a surefire winner. Get bars of chocolate specifically made for the purpose, with a higher sugar content and without milk. Melt in the pan with a bit of milk, then add more milk until it's drinking temperature. Very fortunately, I bought too much chocolate so we'll be having this again soon.
+
+Though we dined outside, throughout the evening we played a big long playlist of Colombian music, which features a ton of variety, from cumbias to Shakira, reggaeton to waltzes. Can't wait for our Jambox to arrive, so we can enjoy more music outside.
+
+This was our last Nosh in Brooklyn for over a month! In two weeks we'll be in the Bay Area for a meal from the islands of Comoros, which are north of Madagascar. That'll be quite the shift!`,
   dishes: [
   {
     name: "Chicharrones",
@@ -1527,6 +1868,12 @@ export const meals: Meal[] = [
   country: "Comoros",
   slug: "meal-38-comoros",
   originalPath: "/countries/2012/meal-38-comoros",
+  intro: `As a small cluster of islands between Madagascar and Mozambique, Comoros offers a cuisine that's about as exotic as you'd imagine. It's situated off of Africa, but heavily influenced by the Arab, Indian, and more recently French culinary histories. This means seafood, stews, coconuts, and lots of spices in combinations that are totally trippy to Western tastebuds!
+
+Huge thanks to Evin, Zoe, and Kayla for hosting us at their beautiful home (and well equipped kitchen!) in Oakland, CA. We had a number of old and new friends in attendance: Scott, Sylvia, Raph, Margaret, Alicia, John, Jessica, Katie, Carrie, Cass, and Graeme. We also enjoyed the company of our youngest nosher to date, Lulu, who was a very brave two year old in trying most of the food!`,
+  wrapup: `As we were finishing up the meal, I just happened to check my phone, and noticed several dozen emails. I'd had the great fortune of being chosen to send an email to The Listserve, a worldwide list of tens of thousands where one member a day gets to send an email, and mine got sent during the meal! It was Laura's great idea to ask people to help us with their own country's meals as we trundle through the alphabet, and the response so far has been phenomenal! From Iceland to Peru to the Philippines, many of our upcoming meals will have the benefit of our new farflung network's contributions.
+
+Next week, we'll be up in Anderson Island, Washington, where we hope to catch our trout for a Costa Rican meal!`,
   dishes: [
   {
     name: "Langouste à la vanille",
@@ -1565,6 +1912,18 @@ export const meals: Meal[] = [
   country: "Costa Rica",
   slug: "meal-39-costa-rica",
   originalPath: "/countries/2012/meal-39-costa-rica",
+  intro: `Our travels have taken us to Laura's parents' place on the shores of beautiful Lake Josephine on Anderson Island, Washington. How lovely to hit our one-year mark of Noshing, and make it 20% of the way through the nations, amongst the pine trees, outdoor, during a break in the rain!
+
+Costa Rican food, as I remember it from visiting there in eighth grade, is very simple and straightforward, with one distinctive aspect: Salsa Lizano. For a Tico, the colloquial name for a Costa Rican, it's just not authentic without this sauce, which is kinda like steak sauce but more vegetable-forward. So I shipped ahead a big bottle from Amazon to make sure we'd have it on hand. With the exception of that and possibly plantains, everything for this meal can be easily found at a normal supermarket.
+
+We had quite a crowd of islanders on hand, plus Laura's parents Eileen and Lyall, sister Jennifer, high school friend Ellen, and  their retired high-school history teacher Mr. Martin:
+
+The Tican meal par excellence is the casado, a single plate with a fixed assortment of inexpensive, delicious, and filling food. Casado means "married," and there are two explanations for the name. One says that the foods are a lovely marriage. The other is that men would wander into a lunch spot and ask to be served a meal as their wife might make them. Take your pick!`,
+  wrapup: `To go with the pudding, Ellen cut up some mangos and a pineapple, and whipped up a delicious drink. So simple and tasty!
+
+There's not a ton of distinctive Costa Rican music, but we did find one gem that really sums up the meal: a song called Rice and Beans! Warning, it's catchy.
+
+Amazing we're a fifth of the way through! Next time we're back to our normal swing of things, with a meal from the Republic of Congo (the one that's across the river from the former Zaire) in Brooklyn. Happy Fourth!`,
   dishes: [
   {
     name: "Gallo pinto",
@@ -1617,6 +1976,16 @@ export const meals: Meal[] = [
   country: "Congo",
   slug: "meal-40-congo",
   originalPath: "/countries/2012/meal-40-congo",
+  intro: `The larger better-known of the two countries named after the Congo River is the Democratic Republic of Congo, the former Zaire and previously a Belgian colony, but that shows up in the D's. This meal is from the north side of the river, the Republic of Congo, the former French colony, sometimes known as Congo-Brazzaville after its capital.
+
+Anyway, as you might imagine, it's a bit tricky to find what's distinctively from this country as opposed to its cross-river sibling, both because they eat similar things and also because the similar name makes it hard to search precisely. But I managed! While this is hardly the first time we've encountered cassava leaves, this preparation takes advantage of Congo's coast and throws in fish. And for the first time we're approaching bush meat! Read on for the tasty details.
+
+The threatened thunderstorms never arrived, and it was just a perfect evening on the deck. It was a really fun crowd, with Melvin, Pegi, Alex, Barrak, Hillary, Dan, Jessica, Beni, and Barmey trading stories for hours.`,
+  wrapup: `A real Congolese meal would probably end in cut fruit, if anything. But I was itching to make a frozen delight, and had the ingredients on hand, so I made this sorbet. I only had two mangoes rather than the five the recipe calls for, and I tripled the ginger, added an extra lime's worth of zest, and put in some sugar water to compensate. All told, the original recipe is probably more of a crowd-pleaser, but if you like ginger and aren't afraid of bitter, try it my way! Oh, and those red things are pieces of papaya bathed in lime juice.
+
+We're heading around the Gulf of Guinea up to Côte D'Ivoire for our next meal. Joining us for the rest of our journey is our sweet new dog Emmylou, a border collie mix who just joined our family on Friday!
+
+Photos by Laura Hadden, who's looking forward to Emmylou's help eating table scraps.`,
   dishes: [
   {
     name: "Cailles grill\u00e9es au piment et au gingembre",
@@ -1648,6 +2017,16 @@ export const meals: Meal[] = [
   country: "C\u00f4te d'Ivoire",
   slug: "meal-41-cote-divoire",
   originalPath: "/countries/2012/meal-41-cote-divoire",
+  intro: `Am I getting better at cooking African food, or is Ivorian cuisine just that good? Probably more the latter, but still, this was probably our best sub-Saharan meal yet. The flavors were so well-balanced, the spice delightful and not overwhelming, and the textures pleasant. What's more, with the exception of a few ingredients that you could probably cleverly work your way around, you can find these ingredients in a standard Western supermarket, so if you've been looking to try cooking African food, this is a good start.
+
+Other than the New World staples like cassava and chilies which have become so common over Africa that most people probably don't know they were brought there, this meal shows essentially no European influence. Jessica, who lived in Côte D'Ivoire during high school, notes that although Ivorians are the world leaders in cacao production and also grow a lot of coffee, they consume almost none of either.
+
+In contrast to the day before which was gross and rainy, we were blessed with amazing evening weather. Around the table were Jessica, Anthony, Miriam, Flonia, Natalie, Diana, Anna, and David.`,
+  wrapup: `Apparently dessert isn't much of a thing, so I cut up some ripe mango, and we passed the bowl around as we ate with dainty cocktail forks.
+
+We're taking the next week off to celebrate our third wedding anniversary at the Newport Folk Festival, and when we're back it's Croatia!
+
+Photos by Laura Hadden, who is really enjoying experiencing the wide variety of African cuisine.`,
   dishes: [
   {
     name: "Tilapia brais\u00e9\u00a0|",
@@ -1690,6 +2069,27 @@ export const meals: Meal[] = [
   country: "Croatia",
   slug: "meal-42-croatia",
   originalPath: "/countries/2012/meal-42-croatia",
+  intro: `Thanks to its unique location, Croatia straddles several opposing forces of history and geography, and of course this is reflected in the food. It features a unique shape, a comically long and thin Mediterranean coastline with a big bulb at the north stretching inland toward the heart of the Balkans. Parts or all of it have been subject in turn to Venetian, Ottoman and Austro-Hungarian empires, which have lent such influences as pasta, lamb, and strudel. And of course it's a matter of geography, with the Adriatic providing for seafood, citrus, olives and other Mediterranean abundance, and the inland favoring heartier, roasted affairs. And through it all, the Croatians have very much enjoyed their drink, taking advantage of abundant  fruit-growing climates to make marvelous wines and all manner of brandies.
+
+Since a storm was blowing through we had to eat indoors, which was more than a bit warm what with the oven running pretty much all afternoon and evening. (Too bad 'cause it would have been fun to make the lamb in a "bell" on the barbecue as suggested.) Our guests were Colin, Kirsty, Sophie, Luisa, Christen, Sam, and Eleanor.`,
+  wrapup: `This recipe is one of our family’s most highly treasured, since it was made often by my grandmother. Strudel displays the influence of the Austrian Empire on
+Croatia. Traditionally, the dough for this strudel is homemade—an eggy, elastic dough that is gradually stretched out on top of a white tablecloth until it covers the entire surface of a dining table about four feet across, and is translucent. This takes time. I did it once with my mother, and the results were worth it. On every other occasion I have made strudel, however, I have used packaged filo dough, which works well. This is my grandmother’s recipe, and the results are light, flavorful, exquisite when served at room temperature:
+
+1 lb. filo dough
+4 cups thinly sliced apples—my mom wrote in her copy of the recipe that you can use
+almost any kind—she recommends Granny Smith
+1 cup sugar
+½ cup raising—I like golden
+½ cup toasted bread crumbs
+1 tsp. cinnamon
+½ tsp. nutmeg
+lemon zest—as much as you like (it is a very good addition)
+1 cup of chopped almonds or walnuts—we prefer walnuts
+1 small table cloth or large tea towel
+
+Preheat oven to 350 degrees. Melt butter and keep warm. Mix apples, raisins, lemon zest, nuts, cinnamon and nutneg. Remove 3 sheets of filo dough, one at a time. Cover remaining filo with a damp cloth. Place one dough square on the table cloth, being careful not to break or introduce holes.. Brush butter over the surface and sprinkle with bread crumbs. Repeat with the other 2 sheets, arranging exactly on top of the previous sheet.
+
+Take one cup of fruit mixture and arrange evenly along the width of and edge of the stacked dough squares nearest you, to within 2 inches of each end. Raise one end of the cloth, causing the dough to roll up and over the fruit. Continue raising the cloth, causing the dough to foll over and around the fruit, jelly-roll fashion. When a complete roll is achieved, crimp the ends of the roll to prevent the fruit from falling out. Using the cloth to support the roll during transfer, place it on a greased cookie sheet. (Note: When I make this I use Silpat silicone baking sheet liners, which work beautifully. The strudel browns and nothing sticks.) Cover the roll with a damp towel. Repeat process. About 4 rolls will be created. Remove the damp cloth, bruch the outsides of rolls with melted butter, and bak for 20 to 30 minutes or until golden brown. It is best not to overcook. Let cool until the strudel can be more easily handled. It is best eaten freshly baked but may be frozen for a short period prior to serving. On my copy of the recipe I noted a variation I created when I made the strudel in December 2010: Add diced dried apricots to the apples: steep the apricots and golden raisins in a little warmed limoncello, then add everything to the apple mixture.`,
   dishes: [
       { name: "Pršut, Paški sir i masline", description: "Prosciutto, Pag cheese and olives. The star was truly the cheese — Paški sir comes from the isle of Pag, where a salty dry wind stresses the pasture grass." },
       { name: "Pogača", description: "Rich hearth bread. The first bread I've ever made that a friend offered to pay me to bake again.", recipeUrl: "http://easteuropeanfood.about.com/od/breads/r/pogacha.htm", recipeLabel: "Recipe" },
@@ -1705,6 +2105,13 @@ export const meals: Meal[] = [
   country: "DPR Korea",
   slug: "meal-43-dpr-korea",
   originalPath: "/countries/2012/meal-43-dpr-korea",
+  intro: `Nothing about making a North Korean meal is easy. First of all, it's even hard to find someone from North Korea to talk to: estimates say that only 14,000 people have managed to escape the totalitarian state in the 59 years since the end of the Korean War, and there's virtually zero Internet access within the country. Secondly, except for a particular noodle dish, most (South) Koreans aren't really aware of which of the foods they eat originated across the DMZ. And thirdly, when you search for "North Korean food," you tend to find information about famine and international relations, not recipes. Needless to say, this meal is a feast of an abundance that probably only a privileged few would ever enjoy in North Korea.
+
+With help and research from my officemate Soo Young, whose grandfather hailed from the north of Korea, and some clutch advice from my Korean foodie friend Monica, I managed to cobble together a menu. But that's not all...now to make the darn meal! I made the kim chi the week before, and the beef broth a few days before. We took a trip all the way to the H-Mart in Flushing, Queens on Saturday for ingredients, I spent most of Sunday afternoon prepping, and then Soo Young and I spent the evening frying, folding, steaming, and cooling. I've never seen so many prep bowls used in one meal!
+
+Before we continue, a note on the meal order. You may be wondering, "North Korea? But you just cooked Croatia, how's that alphabetical?" Well, we go by the strict alphabetical order of this UN member list, and the official name is Democratic People's Republic of Korea. Yes, we have three more C's to go, but for a variety of reasons we have to do those later.
+
+Along with Soo Young, we had Lauren, Padraig, Jens, Melanie, Angad, Michele, and Rachel — she's the one with the headphones and microphone, recording for an upcoming radio segment!`,
   dishes: [
   {
     name: "Bindaetteok",
@@ -1750,6 +2157,16 @@ export const meals: Meal[] = [
   country: "Cuba",
   slug: "meal-44-cuba",
   originalPath: "/countries/2012/meal-44-cuba",
+  intro: `A friend who's been to Cuba suggested that "for many Cubans, food at the moment is state-issued ham sandwiches, which you could approximate with some layers of wet cardboard standing in for bread, and finely shaved erasers for the ham, all encased in a blister pack of clear cellophane." Our guest Tennessee reported that by far the most disgusting food she's had in her life was "street pizza" in Havana, during her time as a student there.
+
+Fortunately, we were able to lean instead on the culinary traditions of families who've left Cuba. In fact, the structure of the meal was suggested by my colleague Wendy, who's from a Cuban family in South Florida. (Note the distinct lack of vegetables. Apparently this is very authentic.) Our guest Alex agreed that this food reminded him of what his Cuban mom makes.
+
+Fortunately, we didn't have to contend with rationing, so this turned into quite the feast. The five mile bike ride back from the Food Bazaar supermarket was quite the haul, with a nine-pound pork shoulder and a three-liter jug of olive oil anchoring my saddlebags. Like I imagine many things in Cuba to be, the preparation was long and slow, folks trickled in as the smell of slowly barbecuing pork roasted through the house, and the payoff was lovely. Our guests were Sam, Beni, Nathalia, Ian, Alex, Tennessee, Kirsten, and Demián.`,
+  wrapup: `It shouldn't surprise you that the Cuban music was top-notch, and thanks to our guests who'd been to Havana and beyond, we heard several stories of life in a country so close yet so far, such as the tradition of pouring a little splash on the ground from a newly-opened bottle for los santos.
+
+Next, we're heading to the hills for the Labor Day weekend, where we'll do our Czech Republic meal!
+
+Photos by Laura Hadden, whose love for Sam's mojitos knows no bounds.`,
   dishes: [
   {
     name: "Cocteles",
@@ -1799,6 +2216,11 @@ export const meals: Meal[] = [
   country: "Czech Republic",
   slug: "meal-45-czech-republic",
   originalPath: "/countries/2012/meal-45-czech-republic",
+  wrapup: `The moon was full that night, just like our bellies.
+
+We're off for a few weeks, due to a trip to Alaska, and we'll resume toward the end of the month with our very final C meal, from Cyprus!
+
+Photos by Laura Hadden, who loved eating goose, hanging out with her friends, and trying to teach Emmylou dog skills in the Catskills.`,
   dishes: [
   {
     name: "Okurkov\u00fd sal\u00e1t se smetanou |",
@@ -1846,6 +2268,16 @@ export const meals: Meal[] = [
   country: "Cyprus",
   slug: "meal-46-cyprus",
   originalPath: "/countries/2012/meal-46-cyprus",
+  intro: `As a solitary island in the eastern Mediterranean, Cyprus has seen millenia of influence from outside nations and empires. From Venetians to Ottomans to English, the appeal of a pied-à-terre located between Asia Minor, the Nile, Palestine and Greece has held strong appeal. The geopolitics are strong as ever today, with a split between Turkish Northern Cyprus and the Greek Republic of Cyprus.
+
+For this meal we focus on the latter, primarily because that's the entity with UN membership but also that's because our friend Iva grew up there. All the while the food demonstrates its history while maintaining distinctive aspects of its own. And while it doesn't feature in any recipe, yogurt was the thick and creamy star that held it all together.
+
+Joining us for this pleasant, post-mosquito night on the back porch, in addition to Iva, were Rachel (who's got a great project going with Oldest Living Things in the World), François, Emma, Nathan, Martyna and Martyna's mom. We tried out a new approach where every guest asked Iva something about Cyprus, which was a great way to learn about daily life and culture.`,
+  wrapup: `These cookies are traditional for Christmas but I can see why they're popular year round. Densely made with olive oil, orange juice and rind, and fresh ground cinnamon and clove, and then dipped in a solution of honey, sugar, and more spice, you don't need more than one or two to feel satisfied! Iva generously brought a bottle of Commandaria, a port-like dessert wine known as the world's oldest continually produced type of wine!
+
+And that does it for the C's! If you're around in New York on October 14 we'd love to have you for our biggest Nosh yet, honoring World Food Day with Democratic Republic of the Congo. Buy tickets!
+
+Photos by Laura Hadden, who was grateful to have Iva back from Cyprus for this meal!`,
   dishes: [
   {
     name: "Horiatiki",
@@ -1883,6 +2315,20 @@ export const meals: Meal[] = [
   country: "DR Congo",
   slug: "meal-47-dr-congo",
   originalPath: "/countries/2012/meal-47-dr-congo",
+  intro: `What a special night! 75 guests, most of whom had never been to a Nosh before, gathered in the beautiful ballroom at Hostelling International on the Upper West Side, for a meal of classic Congolese dishes.
+
+The idea came from Ari, the community engagement manager at the hostel, who saw our email on The Listserve and reached out to see if we might want to do a Nosh with them. With a big venue and kitchen, we decided to align it with World Food Day and make it a big fundraising opportunity...and at the end of the evening, that made for $1,400, or 5,600 meals to people in need! According to the WFP, the Democratic Republic of the Congo — the former Zaire — ranks lowest in the world for human development and hunger, and 70% have inadequate food. Needless to say, a rich and tasty meal like ours, with plenty of meats, vegetables, and oil, is far beyond the reach of most Congolese.
+
+It turns out it would have been hard to find a more convenient neighborhood for cooking the meal. Less than a mile away is a wonderful little African market that had the palmnut sauce, cassava powder, and other specialty goods I needed, sold by a very friendly and enthusiastic proprietor. The manager at the nearby Gristedes let me borrow a shopping cart to haul back all the meat, and the cart proved very handy for hauling back a huge load of greens, plantains, and other produce.
+
+There's no way we could have done this meal without the help of our many volunteers, who helped set up, cook, and clean up. The huge kitchen area comprising four ranges, two sinks, and dozens of pots and frying pans was buzzing with chopping, frying, stirring, and only one having to find the maintenance staff to crank up the ventilation hoods. Huge thanks to everyone who pitched in! And we owe an enormous debt of gratitude to Ari and the rest of the staff at the hostel who were incredibly friendly and accommodating.`,
+  wrapup: `Fried plantains are always the tastiest. But it takes a lot of work and time and makes a royal mess, as we discovered for the Cameroonean meal. So, we got most of the fun for about 10% of the work by simply peeling the plantains, slicing them in half, and baking the off for a half hour. Thanks to the abundantly equipped kitchen, we had six trays going across three ovens! And every last plantain was gobbled up.
+
+What made us perhaps the happiest from this meal, even beyond the beautiful space and the people who went back for thirds and the money raised, was that most people stayed far longer than they had to, making new friends around the dinner table. Having made it just about a quarter of the way through the nations of the world, it's the joy of combining adventure and community that has become so motivating!
+
+Stay tuned for our post from Denmark!
+
+Photos by Jason Falchook, Chrys Wu, and Laura Hadden.`,
   dishes: [
   {
     name: "Arachides r\u00f4ties\u00a0|",
@@ -1930,6 +2376,19 @@ export const meals: Meal[] = [
   country: "Denmark",
   slug: "meal-48-denmark",
   originalPath: "/countries/2012/meal-48-denmark",
+  intro: `Danish cuisine doesn't exactly have a high reputation, among gastronomes nor dietitians, so I had pretty low expectations for the meal. While Denmark famously produces a whole lot of dairy and pork, it has a historical reputation for sending the best stuff abroad and keeping the remainder to feed the populace. Well, I am happy to report that so long as bold, rich flavors are welcome, Danish food is actually pretty good!
+For this meal I tried to evoke the spirit, if not the reality, of the smørrebrød — literally, butter-bread, the open-faced sandwiches on rye that are the most distinctive and lovely part of the cuisine. While a really good host might have made them for the guests, we set bread, butter, and toppings on the table, and let folks just have at it.
+
+We were pleased to welcome a whole bunch of first-time Noshers! Raven's the only one who'd been before; we were thrilled to welcome Jeremy, Lars (a real half-Dane!), Dada, Julie, Bijou (another half-Dane!), Jess, and Allison (a fellow countries-of-the-world food-schticker at 26dishes!).`,
+  wrapup: `Despite the name and appearance, there's no cream here, just a butter-flour-milk roux with boiled and chopped kale thrown in. I think there was too much sauce for the amount of greens.
+
+Turns out the Danes are the #1 per-capita consumers of ice cream in the world. I too the opportunity to clean out a bunch of ice creams I'd made over the summer: vanilla, mint, saffron-cardamom-pistachio-rosewater, and peach sorbet.
+
+We had a great time, as Lars, Bijou and Allison regaled us with stories of Danish life and culture, and the soundtrack played local pop and other sounds.
+
+Next week we head to a place that also has sourdough-based bread, and plenty of meat and butter — and that's where the similarities end, 'cause it's the little East African nation of Djibouti.
+
+Photos by Laura Hadden, who finally found a rye bread she likes.`,
   dishes: [
   {
     name: "Rugbr\u00f8d",
@@ -1989,6 +2448,11 @@ export const meals: Meal[] = [
   country: "Djibouti",
   slug: "meal-49-djibouti",
   originalPath: "/countries/2012/meal-49-djibouti",
+  intro: `Last week was Eid al-Adha, the Feast of the Sacrifice. To commemorate the moment when Abraham was prepared to sacrifice his son Isaac at God's command, Muslims sacrifice an animal and turn it into dinner. In Djibouti, this would almost certainly be a goat, so that's what we ate!
+Now, not too many people have heard of Djibouti, barely the size of the NYC metro area. During the Opening Ceremony of the Olympics a few months ago, all Matt Lauer could say about it was, "There are some countries whose name makes you smile." Squeezed into the intersection of Ethiopia, Eritrea, and Somalia, and across the Red Sea from Yemen, it's an invention of colonialism from when the French wanted a secure place to guard passage to the Suez Canal, and it remains host to French and US soldiers.`,
+  wrapup: `Sprinkle on a bit more salt every time, not only is this good for flavor but apparently it helps make the bubbles.
+
+Photos by Laura Hadden, who's looking forward to no more puns on this country's name.`,
   dishes: [
   {
     name: "Cabri farci, fa\u00e7on afar",
@@ -2027,6 +2491,14 @@ export const meals: Meal[] = [
   country: "Dominica",
   slug: "meal-50-dominica",
   originalPath: "/countries/2012/meal-50-dominica",
+  intro: `Dominica is a tiny little island country, in the middle of that north-south string of Caribbean islands. You'd be forgiven for thinking it's the Spanish-speaking half of Hispaniola, but no, that's the Dominican Republic. They both use the adjective Dominican; to assert that you mean this beautiful, actively volcanic, lush-in-parts island, place the stress on the third syllable, domiNIcan.
+
+The national Dominican dish is the so-called Mountain Chicken, which is actually a species of giant frog, so tasty and easy to catch that it's now critically endangered. Since expensive, farmed, previously-frozen frog legs didn't seem like they'd cut it. Plus, this was a hastily cobbled-together brunch in the aftermath of Sandy, and that just seemed out of place. So, regular chicken it was!`,
+  wrapup: `Avid readers will know we've enjoyed this sort of drink before, but why should that stop us? It's delightfully simple to make, just boil dried hibiscus/sorrel flowers with water, ginger, and spices, let cool, strain, add sugar, and enjoy the tangy, spiced, sweet flavor of Christmas in a glass. Yum!
+
+The meal made for a nice opportunity to unplug from the Sandy craziness for a little while, enjoy the sunshine streaming through the window (it was cold out!), and enjoy the carefre sounds of calypso music.
+
+We're off for a few weeks, our next meal is in San Francisco the weekend following Thanksgiving for Dominican Republic — and we'll be done with the D's!`,
   dishes: [
   {
     name: "Banana-mango bread",
@@ -2059,6 +2531,14 @@ export const meals: Meal[] = [
   country: "Dominican Republic",
   slug: "meal-51-dominican-republic",
   originalPath: "/countries/2012/meal-51-dominican-republic",
+  intro: `Another Thanksgiving weekend, another nosh in San Francisco!  To go with the gorgeous weather, the calendar aligned on Dominican Republic, the second-largest country of the Caribbean. While the Bay Area is no stranger to foods from Spanish-speaking lands, there's few Caribbeans around, so these dishes made for something more of a novelty here than they would have been in Dominican-immigrant-heavy New York.
+
+Thanks to the kind folks at Hattery, I had a big kitchen to discover the intriguing Dominican way of cooking, which was just, well, different. I used a grand total of one onion with none of that going into the stew, scrubbed every cube of meat with lime halves, and boiled rice at full hilt rather than gently simmering. And that's not even mentioning the oddness of a dessert built around kidney beans.
+
+Around the table are Jon, Bryan, Alley, Suj, Drew, Greg, Emily, Shilpi, and my mom and dad! It was great to catch up with three friends in town from Portland, and of course to share the joy with my parents, cousin, and future cousin-in-law.`,
+  wrapup: `One of the few scenes from the Jetsons I remember is the Christmas special, in which Rosie the Robot creates egg nog by mixing one egg and one "nog." Well, two decades later, I've finally made it — or, at least, the Dominican version — and while I can affirm that egg nog indeed has eggs, the "nog" part of it is a bit more complicated, in this case three types of milk plus sugar and spices, all cooked over a bain marie. But gosh it was tasty, not unctuous like the stuff in a carton, but really smooth sippin', and just the right density to warmly embrace the rum and make you forget you've eaten too much and shouldn't put any more in your belly.
+
+So that does it for the D's! Next weekend we head due south to Ecuador. Thanks again to the kind folks at the Hattery for opening their space to us!`,
   dishes: [
   {
     name: "Sancocho de siete carnes",
@@ -2103,6 +2583,16 @@ export const meals: Meal[] = [
   country: "Ecuador",
   slug: "meal-52-ecuador",
   originalPath: "/countries/2012/meal-52-ecuador",
+  intro: `Ecuador is kind of on the small side — a bit larger than the UK, a bit smaller than Nevada — but its borders contain three distinct zones: seaside, Andes, and Amazon. Hence, there's quite a lot of variety in the foods available. (There's also Galápagos way out in the Pacific, but we're not eating any of their rare wildlife.)
+
+Some of the major themes are shared with its Andean neighbors: abundant potatoes, warming foods, and the ubiquitous Inca Kola, which tastes like bubble gum and packs a caffeinated punch. (Spike it with Pisco like we did!) I was surprised to see a lot of annatto, aka achiote, a seed that gushes a saffron-like orange hue when heated in oil. Pretty much everything we had was that color.
+
+Our guests were Kelly, Sarah-Doe, Jon (who just flew in from California and came straight from the airport), Tennessee, Jen, and Kathryn, who's half-Ecuadorian and helped with the menu and prep!`,
+  wrapup: `What a tasty, and therefore dangerous, number! Nothing more than a few spices and juices, it's really simple to make (though of course I overcomplicated things a bit with fresh-squeezing the orange juice), and so warming and tasty. Very luckily I was able to find Ecuadorian aguardiente. Unlike its anise-flavored and better-known Colombian cousin, it tastes pure as a rich, unfiltered sugarcane, kind of the brown-sugar sibling of cachaça. And it is definitely much more smooth and agreeable than the over-the-top website of its manufacturer.
+
+This meal was also the start of a new tradition, streaming radio from the country! JC Radio La Bruja from Quito had quite the Saturday night mix going.
+
+Next meal takes us back to the Middle East, with Egypt!`,
   dishes: [
   {
     name: "Ceviche de pescado",
@@ -2147,6 +2637,16 @@ export const meals: Meal[] = [
   country: "Egypt",
   slug: "meal-53-egypt",
   originalPath: "/countries/2012/meal-53-egypt",
+  intro: `For 12 millennia, people in what's now Egypt have successfully built civilizations around agriculture in a virtually rain-free desert environment. While there's plenty of evidence that they grew fruits and vegetables, the annual cycle of the Nile's flooding made it much easier to grow plants that could thrive on their own in properly inundated soil — which means grains and legumes were much easier than relatively more fickle fruits and vegetables. So, it should be no surprise that our meal was very carb-heavy! (Vegetarian and nearly vegan, too.)
+
+Joining us for our starch-fueled adventure were Shazna, Ron, Nadia, Jessica, Sophie, Angad, Melanie, and Catherine.`,
+  wrapup: `Why this dessert is called "Ali's Mother" is a matter of debate. But there's no denying that this was one tasty end to the meal. For all the richness, with puff pastry, condensed milk, three types of nuts and coconut, it was pleasingly not too sweet, with no added sugar other than that in the condensed milk. (I even used just milk rather than cream as called for, and we didn't miss any of the extra richness.)
+
+In terms of awesomeness to effort, this is one of the highest ranking desserts yet for United Noshes! Really, provided that you plan ahead — or are a culinary savant and happen to have ingredients on hand — it takes little effort to whip it up, and even less to clean because your guests will be licking the dish.
+
+And that does it for United Noshes in 2012! It's been our first full calendar year, with 34 Noshes in five cities, over $9,600 raised (bringing us to over $12,300 total) for World Food Program USA, and a few hundred prior friends, friends-of-friends, and new friends served. We're soon heading off for a three-week trip to India over the holidays, where I fully expect to buy tons of spices and pack my already overburdened spice collection to overflowing.
+
+Happy holidays and New Year! May it be filled with good cheer, and of course great food.`,
   dishes: [
   {
     name: "Ful medames",
@@ -2189,6 +2689,7 @@ export const meals: Meal[] = [
   country: "El Salvador",
   slug: "meal-54-el-salvador",
   originalPath: "/countries/2013/meal-54-el-salvador",
+  wrapup: "We're traveling next week, but the weekend after we're zooming to the Red Sea for Eritrean food!",
   dishes: [
   {
     name: "Horchata",
@@ -2233,6 +2734,12 @@ export const meals: Meal[] = [
   country: "Eritrea",
   slug: "meal-55-eritrea",
   originalPath: "/countries/2013/meal-55-eritrea",
+  intro: "This wedge-shaped country on the Red Sea has seen a tumultuous history, especially in the past decade and a half: colonization by Italy after the opening of the Suez Canal, being stapled to its larger neighbor Ethiopia in the 1930s when the Italians invaded there too; a thirty-year war for independence that finally ended in 1991; and since then a highly autocratic government that is intolerant of any dissent. (Oh, and a border war with Ethiopia for good measure in the late '90s.)",
+  wrapup: `With all the rich smells and flavors from the coffee, this gentle bread is a perfect contrast. Picture focaccia, with a bit less oil, and the addition of some honey and spices. It was lovely with coffee, and also made for a great breakfast snack the next morning.
+
+We're zooming across the African continent for our next meal, to another small and autocratic yet even lesser-known country, Equatorial Guinea.
+
+Photos by Laura Hadden, who likes negotiating incense prices.`,
   dishes: [
   {
     name: "Berbere",
@@ -2289,6 +2796,20 @@ export const meals: Meal[] = [
   country: "Equatorial Guinea",
   slug: "meal-56-equatorial-guinea",
   originalPath: "/countries/2013/meal-56-equatorial-guinea",
+  intro: `Despite its name, none of the country lies on the Equator. Most of its land mass is on the African mainland, but the capital's on an island. Its colonial language is Spanish, but French and Portuguese are official languages too. It's the richest country per capita in the continent, thanks to a recent oil discovery, but most of the population lives in poverty.
+
+That's a lot of contradiction for a very small country — its population is barely 700,000. But improbably, we know someone who spent three years living there when his father was the US ambassador to Equatorial Guinea. Stephen was an excellent guide to the culture, politics, and foodways of a country few people have even heard of. The food was pretty much reminiscent of other nearby countries — peanuts, palm products, etc. — though with a bit of Spanish flair and probably more spice.
+
+Our guests on this decidedly un-tropical, post-snowstorm night were Rafi, Laura, Craig, Marcy, Stephen, Chrys, and Jeremy.
+
+Vino de palma | Palm wine
+
+This mildly alcoholic (~2%) beverage is brewed not from coconuts, but rather the same fruit that is pressed for palm oil. It's pretty sweet, almost like a cider, except with that distinctive palm-y flavor. This sort of thing is typically homemade, but Stephen managed to find a bottled version from Nigeria. Since we were out of space in the fridge, we turned to the great outdoors refrigerator to keep them cold — an incredibly incongruous technique given that the temperature never gets below the 70s there.`,
+  wrapup: `Turns out, peanut brittle is really easy to make. Essentially you toast peanuts in a dry pan, pour in some sugar mixed into water, and stir constantly until it caramelizes. This recipe adds a tropical twist with "a few drops of lime juice," I used half of a half of a lime but couldn't taste it at all, so if you try it, use more! We enjoyed this sweet treat with a papaya, mango, and guava salad.
+
+Next we're heading to somewhere more appropriate to the chilly weather we've been experiencing...Estonia!
+
+Photos by Laura Hadden, whose favorite part of the meal was a post-dessert donut from the fridge.`,
   dishes: [
   {
     name: "Pescado con dos salsas",
@@ -2325,6 +2846,12 @@ export const meals: Meal[] = [
   country: "Estonia",
   slug: "meal-57-estonia",
   originalPath: "/countries/2013/meal-57-estonia",
+  intro: `Vikings, Russians, Swedes, Poles, Russians, Germans, Soviets... pretty much, if you were an empire within a few hundred kilometers of Estonia, you probably had dominion over this small country at some point. But things are now going well for the Estonians, who emerged from the USSR with a bang, and now enjoy a strong economy, EU membership, strong civil liberties, and Internet access so pervasive they have online voting. (Thankfully this made finding recipes a lot easier than expected!)
+
+Estonia's at the upper reaches of the Baltic Sea, so the winters are dark and long and cold. Accordingly, the diet is based on hearty grains like barley and rye; root vegetables, like beets and especially potato; and hardy animals like pigs and oily fish from the sea. The weather played the part, with a crisp wind dropping the windchill to the single digits in Fahrenheit. Many of these dishes were prepared in advance, so it took a lot of planning and work starting four days before the meal! Our brave guests for tonight were Catherine, Lech, Jeremy, Caro, Lauren, Elsa, Pete, and Mel.`,
+  wrapup: `Next week we're off to San Francisco, and our first meal from Oceania with Fiji! It's a special collaboration at 18 Reasons, which we're really excited for.
+
+Photos by Laura Hadden, who prefers Estonian music to Estonian food.`,
   dishes: [
   {
     name: "Magushapu rukkleib",
@@ -2381,6 +2908,14 @@ export const meals: Meal[] = [
   country: "Fiji",
   slug: "meal-58-fiji",
   originalPath: "/countries/2013/meal-58-fiji",
+  intro: "We had been planning this meal with 18 Reasons, a warm and welcoming non-profit community food space in San Francisco, for almost a year. Taking the day off of work to prep and cook with my parents, the larger audience of friends new and old, and the gorgeous organic ingredients from Bi-Rite Market all contributed to a special and gratifying experience. But didn't really hit me how this meal was operating on an atypical plane until one of the volunteers very politely asked if there was enough food that they could try a bit. Two full-on staff helping to serve dishes, pour wine and wash up, without even the expectation of joining us at the table, was a first for this amateur chef.",
+  wrapup: `Throughout the world, we've seen cassava prepared so many ways — steamed, boiled, sauteed, fried, powdered, fermented — and you've surely had it as a dessert at some point in the form of tapioca pudding, but never have I seen this flexible and widespread root in its solid form. The ingredient list is so simple, basically just cassava, sugar, and coconut milk, though it does take labor to peel and grate the root and then squeeze it to extract liquid while retaining starch. But it's a very forgiving recipe, you can tweak the proportions to your taste, and cooking it for a few minutes more or less will pretty much just affect how brown the top is. After a meal with some pretty odd flavor combinations, this mildly sweet and moderately spongy-sticky dish was a nice wrapup.
+
+But wait, there's more! A Fijian feast would be quite incomplete without this traditional relaxing drink. We were very lucky to have Monica, a returned Peace Corps volunteer, who taught us how Fijians dry and ferment the root, grind it up, and often drink bowl after bowl. While it's not alcohol, the similarity of the effect leads them to call it "being drunk." It's pretty straightforward to make, just put some amount in cheesecloth, dunk that into water, and massage the lump until your hands start to get numb. It smells no better than mildly decomposed leaves, and tasted pretty bitter, but once the sensation of calm and lethargy starts to hit, it's amazing how easy it is to overlook all that.
+
+18 Reasons generously included local beer (the Fijian stuff doesn't seem to be very good) and some nice, crisp New Zealand sauvignon blanc. Laura pulled together an intriguing playlist, including one type of music that surprisingly combines country, disco, and island sounds in roughly equal proportion. And huge thanks, once again, to the volunteers who spent the evening helping us have such a great time.
+
+We had such a fun time, both in the preparation and the enjoying of the meal, and hope to be able to do more of this sort of collaboration — both with 18 Reasons and other great food-community orgs — in the future!`,
   dishes: [
   {
     name: "Curried sweet potato and banana salad",
@@ -2472,6 +3007,38 @@ export const meals: Meal[] = [
   country: "France",
   slug: "meal-60-france",
   originalPath: "/countries/2013/meal-60-france",
+  intro: `No single country has contributed more to the world of cuisine than France. For sure, folks around the world have figured out how to cook food and serve it, but it's the French who codified the process and lent us words like chef, sauté, and restaurant. France enjoys a unique physical situation, with both the olive-oil-pressing Mediterranean and the butter-churning north, coastlines teeming with sea life as well as rich interior lands for grazing livestock, and a variety of soils and climates and elevation that make for a stunning variety of cheeses, wines, and other delicacies. Add to this a culture that fiercely appreciates and legally defines regional variations, an economy that centralizes transportation and commerce through its capital, plus a colonial legacy and a culinary porousness that's incorporated foods from neighbors near and far, and you've got a delicious gargantuan of a cuisine that's incredibly intimidating to unpack in a single meal.
+
+It just so happens that our very good friend Sarah-Doe is the great-great-granddaughter of the author of La Bonne Cuisine de Madame E. Saint-Ange, a book that's been described as "The French Joy of Cooking," a foundational text to both Julia Child and Chez Panisse, and continually in print since its 1924 publication. What's more, her cousin Julia is an accomplished food editor and cooking instructor who's done plenty of research on French cooking history in general and this same ancestor in particular. How relieved I was when Julia agreed not only to help plan the meal, but also to come from Ithaca for the weekend to join me in the kitchen!
+
+We had three goals for the meal: to make it a properly structured multi-course affair, represent as much regional diversity as possible, and choose dishes that Laura would be most likely to enjoy because it doubled as her birthday party. A secondary guiding factor was to cook dishes appropriate to the season, which happens to be Easter week. Although we did seven (!) courses, paired with wines, there's still so much we left out — sorry if you were hoping for crêpes or beef or a potato side dish or anything with chocolate! —but alas, there's only so much room in the stomach and the kitchen.
+
+Our valiant guests for this epic meal were Lisa, Anna, Julia, Tennessee, Kirsty, Sarah-Doe, Elsa, and Jessica.
+
+Oh, before we get started, a shout out to Thirst Wine Merchants in Fort Greene, who patiently and enthusiastically provided all the wine pairings!`,
+  wrapup: `By this point in the meal we were rather stuffed, but we somehow found room to heartily sample a variety of cheeses of different styles from around  the country. The cheeses were served with bread, thinly sliced apples, and grapes.
+
+Chabis Feuille: a pleasant, soft chèvre. Came wrapped in some sort of leaf-shaped paper, which was a bit odd. The cheese was pleasant enough, but I'd been hoping for a bit more tartness.
+
+Comté: Perhaps the best known of firm French cheeses, and what a delight it is. From the mountains near Switzerland, it has a nuttiness similar to Swiss cheeses such as Gruyère, though it's sweeter and has a creamier mouthfeel.
+
+Délice de Bourgogne: The sign at the supermarket called this fantastically goopy cheese from Burgundy "what St. André was before it sold out." If you like the buttery richness of that cheese (you may have seen it at Trader Joe's), then you'll just love this one, with a mild and delightful bloominess and a texture so soft it's almost melting even at fridge temperature.
+
+Normanville Camembert: From Normandy, in the northwest, this famous cheese is like the spunky younger sibling to brie — a similar composition and texture, but with a lot more of that sweet-moldy flavor. In fact, I almost found this one to be a little too pungent, giving me that odd dryness in the back of the throat.
+
+Roquefort: The classic, surprisingly sweet, strong yet easygoing blue from the South, such a staple of the cheese world that its lent the name to one of the primary cheese-making bacteria strains, penicillium roquefortii. Lovely as ever.
+
+Tarte au citron | Lemon tart
+
+To welcome the spring, and to celebrate one of Laura's favorite flavors, we wanted to make a simple and classic lemon tart. Turns out there are a lot of different recipes, all of which seem to try different techniques to thicken it up. Madame St.-Ange's recipe involves a grated apple, another one I found has you make a sabayon of egg yolks and lemon juice cooked slowly and painstakingly on a double boiler. I then did what I've done so infrequently in five dozen noshes: I opened up a cookbook on my shelf! And in the parsimoniously labeled French, I found just the thing: a lemon tart with simple ingredients and technique.
+
+Julia made the crust from memory — three cups flour, two cut-up sticks butter and a pinch of salt in the food processor until crumbly, then a tablespoon each of ice water and cognac until just massing together — and from there it was a simple task to whisk together the filling and bake it off. It set very nicely, a rich but slightly fluffy custard with a bold lemon tang.
+
+It was an evening of five hours, seven courses, and about nine bottles of wine, plus lots of laughs — something about friends and food and wine tends to go very well together. We owe an enormous debt of gratitude to Julia for her time, expertise, and enthusiasm, I feel both spoiled and honored to have shared a kitchen with her.
+
+As it was Laura's birthday party, she chose to have the donations go toward her fundraising goal of $1,000 for Planned Parenthood, as she's joining their team for the Five Boro Bike Tour next month. If you'd like to make a donation here, it would sure be appreciated.
+
+Laura's heading up to the Hudson Valley for a two month artist residency, so we'll be taking a bit of a hiatus through the spring, but we'll definitely be getting back at it in June. 60 down, 134 to go!`,
   dishes: [
   {
     name: "Terrine de campagne |",
@@ -2545,6 +3112,13 @@ export const meals: Meal[] = [
   country: "Finland",
   slug: "meal-61-finland",
   originalPath: "/countries/2013/meal-61-finland",
+  intro: `Note: this post is a few weeks delayed, because in the meantime we've moved! Thanks for your patience, and for keeping the faith. We promised we'd continue Noshing!
+Midsummer is a big deal in Nordic countries. The nearly endless sun that the Solstice brings not only cheers the soul and makes the air warmer, but it also brings forth a variety of fresh foods that provide welcome respite from the over-wintered larder. So for this Finnish meal, despite being technically about three weeks early, I seized the opportunity to make a menu with several Midsummer-y elements, along with a few distinctive dishes that you'd find year-round.
+
+You may remember Lars, the half-Dane, from our Denmark meal; well, turns out he's also half-Finn, and brought his sister Anneli too. Plus, our guest Sofia's also of Finnish heritage; while none of these three have lived there, they've all spent many summers in the Finnish woods. Thanks to all the Finns for their help in planning and explaining! And thanks, too, to our other guests, Betsy, Dada, Laura, Carolyn, Rachel, Marcy, and Nathan!`,
+  wrapup: `In the rich European tradition of sweet, buttery yeasted breads, the Finnish version is probably the richest I've ever made -- a whole stick of butter in this recipe! In fact, the dough was so slippery that I wonder if I mismeasured the flour. Anyway, what makes this one a treat is the freshly crushed insides of cardamom pods. (Scandinavians still use white cardamom, which is apparently just what happens to green cardamom on a long sea voyage!) It's a perfect foil for coffee, which apparently the Finns drink copiously, though in our case we closed out the evening with one last Finnish treat: fresh, tiny, incredibly sweet strawberries! That, and Minttu, the Finnish equivalent of peppermint schnapps, but much cleaner and stronger and less sweet.
+
+And that's it for the F's! Gabon is coming next, from our new apartment.`,
   dishes: [
       { name: "Karjalanpiirakka", description: "Karelian pasties. These very practical pies have spread across all of Finland. The crust is a simple rye flour dough, filled with an unsweetened rice pudding.", recipeUrl: "http://cloudberryquark.blogspot.com/2007/03/leftover-tuesday-3-carroty-karelian.html?m=1", recipeLabel: "Recipe" },
       { name: "Ruisleipä", description: "Sourdough rye bread. Compared to the five-day rye of Estonia, this loaf was a cinch. Definitely one to slather with butter!", recipeUrl: "http://tofufortwo.net/2009/06/08/finnish-rye-bread-2/", recipeLabel: "Recipe" },
@@ -2561,6 +3135,16 @@ export const meals: Meal[] = [
   country: "Gabon",
   slug: "meal-62-gabon",
   originalPath: "/countries/2013/meal-62-gabon",
+  intro: `New letter, new season, new home! After a week of unpacking our new place in Fort Greene - let's be honest, a lot of the work was setting up the kitchen! - we hopped right back into Noshing, which happened to be the first weekend of summer. We kicked off the G's with a meal from the west-central Francophone African country of Gabon, with the sultry weather giving us as good a taste of the tropics as we could have wanted.
+
+The new kitchen is, on the whole, an improvement over the other. More storage and surface space, a fridge and stove that seem to lack any quirks, and it's directly adjacent to the back yard so there's natural light and fewer steps to the grill. The only bummer is that the stove is a mere 20 inches wide, making it impossible to have two pots side by side without propping one up on the edge. I'll manage
+
+As far as the meal, regular readers and Noshers know that I try hard to pick out what's distinctive about a country's cuisine, which can be tough in Africa. The good news is I found a few, two of which use ground kernels. The not so good news is that the flavors were quite strange. At least the dessert was killer!
+
+Joining us at this meal were Lisa, Anna, Kayla and Zoe (our hosts for the Comoros meal last year!), Alex and Catherine. Patrick and another Lisa showed up later.`,
+  wrapup: `Let's be honest, the dishes ranged from ok to downright weird, but there was no question that the dessert was a star. In my experience, Africa isn't big on dessert, at most you'd find cut fruit or a fried beignet (remember the nuns' farts from Chad?), so I jumped on the opportunity to make something that actually involved more than three ingredients -- turns out that the Gabonese retained a bit more of the French culinary influence than some other former colonies. The bananas are dipped in OJ and egg, dredged in breadcrumbs, lightly fried, and then baked until brown. (The recipe says to sprinkle with brown sugar afterward; I used turbinado sugar before so it would brown further.) With a dollop of sour cream (well, I used crème fraîche, figuring that's what the French would have introduced), it was just as good as you'd think.
+
+It was a lovely evening in the new back yard, a long, slow summer sunset eventually giving way to some sprinkles of rain. We're on our way west now, look out for dispatches from meals in Washington and Oregon!`,
   dishes: [
   {
     name: "G\u00e2teau de ngondo",
@@ -2593,6 +3177,14 @@ export const meals: Meal[] = [
   country: "Gambia",
   slug: "meal-63-gambia",
   originalPath: "/countries/2013/meal-63-gambia",
+  intro: `The Gambia, a former British West African colony, is a little sliver of a country, hugging a river of the same name and surrounded by the formerly French Senegal. I find it appropriate that we held this Nosh in Portland, Oregon, a riverine city -- and, thankfully, one that has a few African markets!
+
+While Gambia is squarely in West Africa, the food struck me as borrowing major parts from both Central and North Africa. The stew, with peanut butter and palm oil, is similar to many things we've made from the center of the continent, while the rice and couscous dishes remind me quite a bit of North African and even central Asian cooking.
+
+Huge thanks to my aunt Marcia for hosting us, and a bunch of our friends, at her lovely house with a third of an acre for a back yard which doubles as an Urban Farm Collective site. Joining us were Molly, Jens, Eric, Sarah, Alley, Andrew, Viola, Laura, Drew, Suj, Craig, Laura (yes, there were a total of three Lauras there!), Luca, and Marc.`,
+  wrapup: `Between the main course and dessert, we went out back and picked marionberries and raspberries from the garden, so naturally they, very incongruously, made their way onto a few plates. I was surprised to see a recipe with so much fresh dairy product from an African country, but then I saw it a few more times and was convinced of its authenticity. There's no added sugar, but between the pineapple (we used fresh instead of canned), evaporated milk, and vanilla yogurt, plus the richness of cooking the couscous in coconut milk and the sour cream in the sauce, this was quite a heady dessert. And yes, the berries went quite well.
+
+We came back to New York the next day, and did a Georgian feast soon after that. The writeup is coming soon!`,
   cardImage: "https://farm8.staticflickr.com/7307/9274148304_79a7866b8d.jpg",
   dishes: [
   {
@@ -2626,6 +3218,18 @@ export const meals: Meal[] = [
   country: "Georgia",
   slug: "meal-64-georgia",
   originalPath: "/countries/2013/meal-64-georgia",
+  intro: `“In the center of Tbilisi, the capital, there is a statue of a woman with a sword in one hand, and wine in the other. It shows how, if you come in war, the Georgians are so fierce the women as well as the men will fight you. But if you come in peace, you’re invited to feast.” Throughout the evening, on our friend Mark’s rooftop in Williamsburg, was punctuated by two periodic events: the rumbling of the elevated J train a few feet away, and stories from Mark, our tamada -- toastmaster -- as well as host.
+
+Time spent in Georgia qualified Mark to guide our meal; having attended a supra, a feast, with President Saakashvili lent him all the more authority to regale us with tales of strength, folly, and complexity, usually leading to a moral and always finished with a toast. These stories of a distant and ancient land, washed down with abundant wine, enriched the meal nearly as much as the walnuts, herbs, and spices.
+
+Even if you don’t have a tamada from Tbilisi to guide your meal, do yourself a favor and get to know Georgian food. Despite its history as a former Soviet republic -- and homeland of Joseph Stalin! -- it has nothing to do with sour creamand pickled fish! Its cuisine is much closer to Persian and Central Asian, overflowing with vegetables, nuts, fresh flavors, and a wide variety of meats. The cuisine is most authentically enjoyed in abundance: Mark’s a generally easygoing guy, so I took it quite seriously when he warned me that if the table were anything short of crammed full of food, it’d be a failure.
+
+Enormous thanks to Justin and Kathryn, who braved a hot and small kitchen to make this absurdly ambitious feast get started before sunset!
+
+Note that we put all the food out on the table at once, so rather than a list of courses, I’ve ordered these roughly in the order in which I prepared them.`,
+  wrapup: `Along with the tarragon drink, we washed the food down with Borjomi, a fairly salty mineral water with reputed health benefits, and of course plenty of wine. Georgia’s been making wine for millennia, but apparently the quality took a big hit in the Stalin years. Uncle Joe, as they call him, was actually a big promoter of Georgia’s wine, but his preference was for sweet wine, so they made sweet wine. It’s only in recent years that drier, more complex wines have come to market -- and, in fact, some of them are quite good, definitely fruity and with a moderate terroir. Don’t be surprised if you see a Georgian wine or two at your local wine shop one of these days, because we found one at ours! While our preference was for red, you just might see a special wine called Pheasant's Tears, which is called "amber," distinctively yellower than white wine.
+
+Laura keeps a list of countries that weren’t really on her radar but that she’s now interested to visit after eating the food -- Cape Verde, Comoros...and now Georgia! Coming up is a swing of the pendulum, a cuisine that's familiar yet rather ignored in the culinary canon: Germany.`,
   dishes: [
   {
     name: "Tarkhun",
@@ -2699,6 +3303,13 @@ export const meals: Meal[] = [
   country: "Germany",
   slug: "meal-65-germany",
   originalPath: "/countries/2013/meal-65-germany",
+  intro: `What a convergence -- my 30th birthday, the one-third point for United Noshes, a gorgeous day, an apartment with a backyard...and a cuisine and culture renowned for good cheer around food. While German food rarely makes the rounds of haute cuisine, for those who enjoy meat and beer it's a wonderful, homey way to get a lot of calories.
+New York City used to have a distinct German immigrant population. Much like Chinatown today, Kleindeutschland in the Lower East Side and other enclaves around town featured whole communities where you'd see more German than English on the walls. Yet today the presence is a lot more subdued, and is hanging on best in the portion of the Upper East Side once known as Germantown. There are many reasons explaining the decline of the German identity, from the General Slocum disaster in which over 1,000 people capsized near shore, to xenophobia during the two World Wars.
+
+About thirty friends and members of the Noshing community passed through in the nine (!) hours the temporary backyard biergarten was open, including three visitors from California! Thanks to all who came for bringing so much beer and wine, too -- it was quite festive!`,
+  wrapup: `I didn't feel like I should be making my own birthday cake, so Laura agreed to do it. She even knew what she'd make, a German chocolate cake. Imagine Laura's surprise when she discovered that such a cake is actually American in origin, invented by a certain Sam German working at a chocolate company! Thank goodness our friend Lisa came to the rescue with this cake, which is so German that it was one of two national submissions to a Europe-wide cake fest. Four layers of deep chocolate, generously separated with buttercream studded with cherries, and then evenly sprinkled with shaved chocolate...wow. I might have a German-themed birthday party every year just so I have an excuse to get this cake!
+
+We're about to start into a 16-state, 4500+-mile road trip, and our first stop is to the Jersey Shore where we'll do the Greece meal!`,
   dishes: [
   {
     name: "Aufschnitt",
@@ -2747,6 +3358,10 @@ export const meals: Meal[] = [
   country: "Greece",
   slug: "meal-66-greece",
   originalPath: "/countries/2013/meal-66-greece",
+  intro: `Greece has seen myriad civilizations, invaders, and influences over the millennia, and a climate in which most anything can grow, all of which have contributed to a cuisine that is both abundantly flavored and for the most part extremely healthy. It's also built to be sampled in abundance, with a wide range of mezedes for nibbling and sharing. Fortunately, most of these dishes didn't need to be served piping hot, which made it a little less insane to prepare ten dishes in a medium-sized kitchen with one helper (thanks so much, Neil!).
+
+Our setting for this Nosh certainly encouraged relaxed enjoyment of the Earth's bounty: the porch of our friends' home in Asbury Park, on the Jersey Shore, on a very pleasant summer evening (thanks so much, Jenifer and Phil!).`,
+  wrapup: "I've already made baklava for Armenia, but I felt the need to make something with that flaky phyllo dough for this meal. Behold this amazing pastry, made of an astonishing 10 cups of milk, seven eggs, and a half pound of butter. As long as you're patient and attentive with the stirring, it's actually pretty easy to make, and it's really tasty, a little more subtle and less heavy than baklava. The only tweak I made was to replace about half of the sugar and water in the syrup with honey, which I would definitely do again. The Ottoman influence on Greek cuisine is clear here: \"boureko,\" meaning stuffed pastry, comes from the Turkish \"börek.\"",
   dishes: [
   {
     name: "Fasolada",
@@ -2815,6 +3430,11 @@ export const meals: Meal[] = [
   country: "Ghana",
   slug: "meal-67-ghana",
   originalPath: "/countries/2013/meal-67-ghana",
+  wrapup: `Ignore anything I said above and just concentrate on this part. I followed Jessica's instructions to get plantains with blackened skin, they were so ripe I had to keep them outside to avoid keeping the fruit flies inside! She showed up with a marinade of ginger, chili, and citrus, cut the plantains into little pieces, and marinated them. Then she fried them to within an inch of burning, so they were so amazingly sweet and caramelized yet still gingery and tangy and a bit spicy. This was by far the hit of the meal!
+
+Jessica also brought a delicious ginger drink. Once again, thanks to her for making our meal so special and authentic!
+
+Laura apologizes for the quality of the photos, the lens she normally uses for food photography needs repair.`,
   dishes: [
   {
     name: "Shito",
@@ -2852,6 +3472,9 @@ export const meals: Meal[] = [
   country: "Guinea",
   slug: "meal-68-guinea",
   originalPath: "/countries/2013/meal-68-guinea",
+  wrapup: `I know that dessert really isn't a thing throughout much of Africa, but sometimes I just gotta make something. This inventive recipe exhibits the legacy of the French by making what's essentially a tarte tatin, but instead of apples, it's tropical fruits. I used demerara sugar for a rich and tasty caramel, and the crust recipe is easy and forgiving. Note that if you feel weird about putting your pan (I even used a springform) directly on the stovetop for the caramel-making, you could just as easily do that in a pot and pour it into the pan before baking.
+
+The next meal takes us to the adjacent, and very similarly named, Guinea-Bissau.`,
   dishes: [
   {
     name: "Djindjan",
@@ -2895,6 +3518,34 @@ export const meals: Meal[] = [
   country: "Guinea-Bissau",
   slug: "meal-69-guinea-bissau",
   originalPath: "/countries/2013/meal-69-guinea-bissau",
+  intro: `If you know anything about Guinea-Bissau, chances are it's the dubious media-granted title of "the world's first narco-state" and the ensuing coup. Conveniently located just a few days' boating from South America, the small former Portuguese colony has become a waystation for drugs en route to Europe. The army not only consents but participates, increasingly so since last year's coup. Not surprisingly, the money hasn't reached the people; Guinea-Bissau is among the least-developed countries in the world. While the country is poor, it does offer some rich culinary opportunities. Not surprisingly, given its coastal location, much of the dishes are fish and seafood based.
+Due to scheduling confusion and illness, half our guests couldn't make it, so we had an intimate crowd of Karen, Ryan, and Sarah-Doe.
+
+Did you know that the cashew is actually the seed of a fruit? It's known as the cashew apple, and looks like this:
+
+The Portuguese found cashews in Brazil, and as far as I can tell, wherever the Portuguese colonized, they brought cashews with them. In fact, the economy of Guinea-Bissau has become so dependent on cashew farming that a recent price dip has been wreaking havoc on an already fragile economy.`,
+  wrapup: `Fish and peanut balls
+
+Recipe adapted from Cuisines of Portuguese Encounters by Cherie Hamilton
+
+1 cup shelled roasted peanuts (or a few cups in the shell)
+2.5 pounds mackerel fillets (for me, that was three medium-small fish)
+Juice of 1 lemon
+1 teaspoon salt
+1/4 teaspoon pepper
+1/2 onion, sliced thin
+1 tablespoon vegetable oil
+2 medium onions, grated
+A few sprigs parsley, chopped
+1 teaspoon salt
+1 egg
+Vegetable oil for frying
+
+Grind peanuts in a food processor and set aside. Stop a bit short of making peanut butter.
+
+Mix lemon juice, salt, pepper, and onion in a wide dish, add the fillets, flip the fillets to coat them, and let marinate for at least 30 minutes. Heat the tablespoon of oil in a skillet or frying pan (a non-stick one would be convenient), and fry the fillets until brown on both sides; discard the marinade. Don't despair if the fillets break up. Remove the fillets to a paper-towel-lined plate; once they're cool enough to handle, flake the fish into a bowl. Start heating up your frying oil; I went for about 350 degrees in a deep fryer. (Note: this is a great article about deep frying, it focuses on how many times you can re-use oil but contains many great tips.)
+
+Add onions, parsley, salt, and the egg to the bowl, along with the peanuts you've ground. Mix everything together with your hands. Form into ping-pong size balls, paying a bit of care to pack the mass and smooth the edges. You should get about 30. In my small home fryer I cooked four or five at a time, jostling halfway through to ensure even browning. (If the balls break up partway through, do something to help the balls stay together more: maybe another egg, or cornstarch. All is not lost, you can take the broken fried bits and re-combine them in with the rest of the mixture to start afresh and extra-crispy.) Remove to a paper towel. It's your choice whether to serve hot or cold; it's obligatory to serve with a drink!`,
   dishes: [
   {
     name: "Cashew rum",
@@ -2934,6 +3585,11 @@ export const meals: Meal[] = [
   country: "Guatemala",
   slug: "meal-70-guatemala",
   originalPath: "/countries/2013/meal-70-guatemala",
+  intro: `Corn, beans, tomatoes, squash, peppers, turkey...if it's a classic New World food, chances are you'll see it in Guatemalan cuisine. While it's incorporated smatterings of good stuff from Europe (note the olives in the tamales), by and large this meal could have been cooked six hundred years ago, before a conquistador set foot on Mayan lands. However so ancient the ingredients may be, the techniques  aren't: I made liberal use of the blender, and really wish I'd had a food mill, since there was a lot of tedious straining of blended sauces.
+We were fortunate to have some experts on hand: Mica on the left grew up in Guatemala, and Christen on the right met Laura on a human rights delegation in Guatemala. Between them are Alex, Laurel, Diana, Jennifer, Grant, Sophie, and Suzanne.`,
+  wrapup: `This drink, on the other hand, was more of an intense experience than I'd bargained for. You go through a lot of corn -- one ear per cup of drink -- and blend the kernels with milk, then strain it out and sweeten and cinnamon it up. With the nuttiness of the fresh corn plus the richness of milk, this warm beverage is a thick one. Would probably go even better on a chilly day, perhaps even as a breakfast drink.
+
+I'm posting this on World Food Day. That marks one year since we did that epic Democratic Republic of the Congo meal for 75 at the youth hostel. We've now raised just about $16,000, enough for 64,000 meals. Please take a moment to think about the joy of food and the comfort of food security -- it's something we really oughtn't take for granted.`,
   dishes: [
   {
     name: "Tamales colorados",
@@ -2972,6 +3628,11 @@ export const meals: Meal[] = [
   country: "Grenada",
   slug: "meal-71-grenada",
   originalPath: "/countries/2013/meal-71-grenada",
+  intro: `Until Hurricane Ivan wiped out most of the nutmeg trees, this little speck of a 133-square-mile Caribbean island country was the world's number two producer of the spice. It's become so important to the culture and economy of Grenada that there's a nutmeg on the flag. Beyond the focus on this spice, Grenadian food is closely related to that of its neighbors, with a strong focus on root vegetables and the greens that they produce.
+Our guests were Rachna, Lisa, Patrick, Linda, Sarah, and Megan. Thanks to the inevitable fall weather, it was our first indoor Nosh at this apartment. I'm glad I got all the cooking done before guests showed up, because the dining table is in the kitchen!
+
+Like the rest of the Caribbean, rum is the main drink of Grenada. They make nutmeg syrup and even a nutmeg liqueur, but I couldn't find those, so I made some nutmeg-infused rum by smashing a few whole nutmegs and letting them sit in white rum for a few days. I threw together some ginger juice (blend ginger with lemon or lime and a bit of water, strain, add simple syrup and more water); the sorrel (aka hibiscus) juice was a bit more complex. That's all we'd had planned for mixers, but while taking our dog on a walk we ran into a sweet potato punch stand run by a Jamaican woman, who agreed that her drink would go well with what she termed "adult beverages." My favorite was half-ginger and half-sorrel, with dark rum plus a splash of the nutmeg rum.`,
+  wrapup: "Our next meal is Haiti, which will coincide with fet gede, the Day of the Dead!",
   dishes: [
   {
     name: "Drinks",
@@ -3012,6 +3673,14 @@ export const meals: Meal[] = [
   country: "Haiti",
   slug: "meal-72-haiti",
   originalPath: "/countries/2013/meal-72-haiti",
+  intro: `Have you ever pondered what would have happened if something went differently at a given point in history? Compared with the rest of the Western Hemisphere, Haiti is sort of a real-life example of contrarian history. The crux is a slave revolt against French colonial masters that, incredibly, led to independence in 1804. The slave system was ruthless and required a constant influx of slaves, which had the silver-lining consequence of a strong syncretic culture quickly developing that combined French and West African influences — ranging from language (Kreyol is mostly French vocabulary but has strong West African grammatical influence) to cuisine to religion.
+
+Our meal fell directly on fet gede, a Vodou celebration blending the Catholic traditions of All Souls' Day with West African-derived spirits and beliefs. To get into the mood, we made an altar with some of the traditional elements, including an offering of our own ancestors' favorite foods. The meal, while not unique to this holiday, is one that would be appropriate to the festivities, particularly because the spirits related to death love spicy food. To bring a little bit more of Port-au-Prince to Brooklyn, we turned out the lights and ate by candle, since most folks only get electricity a few hours a day, if any.
+
+Joining us for this adventure were Lisa, Alex, Samantha, Johan, CJ, and Rachel. Alex spent a month in Haiti, whereas CJ recently lived there for a year.`,
+  wrapup: `This cake-like dessert can be pretty honestly described as a fluffy brownie, but with molasses and spices instead of chocolate. I thought it was OK, but on the dry side. (The first recipe I found called for a ridiculous four sticks of butter, whereas this one has one stick, perhaps the truth and beauty lies somewhere in between.) However, it was an excellent supporting actor for a scoop of the nutmeg ice cream left over from the Grenada meal!
+
+Post-dinner lingering, by candlelight`,
   dishes: [
   {
     name: "Kremas",
@@ -3061,6 +3730,10 @@ export const meals: Meal[] = [
   country: "Guyana",
   slug: "meal-73-guyana",
   originalPath: "/countries/2013/meal-73-guyana",
+  intro: `It's considered Caribbean, though it's on the South American continent. It was first colonized by the Dutch, gained its independence from England, has a notable native population, yet the two largest populations are of (East) Indian and African descent. No doubt, Guyana — pronounced like the first names Guy and Anna together — is quite the blend of cultures, a study in miniature (the population's under one million) of many of the influences of the colonial age on the Americas. And as we've seen time and again, where cultures collide, so do their foods, so it's no surprise that Guyanese food has an intense Indian influence.
+
+Joining us for this week's adventure: Rachel, Eunice, Sarah-Doe, Xindi, Erin, and Valerie! (Also, notice how we've finally put up our scratch-up map in our no-longer-very-new place.)`,
+  wrapup: "This name is slight variation on prasad, a Hindi word referring to food that is first offered in a religious ceremony and then eaten by people. In Guyana the term has been more narrowly applied to a specific dish of a sweetened and spiced milk and wheat porridge, kind of like a more aromatic cream of wheat. After the intensity of the flavors of the meal, this mild and soothing dish made for a satisfying conclusion.",
   dishes: [
   {
     name: "Limewash",
@@ -3111,6 +3784,15 @@ export const meals: Meal[] = [
   country: "Hungary",
   slug: "meal-74-hungary",
   originalPath: "/countries/2013/meal-74-hungary",
+  intro: `Though it's common to think of Europe as being a jigsaw puzzle of peoples who've been there since before recorded history, the people who now populate the land known as Hungary didn't show up until a mere millennium ago. Known as the Magyars, they brought a herding tradition — and a non-Indo-European language most closely related to Finnish — from Siberia. Over the centuries, they settled into an intensely agricultural society that blended new foods such as paprika from the Turks and pastry from the Austrians into their meaty, brothy, bready core cuisine. (And oh, do they like their paprika: I used a quarter-pound in making this meal! If you're cooking Hungarian food, do yourself a favor and get some fresh stuff.)
+Related to jigsaws, one thing I've been mulling about after cooking this meal is that the old phrase, "The whole is greater than the sum of the parts," isn't always true. In fact, often you can get more utility out of breaking up an ingredient, and using each bit to its advantage. With the chicken, I was able to get several tablespoons of fat by trimming off the skin and slowly rendering it. (I used this in place of lard. No objection to lard, I'd just forgotten to buy some, and it was cold out!) And with the eggs in the torte, by separating the yolks from the whites, the recipe avails itself of the richness and emulsifying properties of the former, and the magical leavening properties of beating the former.
+
+We were lucky to have two people of Hungarian descent, Michele and Danielle, with us. (I'm one-eighth Hungarian, for what it's worth!) Also on hand were Brandon, Diana, Irene, and Soo-Young who's in Budapest as I write this!`,
+  wrapup: `I'm not huge on pâtisserie. The precise chemistry of baked goods is too much science and not enough art, while I'm a bit too haphazard to carefully handle and prepare fragile goods in precise preparations. But I had to game up for Hungary, which thanks to its split empire with Austria gained a strong expertise in making really tasty and impressively composed desserts. And all signs pointed to making this multi-layered cake, slathered with a thick coating of bar chocolate and butter to allow for long storage and transportation. (And flavor!)
+
+The classic dobos torte is round, with a toffee crust. The cake part is little more than an really sweet omelet, with ten egg yolks, a pound of sugar, seven beaten egg whites, and less than a cup of sugar. Despite appearances, you don't cook one cake and then slice it like cheese, rather you bake the layers on their own. It's really tedious to bake each layer individually as would be required for a round cake, so I followed the Smitten Kitchen advice and simply made two jelly roll pans of cake and sliced them up. No good excuse on not having the toffee crust; I just messed that one up by being too cautious and removing the caramel from the stove before it was done, so I ruined one layer of cake and just junked it. But other than that, this cake was pretty easy, the frosting is especially forgiving and after refrigeration sets very nicely.
+
+This was our last sit-down Nosh of the year. We've got a combined Honduras/Holy See holiday party coming up, and then in the new year we're onto the I countries!`,
   dishes: [
   {
     name: "Guly\u00e1s",
@@ -3161,6 +3843,7 @@ export const meals: Meal[] = [
   country: "Honduras / Holy See",
   slug: "meal-75-honduras-holy-see",
   originalPath: "/countries/2014/meal-75-honduras-holy-see",
+  intro: "Our first, and only, two-state meal! Here's why: the Holy See, as the \"legal personality\" of the Vatican City, is one of two non-member permanent observing states at the UN. The other, Palestine, has a cuisine well worth exploring, but setting aside quips about wine and wafers, there's nothing distinctive about Vatican cuisine, at least compared to the city of Rome that surrounds it. That said, the next UN country alphabetically happens to be a Catholic one — Honduras — and it was December, so it just made sense to do a Christmas party combining this Central American country's traditions with a few splashes of Roman cuisine. Thanks to the more than two dozen friends who stopped by and enjoyed this hybrid meal, along with random drinks left over from previous meals!",
   dishes: [
   {
     name: "Carciofi alla romana",
@@ -3193,6 +3876,27 @@ export const meals: Meal[] = [
   country: "Iceland",
   slug: "meal-76-iceland",
   originalPath: "/countries/2014/meal-76-iceland",
+  intro: `It's kind of astonishing that people have managed to live in Iceland for over a millennium. Trees don't grow there — for hundreds of years they could only make boats of driftwood — let alone much else, so its natural cuisine is quite sparse and based mostly on eating things that can survive on what's around, namely sheep, fish, and whatever random birds can be scrounged up.
+
+While there's plenty of influence from outside these days, the traditional Nordic month of Þorri (pronounced "thorri"), which starts in late January, emerged several decades ago as the time when Icelanders focus on the most distinctive — some would say grossest — parts of their cuisine in an assortment known as Þorramatur. I elected to forgo such options as rotten shark, fermented ram's testicles, and blood sausage, but I did make two dishes from sheep's heads. Apparently these sorts of food are eaten at this time of year because it's at this point when all the good stuff has ran out, and you're down to the odd parts and long-lasting stuff while waiting for spring.
+
+Our adventurous guests for the night were Jessica, Elsa, Chrys, Kate, Dan, Raven, and Cassie.`,
+  wrapup: `adapted from The Icelandic Cookbook by Hulta Emilsdóttir
+
+3 tablespoons butter, plus more for frying pancakes
+3 eggs, separated
+3 cups flour
+1/2 cup sugar
+1/2 teaspoon baking powder
+1/2 teaspoon baking soda
+1 teaspoon vanilla extract
+2-1/2 to 3 cups milk
+whipped cream
+jam (I simmered a bag of frozen blueberries with some sugar)
+
+Melt butter in a crêpe pan (or a frying pan if that's all you've got) and let cool slightly. In the meanwhile, whip the egg whites. In a separate bowl, perhaps a 2-quart measuring cup with a spout, combine the dry ingredients, then add the butter and enough milk to make the batter fairly runny, like a crepe batter. As you reheat the pan, fold the egg whites into the batter. Once the pan is good and hot, pour about a quarter cup of batter into the pan, and swirl around to cover, pouring any excess back into the batter. Put whipped cream and jam inside of the pancake, fold up, and devour. Note that the pancakes can be successfully made in advance and reheated in the microwave before serving.
+
+The playlist for the meal was surprisingly familiar. Betwen Björk, Sigur Rós, and Of Monsters and Men, this Virginia-sized island with a population smaller than Anaheim has made an outsized dent on the American music scene!`,
   dishes: [
   {
     name: "\u00c1fengi",
@@ -3246,6 +3950,14 @@ export const meals: Meal[] = [
   country: "India",
   slug: "meal-77-india",
   originalPath: "/countries/2014/meal-77-india",
+  intro: "It's absurd to squeeze a survey of Indian cuisine into one meal. From Kashmir to Kerala to Kolkata, there's just a bewildering diversity of flavors, ingredients, and techniques that very well merit a 35-meal tour of all the states and territories. (Ooh, wow, that does sound fun.)",
+  wrapup: `Think carrots are weird for dessert? Well, remember the existence of carrot cake, and let's talk. This is another deceptively simple dish — little more than carrots, milk, and sugar — though compared to the burfi it takes rather more labor. In particular, to boil down a bunch of milk until there's no liquid left takes a lot of stirring to avoid scorching. (Grating all those carrots could have been an even bigger pain, but fortunately I have a grating attachment for my Cuisinart.) With a dash of ghee, it becomes a pretty rich dessert, but hey, it's carrots, so it's healthy, right?
+
+Our friends the Bansals helped us with the menu; this recipe comes from their family.
+
+Raise your hand if this is your first nosh!
+
+Huge thanks to the folks who came early to help out: Sarah-Doe, Max, Diana, Colin, and Christen, to Hrithik and Reena Bansal for their advice from across the world, to Sophie for the Bollywood playlist, and to all the attendees whose donations, after doubling, will lead to almost 8,000 meals given by the World Food Program. Researching, shopping, and preparing for a crowd is a whole lot of work, but seeing how much impact one meal's worth of donations can make is really motivating — and sharing a crazy tasty meal with friends new and old makes it so much fun.`,
   dishes: [
   {
     name: "Gin and tonic",
@@ -3353,6 +4065,11 @@ export const meals: Meal[] = [
   country: "Indonesia",
   slug: "meal-78-indonesia",
   originalPath: "/countries/2014/meal-78-indonesia",
+  intro: `Indonesia's all about the islands. It's got over 17,000 of them, including large parts second- (New Guinea) and third-largest (Borneo) islands in the world. It also has the most populous island — at 141 million people, Java's population is about the same as Russia's, in 133 times less area!
+While it's generally not much on our radar from a geopolitical or cultural standpoint, it's played an important role in world, and culinary, history. For millennia traders from the West have sought its spices, and who knows how long it would have taken a European to make it to the New World had there not been the urge to find an easier route to the pepper, nutmeg, and cloves of Molucca, the Spice Islands? Curiously, spices don't have a particularly bold role in Indonesian cuisine today, which instead leans more on roots like ginger and galangal, and chili peppers, which ironically were first brought out of the New World by Columbus as a next-best-thing for not having found black pepper and found their way to Indonesia via the Portuguese. (They brought peanuts, too.)
+
+Joining us for the meal were Erika, Claire, Iris, Ben, and Michelle.`,
+  wrapup: "Whether warm or icy, most Indonesian desserts are a sort of half-drink, half-soup full of assorted nuggets. This one is a wintertime comfort, a sweet ginger broth playing host to a grab bag of delights both floating (bread, peanuts) and sinking (tapioca pearls, palm fruit), topped off with a drizzle of condensed milk because why not. It's a bizarre texture combo, ranging from fall-apart mushy to chewy to crunchy, but I found it surprisingly nice and comforting on a cold evening.",
   dishes: [
   {
     name: "Arrack punch",
@@ -3409,6 +4126,13 @@ export const meals: Meal[] = [
   country: "Iran",
   slug: "meal-79-iran",
   originalPath: "/countries/2014/meal-79-iran",
+  intro: `We say that with a Nosh we aim to cook a meal appropriate for a special moment or celebration, so it's great fortune when the calendar aligns with a festival — and even greater when it's the biggest of the year in the country. Persians have been celebrating Nowruz, the festival of the spring equinox, for millennia, and specific foods play a central (and delicious!) part of the rituals. Nowruz felt to me somewhere between Passover and Thanksgiving, a holiday tightly linked to many specific foods with imbued meaning.
+Helping us through this ancient tradition was Sophia. She brought many of the elements of the haft seen, the traditional elements; helped cook some of the dishes; and provided moral support by insisting that Iranians are very inventive so every little mistake or forgotten item wasn't a big deal and could be creatively substituted. We also got useful menu-planning help from Arya. Thanks to you both — and to everyone who pitched in to help serve, clean, and otherwise help out.
+
+As with the India meal, we noshed at a rented space, so we could accommodate twenty people, including Laura's dad, Lyall! I must say this one went more smoothly than India, mostly because I learned the lesson to not cook too many dishes at once.
+
+I should also note that I broke with my habit of using recipes found online. Everything I cooked is from Najmieh Batmanglij's Food of Life, which offers not only clear and tasty recipes, but also history, culture, and even fables to bring fuller context to the meal. Where possible I've linked to either the exact recipe I used, or found something similar.`,
+  wrapup: "This turned out to be really similar to the burfi I made for the India meal, shortbread-like, semi-sweet, lightly oily squares. Whereas with the Indian version the butteriness came from ground cashews so the dairy was dry milk, in the Persian version it's the chickpea flour that's dry, and ghee brings the moist fat. In both cases it's little more than mixing with powdered sugar (with a splash of rosewater to make it indelibly Iranian), rolling it out, and cutting it up. Easy, and tasty.",
   cardImage: "https://farm3.staticflickr.com/2899/13974925632_6afa5b28fa.jpg",
   dishes: [
   {
@@ -3442,6 +4166,32 @@ export const meals: Meal[] = [
   country: "Ireland",
   slug: "meal-80-ireland",
   originalPath: "/countries/2014/meal-80-ireland",
+  intro: `I thought this was going to be a meal of corned beef and raisin-studded soda bread. I quickly learned that that would be perhaps the meal of an Irish immigrant in America, but not really one to be found on the Emerald Isle. You’ll see why!
+The diet of Ireland is a very economical one, based on its damp, gray climate. Potatoes, of course, are the main starch, carrots and cabbage the primary vegetables, and protein coming from milk and pork. You’ll see all of this in the meal.
+
+Big thanks to our friend Sean, who helped with the structure of the meal, and read a few food-related portions of the book he just wrote about his mother’s experience growing up in a large, rural Irish family. Our other guests were Bill, Cathlin, Erin, Brendan, and Tennessee.
+
+Soda bread | Recipe
+
+Thanks to the Society for the Prevention of Irish Soda Bread, I learned to disregard all those recipes with raisins and sugar and caraway, buy a fresh box of baking soda, and bake the loaf in a cast-iron dutch oven. I made the brown bread version, which made up for in heartiness and authenticity what it lacked in sweetness or crispness. And of course, it went very well with Kerrygold butter — which it turns out are made just down the road from Sean's family — and Dubliner cheese.
+
+According to Sean, fried potatoes smothered in a mild curry sauce is the snack of choice while drinking out on the town in modern Ireland. And while often the quest for authenticity will send me down winding paths of grinding strange herbs or sprouting seeds or rendering animal parts, in this case, doing it the right way was as easy as tearing open a few packages. With oil-sprayed Irish oven chips and a packet of powdered curry sauce teeming with MSG, I whipped up a totally guilty-pleasure dish that seems a whole lot like Irish poutine in but a few minutes. I can’t wait to go to Dublin some day, get drunk, and eat these again.
+
+Boiling bacon is a salt-brined hunk of pork that’s a lot closer to what we think of as ham to that fat-streaked breakfast meat that we call bacon in America, and is the closest thing to a national dish in Ireland. So why do we eat corned beef on St. Patrick’s Day? Multiple sources say that when Irish immigrants got to the states, beef was far more commonly available, and was often found preserved in corns of salt, hence corned beef. It’s prepared just about the same way as Irish bacon — boiled for a good long while. So eventually it took hold, and now plenty of restaurants in Ireland serve corned beef to match American tourists’ expectations.
+
+So how’s boiled bacon? Kind of what you’d expect for salt-preserved meat boiled for a few hours: sorta salty, not terribly flavorful, but satisfying enough, especially if you helped yourself to some of the fat.
+
+Black and white puddings
+
+If you want more interestingly flavored meats, go for the sausage, or shall we say pudding. Both are made with oats and some spice; the difference is the white pudding is made with fat and random pig bits, while the black is made of the blood. Both were plenty tasty when fried up in a bit of the fat I rendered from the bacon!
+
+Colcannon | Cabbage and mashed potato | Recipe
+
+Colcannon is a dish so famous it’s got a song written about it. It’s real comfort food of mashed potatoes with cabbage or kale, and cream and/or butter mixed in with maybe some scallions. I made two versions, one of cabbage boiled in the salty bacon water with the Kerrygold butter and cream from the farmer’s market, and the other a vegan one of cabbage and coconut oil. Both were quite tasty, and a good foil to that salty meat.
+
+OK, this is actually an Irish food stereotype that is true: they do cook with beer! Sean was kind enough to share with e his grandmother’s closely guarded recipe entitled “My Own Porter Cake.” It’s a dense affair, with a whole lot of raisins and a bottle of Guinness. You’ll forgive me for avoiding the twenty minutes of hand beating the recipe called for, I let my good friend Kitchenaid do that part. I realized about five minutes after putting the cake in the rather low-heat oven that I’d forgotten to add the spices, so I simply put them in the whipped cream I served on the side.
+
+Sean also brought a playlist, so we enjoyed a wide variety of Irish music, from 70's Northern Irish punk bands to the Cranberries and U2. Oh, and we ended the evening 1.5 bottles of Irish whiskey poorer!`,
   cardImage: "https://farm6.staticflickr.com/5458/13978121165_29094b163f.jpg",
   dishes: [
       { name: "Soda bread", description: "Thanks to the Society for the Prevention of Irish Soda Bread, I learned to disregard recipes with raisins and sugar and bake in a cast-iron dutch oven. The brown bread version went very well with Kerrygold butter.", recipeUrl: "http://www.sodabread.info/Recipes/sodabreadrecipes.htm", recipeLabel: "Recipe" },
@@ -3457,6 +4207,50 @@ export const meals: Meal[] = [
   country: "Italy",
   slug: "meal-81-italy",
   originalPath: "/countries/2014/meal-81-italy",
+  intro: `In the estimation of many, Italy is the true heart of Western gastronomy. France gets so much of the glory, but it wasn't until Catherine de' Medici of Florence married French King Henry II and brought her chefs with her that their cuisine set on the road to such lofty achievements.
+A major flaw of going one-meal-per-country is that even the most culinarily interesting and diverse countries only show up once. Well, except for Italian food — thanks to the Holy See (aka Vatican City, a permanent observing state) and San Marino (a tiny but full-fledged member), we essentially get three shots at it! (Oh, I guess thanks to Monaco we'll get French food again. Score!) But even then, there's so much variety across Italy owing to a wide diversity of climates and geographies; to name just one important distinction, the North tends to use butter and the South olive oil as the cooking fat of choice.
+
+One great thing about this project is that there's always a theme for a birthday party. Italy marks Laura's third birthday nosh, after Canada and France. In a shocking break with tradition, I'm the one who took the group photo, so Laura's included! Surrounding her are Erin, Lisa, Anna, Alicia, Jessica, Kirsty, Sarah-Doe, and Elsa. Note the utterly empty bowl that once held pesto pasta.
+
+Antipasti | Appetizers
+
+Our pre-dinner entertainment was tarot card readings (tarot was invented in Italy, who knew?), so we needed an appetizer that didn't require formal service. Fortunately, Italian food has perfected the art of pre-dinner nibbling with the antipasto, literally, "before the pasta." The spread gave me the opportunity to represent preserved foods from around the country.
+
+For meats, we had San Daniele prosciutto from Friuli in the northeast, richly spiced cacciatorini salame from throughout the north and central regions, and a spreadable, fiery 'Nduja from Calabria. I can't even remember all the cheeses, but they included a fresh sheep's-milk ricotta from Lazio near Rome, a delicious, medium-flavored snacking cheese called bra from Piedmont, and a truly distinctive cheese called formaggio di fossa, so named because it's buried in a pit and allowed to anaerobically ferment for a few months, making for a really pungent, sharp, and crumbly cheese. I also roasted some eggplant, chopped it up, and doused it with olive oil, garlic, oregano and salt to make a Southern Italian salad-dip-like thing.
+
+Pane tipo Altamura | Semolina sourdough bread | Recipe
+
+(Sorry there's no photo. Imagine a round loaf of bread.)
+
+I was going to make a ciabatta, until I discovered that it was invented in...1982! So I went searching for an older one, and given my love of sourdough and alternative flours, I ended up with this bread from Apulia, which is known in Italy as Puglia. (Why does English mangle it? Some Anglicizations make sense, like Florence for Firenze and Naples for Napoli. But Apulia, as well as Genoa for Genova, don't seem to add anything.)
+
+Since Roman times, the semolina-based loaf from this particular town has received wide acclaim, and I gotta say it turned out great when I made my best imitation. Moderately spongy with medium holes, a substantial but not overwhelming tang, a bit of nuttiness from the semolina and a crispy but not overly-thick crust made this one of the favorites I've ever made. The only downside is how long it takes to make it: 40 minutes, then 2.5 hours, then 2 hours, then a relatively long bake — something that can only be made on a leisurely weekend day. This bread went great with the antipasti, and the second loaf I made held up admirably for several more days.
+
+We're not big fans of Negronis and those other classic Italian cocktails, Laura and I find them too bitter. But this, the famous apertivo of Venice, won our vote: three parts prosecco, two parts Aperol, one part soda, with ice and a slice of orange. Aperol is indeed made of some bitter things, but it's milder and sweeter, and when paired with the dry bubbly, it's just lovely and refreshing.
+
+Pasta fresca all'uovo con pesto alla genovese | Fresh pasta with basil pesto | Recipe
+
+In a proper Italian meal, the primo piatto, the first plate, is generally pasta or soup. Uh, duh, pasta please.
+
+I can't believe I'd never made pasta until now, and it was just as fun and satisfying as folks had told me it would be. With something so simple — it's just flour and eggs — the ingredients are extremely important. I used Italian Tipo 00 flour, which is milled super-fine, which helps it cook faster and also not require as much hydration (hence no added water beyond the moisture from the eggs), leading to a softer texture. The eggs came from the farmer's market. Making up the dough (pasta means paste, as in dough) was easy enough, the laborious part was cranking the sheets of dough through ever-narrower settings on the (borrowed) machine, carefully dusting each layer with flour to avoid them sticking.
+
+Pesto means "pestle," as in the thing you use with a mortar to mash something. Fortunately, the Cuisinart has eliminated the tedium of mashing basil, garlic, grated hard cheese, pine nuts and olive oil with pieces of stone, so this classic Ligurian sauce came together in just a few minutes. Sharp from raw garlic, rich from abundant oil, and fresh and aromatic from basil, the pesto played so well against the soft, mildly eggy canvas of the fresh pasta. There was nary a noodle left after just a few minutes.
+
+Involtini di manzo in salsa di tomate | Beef pinwheels | Recipe
+
+In Northern Italy, meat is traditionally more abundant, and meat dishes are often straightforward hunks of flesh. In the poorer South, meat is treated as more of a luxury good, whose flavor is to be stretched by blending with complementary ingredients. Perhaps an illustration of this distinction is the two meanings of the word braciole: to northerners it'd be medium-thick slices of meat, to southerners it's meat slices pounded thin and stuffed. The latter, which is also universally known in Italy as involtini or "roll-ups," is what we had for a main course. I made it Sicilian-style with breadcrumbs, grated cheese, raisins and pine nuts (ironically, the pine nuts were far more expensive per pound than even the grass-fed beef), held together with a toothpick and browned all sides until cooked through. With the pan juices, I built up a tomato sauce, then put the involtini back in. The great thing about this dish is you can cook ahead of time, and reheat in just a few minutes. (It's also pretty yummy cold!)
+
+Cassata ricetta mia | Sicilian layer cake, my way
+
+A birthday party needs a cake, right? The cassata, probably Italy's most famous cake, is made with sponge cake soaked in rum, and layered with the same sort of creamy spread you find in cannoli. The recipe I found looked cool because it uses a layer of marzipan lined with chocolate to give the thing body; I half-managed to layer the pan with the rolled-out almond paste, but spreading with molten chocolate was a disaster and it all clumped up. I changed course by mushing it all into a layer of chocolatey marzipan, and used that as a layer of the filling. Another layer was sweetened ricotta cheese studded with chocolate curls. Candied fruit is a traditional part of the cake, but Laura doesn't like it, so I kept a corner clear for her. The cassata was rich and delicious, but be warned that whatever recipe you follow is going to be a whole lot of work.
+
+Gelato di cioccolato | Chocolate gelato | Recipe
+
+Drop the mic, put a cork in it, closing time, etc. I shall no longer search for a chocolate ice cream recipe, because there's no way anything could be better than this gem, which comes to us by way of the beloved goddess of Italian cuisine, Marcella Hazan.
+
+What's all the more astonishing is that it's so rich and sumptuous, yet as a gelato contains no cream. So why's it so rich and tasty, and smoother than any frozen dessert I've ever made? Surely the blend of rich cocoa powder and melted semisweet chocolate rounds out the flavor, but the trick is in a dash of caramel that you whip up in a pan on the side and pour into the custard right as it firms up.
+
+We went through roughly a bottle of Italian wine apiece, plus the Aperol Spritz. The recycling collectors must think we're lushes with very particular regional taste in wine.`,
   cardImage: "https://farm8.staticflickr.com/7315/13978532394_ede2016b43.jpg",
   dishes: [
   {
@@ -3478,6 +4272,43 @@ export const meals: Meal[] = [
   country: "Iraq",
   slug: "meal-82-iraq",
   originalPath: "/countries/2014/meal-82-iraq",
+  intro: `Look beyond the horrible news coming out of the country these days, or the past few decades — way, way beyond, because agriculture and civilization in the lands that now comprise Iraq goes back at least ten thousand years. The soils along the Tigris and Euphrates river are fertile and relatively moist, and the surrounding lands held forth wild grasses that became such staple grains as wheat and barley, and soon after domesticated animals, and writing, and even beer.
+
+The cuisine of Iraq has transformed a whole lot over the millennia. While wheat and barley are still to be found, rice is the grain of choice — so beloved that it goes by the word timman, from the now-extinct Akkadian language, rather than the standard Arabic ruz. Beer can be found, but indications are that it's not so great. And other crops have emerged too, with Iraq now the world's largest producer of dates.
+
+While many of the classics of Middle Eastern cuisine are very common on the Iraqi table, such as hummus, baba ghannoush, and kebab, I narrowed the focus to what is, as far as I can tell, most distinctive to the country. In particular, I found abundant reference and a huge variety of recipes for kibbeh, a general term for grain stuffed with meat, and there was no doubt that the "national dish" is a fish split open, rubbed with spices, and slowly grilled, or that I should make a cookie with a nearly savory dough but a very sweet filling for dessert.
+
+Our guests for the evening were Molly, Stephen, Steve, Yali, Sarah and Shana.
+
+Loomi | Dried lime tea | Recipe
+
+While they can also be used whole in a stew, or ground up into a powder and added to a spice blend, you'll enjoy them in their purest form as an exquisitely refreshing tea. The hardest part of making loomi, as it's known, is finding them, but any Middle Eastern store or a good-enough spice shop will carry them. (Kalustyan's in Manhattan has several varieties of different darkness and size, shades of subtlety I have yet to explore.) Once acquired, it's as simple as poking a few holes in them with a fork, steeping them in water with sugar added, straining, and chilling.
+
+Mutabbal | Eggplant salad | Recipe
+
+Pretty straightforward: roast an eggplant, dice it up and put over chopped veggies, drizzle with olive oil and pomegranate molasses. Really quite tasty.
+
+Kubba halab | Lamb-stuffed rice croquette | Recipe
+
+Iraq offers an astonishing variety of meat-stuffed grain. With a few exceptions, such as the Mosul variety which is two thin layers of bulgur with a meat layer in the middle, they are shaped somewhere between a torpedo and an American football, a coating of starch enveloping a meaty core. I chose this one, with a shell of rice and potatoes, in homage to the predominance of rice in the Iraqi cuisine and psyche. (Though, oddly, its name refers to the Syrian city of Aleppo.)
+
+This was a labor-intensive dish. The meat isn't so hard to make but for all the breaking-up of the ground lamb in the frying pan. The outer shell requires cooking both rice and potato, then passing through a meat grinder, before forming into balls that you poke a hole into and smush in just enough lamb but not so much that it bursts. Then you have to freeze the balls to get them firm enough so they don't break apart when being fried in the pan, but even then they sometimes break and a fair amount of the crispy bits stick to the pan rather than the food. It's tasty enough, but maybe I'd recommend the easier Mosul variety!
+
+Masgouf | Grilled butterflied fish | Recipe
+
+Masgouf is a freshly-killed carp from the Euphrates river, butterflied, rubbed with turmeric and tamarind, and splayed out vertically, its insides exposed to the nearby flames of slowly burning apricot wood. The memory of this dish, languid in the cooking, inspires such wistfulness for better days that it's been the topic of dozens of articles and even a widely distributed fictional book. But now the Euphrates is so polluted that it's a serious risk to eat a carp pulled from it, and the hours of leisure the live-fish-to-smoky-flesh preparation require are too far a luxury to Baghdadis of recent times.
+
+My reasons for not making a true masgouf are purely logistical: I don't have the space or equipment to build such a fire, and none of the shops I went to in Chinatown had carp, so I used tilapia instead. Thankfully they took care of the butterflying for me, and I did my best to replicate a slow smoky fire by using hickory chips on the gas grill and very slowly and indirectly cooking the fish. You know what? It turned out super tasty. The smoke definitely came through, and the odd combination of spices paired nicely with the sweet flesh.
+
+Timin shreya | Vermicelli rice | Recipe
+
+Just like their Eastern neighbors, Iraqis love a crispy crust on their rice. Unlike the Persians, though, Iraqis don't go through an elaborate process of soaking and parboiling the rice and then exaggerating the crust with a layer on the bottom — they just use a bit of fat and a very long, slow cook to get a crispy crust the straightforward way. While putting vermicelli, little strands of pasta, in with the rice isn't necessarily the absolutely most typical presentation, it sure looks nice and adds variety to the presentation. If making this dish, it's really important to make sure the heat is well-diffused. I use a cast iron heat diffuser, but in a pinch you could just place your pot on top of a (not-non-stick) frying pan to make sure the heat really spreads, otherwise you'll get a burnt spot where the heat hits.
+
+Kleicha | Date cookies | Recipe
+
+Back when Iraq was a place of diverse religions, Jews and Christians as well as Muslims all would make this dish as a symbol of celebrations both religious and personal. It's not exactly what passes for a cookie in the West — the yeasted dough is decidedly unsweet and it's the filling that makes it dessert, and the whole thing is haunted with spices like generally un-sweet flavors like fennel and nigella — but the crispness and finger-food nature make for a sufficiently apt comparison. While they can be many shapes and filled with many things, the classic filling is dates and the roll-up cookie seems the most common.
+
+These were actually really fun to make. The dates come together nicely, and the dough is so buttery that it's actually a pleasure to work with. And oh, the eating experience! A haunting combo of spices, a delightfully flaky cookie that gives way to a firmly chewy interior, and the perfect size for eating in two nibbles. Goes great with cardamom tea!`,
   cardImage: "https://farm4.staticflickr.com/3916/14395416965_a665efbdc3.jpg",
   dishes: [
   {
@@ -3499,6 +4330,56 @@ export const meals: Meal[] = [
   country: "Israel",
   slug: "meal-83-israel",
   originalPath: "/countries/2014/meal-83-israel",
+  intro: `One way to look at cuisine is the interface between what foods are available and the cultures of the people who live there. We get a fascinating case study in the foods of Israel, a young country in an ancient land, with most of its population zero to two generations removed from some other place, whether near or very far.
+Israeli food is very much not what we think of in the U.S. as "Jewish food," for a few good reasons. I could get into ethnography and census counts, but this is a food blog, so just think to yourself whether matzo ball soup and brisket roasts sound good in a hot environment. Frankly, I don't blame Israelis, including those of Ashkenazi descent, for ditching the food of a poor people in a cold climate with short growing seasons, and instead preferring the abundance of the Mediterranean. There's a reason the Garden of Eden is placed somewhere around there!  (Incongruously, Israel has also developed a far less holy snack-food industry.)
+
+I owe a huge debt of gratitude to Sarah, my buddy from high school, who now lives and works in Israel. She's an assiduous follower of the blog, and was a tremendous help in sorting through the menu, steering me in the right direction (turns out Israelis don't really make falafel at home!), and pointing out things I may never have come across because they're almost too obvious to anyone who knows the culture (minty lemonade!).
+
+Our guests for the evening were Martyna, Russell, Jessica, Miriam, and Rob!
+
+Limonana | Minty lemonade | Recipe
+
+It's so goofy as to sound apocryphal: this most refreshing of drinks is not only an invention from within the past 25 years, but it came about as the invented subject of an ad campaign meant to prove the value of out-of-home ads (think sides of buses). Apparently enough people were enticed by the promise of a minty lemonade with a catchy name that they started asking for it at restaurants, who pretty quickly figured out how to make it.
+
+Whenever and however it was invented, it's a shock this beverage isn't found anywhere in the world it gets hot. Tart lemon is refreshing, cooling mint is refreshing, and the addition of sugar and seltzer make them a delight to drink. In this version I made a simple syrup with mint, but you could just as easily muddle mint in the glass.
+
+Sarah made it clear that to be a real Israeli summertime event, we ought to also mix arak, an anise liqueur similar to raki or ouzo, with grapefruit juice. As she had warned, we found it pretty vile.
+
+Hummus | Chickpea dip | Recipe
+
+While time-consuming, it's easy and cheap to make hummus from scratch. It takes an overnight soak and several hours of simmering, but the final step is a mere blitz in the food processor and you've got your own fluffy, creamy dip that's as garlicky, salty, tangy, or oily as you want it. For those of us who are, uh, sensitive to garbanzos, you may find that when you give the a long soak and a slow simmer, they're a lot more digestible than their commercially prepared counterpart.
+
+Pita | Flatbread | Recipe
+
+Respectable bakers say that when it comes to normal loaves of bread, bad bread should be eaten hot to mask the lack of flavor, and good bread should be allowed to sit for a bit. But I really like hot bread, so flatbreads allow me to indulge my taste and maintain my amateur-baker pride. Flatbreads are also generally pretty quick and easy to make, the only annoying part being frequently bending over and pulling things into and out of a hot oven. My trick is, whenever possible, to make flatbreads on a griddle on the barbecue, which makes access so much easier.
+
+Unlike the thin and rather sparse pitas we most often see here, Israeli pitas are thicker and spongier. I found I got the right thickness by putting a ball of dough on a plate with slightly raised sides and using a rolling pin along the edges of the plate, making for about a half-inch-thick piece of dough. (I use a horizontally-grooved hand-carved chapati roller I bought for fifty cents at a Mumbai antique shop. You could also use a wine bottle.) Too much sauce soaks right through a normal pita, while this thicker variety is well-suited for sopping up all manner of dip and sauce, or for making your own little sandwich with. Yum.
+
+Salat yerakot | Chopped salad
+
+It's really nothing more than tomato and cucumber with sumac, lemon juice, and olive oil, the sort of thing that's eaten pretty much anywhere those ingredients grow. But what makes it Israeli is how incredibly finely chopped everything is. Apparently it's a point of honor of Israeli chefs. I found it made things really watery as you can see, as every stroke of the knife squishes more juice from the tomato — was I supposed to drain some of it?
+
+Chraime | White fish in spicy tomato sauce | Recipe
+
+We can thank the Sephardic Jews of North Africa, many of whom emigrated to Israel, for this easy, simple, yet really tasty dish. The flavors play off so well, the tang and spice of the sauce with the oily-sweet, fleshy fish. And it's so easy to throw together: throw together ingredients you probably have on hand (including that humblest of staples, tomato paste), pop in whatever firm fish you happen to find (the recipe calls for sea bass but I had an easier time coming by swordfish thanks to Trader Joe's), and you're done. Tasty dinner in 20 minutes.
+
+Yerakot kluim im daloreet, krooveet, ve'batzal adom | Roasted vegetables with tahini sauce | Recipe
+
+Sarah made it clear that adding cauliflower to the meal would lend a real sense of authenticity, and that Israelis love their roasted veggies, so that's how I made the cauliflower, along with butternut squash and red onions. Instead of roasting in the oven, I threw everything in a basket on the grill. The veggies got moderately charred, but the crowd didn't seem to mind, it all got gobbled up.
+
+Kebabim | Ground lamb with pine nuts and tahini sauce | Recipe
+
+In Israel, kebab doesn't mean meat chunks on a skewer, or a big ol' spit (that's schwarma in Israel, of course), but rather spiced ground lamb patties. Pine nuts add a bit of crunch and the mint is a refreshing balance to the rich lamb. I grilled them like hamburgers, then we doused them in a tahini sauce. They also worked well as a sandwich inside the pita. I ended up with way too much of the meat, which I then froze raw for future meals.
+
+Yerushalmi kugel | Peppery caramel casserole | Recipe
+
+This is one of the few foods I found that can be called historically Israeli, as in, invented by a Jewish community living there before the creation of the state. It's a curious dish, a noodle casserole that blends an oily sweet caramel with fresh cracked pepper, and bound together with eggs. With a long, slow bake, the top and edges get good and crispy, and the inside stays moist. Is this a dessert, a snack, or a light meal? It could be any of that.
+
+Rugelach | Chocolate-walnut-jam rolled cookies | Recipe
+
+For years I've heard stories of my ancestor, Fannie Danab, who was such a good cook that she never taught anyone her techniques, since she didn't want anyone to be a slave to the kitchen like she was. All the same, my grandmother worked to replicate her recipe for rugelach, the crispy little rolled-up cookies that, along with schniztel, are one of the few Ashkenazi (Eastern European) Jewish foods to have become firmly implanted in Israel. The recipe here is, according to my mom, pretty close to what my grandmother would make, so here you have it, third-hand.
+
+The secret to the flaky dough is cream cheese and of course butter; I decided to keep this meal kosher, so it was Tofutti and margarine here. I rolled out rounds (it's thankfully a pretty forgiving dough), spread out a really tasty strawberry-raspberry jam, sprinkled with chocolate and walnuts (not hazlenuts, because I used what I had), sliced into wedges, and merrily rolled them up.`,
   cardImage: "https://farm6.staticflickr.com/5471/14458746770_eb916bc8c7.jpg",
   dishes: [
   {
@@ -3538,6 +4419,35 @@ export const meals: Meal[] = [
   country: "Jamaica",
   slug: "meal-84-jamaica",
   originalPath: "/countries/2014/meal-84-jamaica",
+  intro: `I was surprised to read in my research for this meal that a lot of Jamaicans wish they'd never gone independent from the United Kingdom, missing the economic stability and lower crime of that bygone era. It turns out that this tropical island, which on the surface is about as different as possible from that European one, has a fair amount more in common with it than you would think, at least through the lens of food. The patty, for instance, is probably directly derived from the Cornish pasty. The saltfish in the national dish was introduced through English trading ships, as was the quirky and beloved starch-on-a-tree, breadfruit. Even sorrel, that cheery drink, came on slave ships from West Africa. That said, it's held on good authority that jerk meat is a homegrown creation, and in fact allspice, found throughout the cuisine as mostly a spice for savory dishes, is native to the island.
+
+Our guest of honor was Lois, from Jamaica! We also dined with Heather, Sarah, Brian, Chris, Betsy, and Christen. Despite the fact that it looks like I was pasted in the front there, I swear I was actually there, it's the lighting.
+
+Planter's Punch
+
+There's plenty of disagreement over whether this drink comes from South Carolina or Jamaica, but either way, this drink is a sweet, tropical refresher. Tropical juices and grenadine (which I made from scratch by boiling down pomegranate juice and adding sugar) hook up with dark rum and a dash of bitters, and voilà. There are as many recipes as bartenders!
+
+The word in Spanish for the flower, and the rich red drink it makes, is jamaica. So I’m not at all surprised that the island with the same name loves to drink what we call hibiscus and they call sorrel. It’s got all the color and staining power of beets, with a fruity sourness reminiscent of pomegranate without the sweetness. Accordingly, when making a drink from the dried sepals, you sweeten it after a boil and long soak, and sometimes even add other flavors like ginger and clove. I made this one fairly tart, and Lois said she liked it that way, so hooray. Just be sure to not spill any on yourself or the stain will likely not come out! Goes very well with rum, by the way.
+
+Saltfish and ackees | Recipe
+
+While jerk is by far the best-known Jamaican food up here, the undisputed national dish is a breakfast food that looks like scrambled eggs but is made from an oily fruit and a salty dried fish. It’s curious that, even though they’re surrounded by abundant seas, the national dish is made from long-preserved fish from Canada, but colonial legacies will do strange things. At least the fruit is quite native: ackees look a bit like oversized lychees, but aren’t very sweet. So long as you remember to soak the fish overnight, the dish is a cinch to whip together, and tastes quite a bit better than it looks or sounds. I’d definitely eat this salty, moderately greasy, and tasty plate as a hangover cure.
+
+Patties | Recipe
+
+A Jamaican patty is flaky, tinged yellow with curry, and traditionally stuffed with an allspice-heavy, moderately spicy ground-beef filling. I did that, as well as a vegetarian version with chorizo. As I continue to struggle with pastry, I gave up rolling out big sheets of the patty dough, and instead rolled out individual rounds, which was tedious but worked ok. The patties baked up nicely and were really quite yummy.
+
+Jerk chicken | Recipe
+
+Once you’ve whipped up the off-white marinade, heavy with onions and the classic thyme and allspice, you’ll wonder how it’ll turn into that super-dark coating that you think of when you think of jerked meat. Well, it takes patience: first for the long marinade, and then the slow grill, but darken it will. It turned out so damn well: I’m sure part of it is due to having used tender local well-raised chicken, but that long marinade just took it to beautiful, spicy, flavorful places.
+
+Ever heard of the Mutiny on the Bounty? The ship was on a mission from the Caribbean to the South Pacific to bring back samples of the tree that grows this big, fleshy, surprisingly bread-like fruit that was rumored to be super nutritious, as cheap food for slaves. It turns out the scaly fruit is kind of a health dud, and the slaves originally refused to eat it, but it eventually became a beloved part of the cuisine of the islands. It’s easy enough to cook: just roast it whole over fire (like I did) or in an oven (if that's more convenient), and cut it open. So what’s it like? Well, it looks like one of those smooth-skinned avocados blown up to several times its size, and tastes something between a banana and an artichoke. They’re kinda hard to come by — this was the fourth Nosh for which I looked in West Indian markets for breadfruit and the first time I got them — so if you happen to see it, do yourself a favor and give it a try. I doubt you’ll develop a craving, but you probably won’t hate it either.
+
+Ice creams: Grape-nuts | Mango
+
+Turns out Jamaica has a pretty big ice-cream culture, so for my final act before selling my machine, I whipped up a few frozen treats.
+
+I was surprised as you probably are to learn that Grape-nuts ice cream is one of the most beloved flavors in Jamaica. (Weirdly, it also is in Maine.) I can see why: there’s something about how the malt plays off the sweet and cream, and the crunch in contrast with the soft, that’s just really delightful. The mango ice cream, with a squeeze of lime, was pretty alright too, though I think the chunks of fruit were too big and got kinda icy.`,
   dishes: [
       { name: "Planter's Punch", description: "A sweet, tropical refresher. Tropical juices and homemade grenadine hook up with dark rum and a dash of bitters." },
       { name: "Sorrel", description: "The rich red hibiscus drink — fruity sourness reminiscent of pomegranate. Goes very well with rum." },
@@ -3553,6 +4463,45 @@ export const meals: Meal[] = [
   country: "Japan",
   slug: "meal-85-japan",
   originalPath: "/countries/2014/meal-85-japan",
+  intro: `Japanese cuisine is a real delight of variety of cooking technique, flavor balance, textures and seasonal sensitivity, which is why it’s a shame that most Westerners only know it through the narrow (though tasty!) lens of sushi. Accordingly, for this meal, the last at our Brooklyn apartment, I resolved to get nowhere near the stuff, and instead showcase an admittedly small fraction of the rest of what’s on offer, with an inclination toward traditional summertime foods.
+
+Having come of age during the height of America’s economic intimidation by and cultural fascination with modern Japan, that country had an outsized influence on my childhood. I first went when I was nine years old on a one-week elemetary-school exchange (who knew such a thing existed!) outside of Osaka, then again in middle school, high school, and then a few years ago for work. I went to a Japanese Saturday school for a few years, studied the language in high school and college, and cooked quite a bit of Japanese food with my parents throughout middle and high schools. Alas, I’ve lost most of the language, but I’ve remembered quite a few bits about the cuisine that helped in the research for and preparation of this meal.
+
+I did as much prep in advance as possible, because we had a World Cup match to watch! After the US and Portugal played to an agonizing tie, a bunch of folks came over: Diana, Jeff, Elly, Erika, Carolyn, Matt, Catherine, and more!
+
+Mugicha | Cold barley tea
+
+Having grown up on the West Coast, I didn’t know about humidity, so when I went to Japan in August after graduating eighth grade, I was just about knocked on my ass. The saving grace was this incredibly refreshing, smoky-nutty barley infusion. The standard packaging is enough to make 54 liters of the stuff, which ought to give an indication of its addictiveness. If you’re closer to a Korean market, look for borucha, which is as far as I can tell the same thing.
+
+Hiyayakko | Cold tofu appetizer | Recipe
+
+At the end of a hot day, this simple little appetizer is a lovely way to ease into the meal. The softest tofu is topped with a bit of grated ginger and scallions, and kissed with a bit of a chilled sauce. Easy, gentle, inviting.
+
+Kyuuri to wakame no amasuzuke | Cucumber and seaweed pickles | Recipe
+
+Thanks to the preponderance of sushi restaurants, about the only bit most people experience of the wide world of Japanese pickles is the little bit of ginger — which, sadly, is usually died pink to cover over imperfections. (You know ginger is naturally a very pale yellow, right?) Since I didn’t have time for some of the long, salt-based pickles that can take months or even years, I went for an overnight marinade of thinly sliced cucumbers and the spindly wakame seaweed in a tangy-sweet blend of rice vinegar and the curious sweet rice wine known as mirin. Another refreshing and appetite-stimulating starter.
+
+Goma ai shingiku | Chrysanthemum greens with sesame sauce
+
+Blanched spinach with sesame sauce was a common first course for Japanese meals at home growing up, but I'd never realized until Elly mentioned it that the dish can be made equally well, and in a slightly more exotic fashion, with chrysanthemum greens. They're a bit more bitter and herby than spinach, and more toothsome, but still shrink down to almost nothing just the same. With the thickly textured yet gently flavored sauce, it's another good addition to a lineup of summer nibbles.
+
+Miso shiru | Miso soup | Recipe
+
+As with most simple soups, the key is the broth. At the heart of this and just about every Japanese soup — and, heck, many Japanese foods beyond soup — is what’s known as dashi, made with wide strips of natural-MSG-laden kombu seaweed and impossibly thin flakes of dried shaved bonito called katsuobushi that lends an utterly clean fishy flavor.  While I have cooked dozens of Japanese meals in my life, I’ve never made dashi from scratch, and I’m glad I did: as with so many things, a little extra effort lends a flavor that’s purer and more satisfying. The miso, made from fermented soybeans and adding a bit of body and tang, is but an afterthought, stirred in at the end right before a baptism of tofu, wakame seaweed, and scallion nibbles. Despite the heat, everyone finished their bowl!
+
+Saba shioyaki | Broiled mackerel | Recipe
+
+Some of the best foods are truly the simplest, the ones that combine the good fortune of fresh ingredients with just enough manipulation to bring out its best. They happened to have local mackerel at the neighborhood farmers market (though I think it’s more accurate to call fishermen hunters than farmers!), and all I did was salt the filets long enough to draw out a bit of liquid, and broil them skin-side-up for about ten minutes. I’ll leave it to you to decide if the wedge of lemon on the side was cheating on nature.
+
+Negima yakitori | Chicken and scallion skewers | Recipe
+
+Through this sweet-glazed chicken kabob, Japan has made a world-class contribution to the constellation of grilled meat. In contrast to some other dishes that delicately present subtle flavors in genteel portions, yakitori is bold, brash, and brutish, rich and meaty chunks rippedp with the teeth off a skewer held by increasingly sticky fingers and washed down with a big gulp of beer. And unlike the neatly arranged bento and other precisely apportioned food, yakitori is ordered one after another, the empty skewers totaled up to calculate the bill.
+
+This was certainly the most labor-intensive dish, and one that admittedly most Japanese home cooks wouldn’t do — it’s the equivalent of making your own ketchup. But just as homemade ketchup tastes better than the already-good bottled version, so does this yakitori sauce. Once thickened and cooled, it’s used in abundance, generously slathered time and again on the grilling skewers to lacquer on layers of salty-sweet richness. It turned out great and everyone enjoyed it; my one improvement for next time would be to cook them half-way before the guests arrive, because it took longer than I’d hoped to grill them all up from raw.
+
+Zaru soba | Cold buckwheat noodles with dipping sauce | Recipe
+
+Along with mugicha, the barley tea, my food memories of summertime Japan are full of these cold buckwheat noodles. Slightly chewy and surprisingly easy to grip with chopsticks, they’re run through a  soy sauce-dashi dipping sauce — zaru is an onomatopoeia for the sound the noodles make when sloshed through the sauce — then slurped as a cooling delight. Zarusoba often serves as the end of a meal, a cheap and filling way to top off the tank if the more expensive protein and vegetables didn’t suffice. I love the texture, the flavor, and the temperature, and of course the memories they all evoke. Somehow I always manage to finish my bowl.`,
   cardImage: "https://farm8.staticflickr.com/7551/15530104750_f41a588451.jpg",
   dishes: [
   {
@@ -3584,6 +4533,41 @@ export const meals: Meal[] = [
   country: "Jordan",
   slug: "meal-86-jordan",
   originalPath: "/countries/2014/meal-86-jordan",
+  intro: `When you think of Middle Eastern food, you probably imagine hummus, tabbouli, falafel. While those foods are indeed popular throughout the region, they come from the Levant, essentially the region between the Mediterranean and the Euphrates which contains modern-day Syria, Lebanon, and Jordan, plus pieces of Iraq, Israel, and Palestine. (Incidentally, confusion about how to translate the Arabic word for this region, ash-Sham, is why the terrorist organization based in Syria is sometimes translated ISIS (where the second S is "Syria") or ISIL (for "Levant").
+One of the goals for this project is to highlight what's distinctive about a country, meaning in part what you can find there that's nowhere else. In this case, some of the core parts of the Levantine diet are so pervasive I couldn't avoid them, but rather integrated them in a distinctive way — with hummus as a part of a bigger dip, for instance, and particular local variations of regional favorites like baba ghannoush and mujaddara.
+
+Fortunately, this type of meal scales well. For our very last meal as New Yorkers, we returned to the fantastic Hostelling International on the Upper West Side for two reasons: we wanted to host many more folks than could fit in our apartment, and even if we'd wanted to host there, almost everything was packed up or given away! It was a pleasure to host several dozen people on a beautiful night, and cook with friends old and new in the very ample basement kitchen.
+
+Tremendous thanks to Najeeb, a colleague of mine from Jordan living in Dubai, who summoned the famous Jordanian hospitality I'd read so much about in an amazing and unexpected way — he insisted on paying for the tickets for some people to come and enjoy his country's food! Thanks to Najeeb, everyone who volunteered to cook was able to enjoy the meal at no cost. (And, of course, hundreds of people received meals from the World Food Program.)
+
+Fattet hummus | Hummus dip | Recipe
+
+You know that random mixed-up mess you have left on your plate after trying a bunch of dishes at a Middle Eastern restaurant? This dish is kinda like that, just pre-mushed-up for you, with chickpeas two ways — plain and as hummus — plus yogurt, tahini, pita, olive oil, pine nuts, and parsley. It's like for Levantine food what seven-layer dip is for Tex-Mex, and a tasty way to feed a crowd. Big thanks to Jason for whipping up the hummus and then compiling the dish.
+
+Moutabal | Roasted eggplant dip | Recipe
+
+If this dish of roasted eggplant, tahini, garlic and lemon juice looks a whole lot like baba ghannoush, well, you're sort of right. That's what it's called in Egypt, as well as much of the Western world. But if you order baba ghannoush in several other Arab countries, including Jordan, you'll get something also based on roasted eggplant, but more like a mashed-up salad with tomatoes and onions rather than this creamy dip. Anyway, what the Jordanians call moutabal is the more common one there, so that's what we made. Really not very hard to make, and very easy to tweak the levels of pretty much all ingredients to your liking. Don't forget ample pita.
+
+Mukhalal | Pickled turnips | Recipe
+
+The same mustiness with a hint of sweetness that makes roasted turnip an mild yet intriguing flavor makes for a bigger punch when pickled. The deep, earthy tones play off the bright crisp of the vinegar, all of which is made cartoonishly pink thanks to a few beet pieces that have been thrown into the mix for show. With nothing more than a bay leaf and a bit of chili, and of course a week of sitting on the counter, these few elements interact to create a condiment that is, rightly, hugely popular, a nice palate-cleanser after a bite of lamb, or a texture-enhancer to an otherwise mushy bite of hummus.
+
+Mansaf | Lamb and rice over flatbread with sauce of reconstituted buttermilk | Recipe
+
+Sometimes it's excruciating to choose what to feature for a given country from among so many options, and sometimes you see a certain dish declared in every travel article and recipe collection as the undisputed National Dish. Jordan is the latter type of country, as this bountiful dish of meat over two types of starch bathed in a rich sauce is the sine qua non of that famed Jordanian hospitality.
+
+Mansaf means "explosion" in Arabic, and this dish does indeed look like a bunch of settled debris. But it's all layered for maximum deliciousness and texture sensation, with lamb-infused buttermilk sauce layered amongst the flatbread, rice, and lamb for full tastiness.
+
+The most important, and most challenging, part of the dish is the jameed, which is dried buttermilk. I couldn't find the proper hard balls that the recipe calls for, the best I had was the Lebanese version called kishk, which is similar but ground and mixed with wheat. The advantage is that the powder allowed us to skip the soaking part, but the flavor and texture both felt a little too thin and mealy. I probably put in too much water and didn't stir it enough. It definitely showed promise, with a sort of smoky-tart flavor and, in parts, a lovely creamy texture. It was definitely good enough to eat, thankfully, because I bought over 30 pounds of lamb!
+
+Mudardara | Rice and lentils with caramelized onions | Recipe
+
+I included this to make the meal vegetarian-friendly, but found it quite tasty all the same. As far as I can tell, it's the better-known mujaddara, except explicitly made with brown lentils and rice, whereas other versions of the dish can use green lentils, or even wheat in place of rice. Anyway, it's a hearty comfort food, and while it takes time and care to prepare, it's very inexpensive.`,
+  wrapup: `Take a feta-like cheese out of its salty brine, soak in several changes of water, then simmer to make darn sure all the salt's gone. Tear open a package of shredded filo and fry in ghee until it's crispy. Layer a pan with filo, then that weird cheese, then more filo. Wait, this is dessert? Yup! Because after baking on one side, flipping over, and baking again to ensure even caramelization, you douse the whole thing in a ton of sweet syrup.
+
+You know what? This thing was pretty darn awesome, the runaway success of the night. And congrats to Elly, pastry chef for the night, who followed the spirit of the recipe by "summoning the courage of her convictions" when flipping the trays, beautifully executed.
+
+It was a lovely evening, mild by late-July New York standards, and many of us transitioned out to the hostel's lawn, enjoying last nibbles of sweets, including a whole box of dates I'd forgotten about in the rush. After lots of hugs goodbye and a team effort to clean up, we rushed home to pack — and a week later hit the road to move across the country!`,
   dishes: [
       { name: "Fattet hummus", description: "Chickpeas two ways — plain and as hummus — plus yogurt, tahini, pita, olive oil, pine nuts, and parsley. It's like seven-layer dip for Levantine food.", recipeUrl: "http://www.nourition.com/2010/05/28/recipe-hummus-casserole-fattet-hummus/", recipeLabel: "Recipe" },
       { name: "Moutabal", description: "Roasted eggplant dip. What Jordanians call moutabal is what's often called baba ghannoush elsewhere — roasted eggplant, tahini, garlic and lemon juice.", recipeUrl: "http://bennydoro.com/chef/recipes/moutabal-roasted-eggplant-dip/", recipeLabel: "Recipe" },
@@ -3598,6 +4582,34 @@ export const meals: Meal[] = [
   country: "Kazakhstan",
   slug: "meal-87-kazakhstan",
   originalPath: "/countries/2014/meal-87-kazakhstan",
+  intro: `Between the Jordan and Kazakhstan meals, we moved across the country, to Portland, Oregon. We took a three month break while settling in to our new city and a new house, and I took advantage of the time to learn about a country I knew next to nothing about. Powell's Books had exactly one book on the country, a travelogue entitled Apples Are From Kazakhstan. Thanks to the title, you've already learned one true fact about the country. In reading it, I learned a lot more about how this huge expanse — steppes and mountains and desert and farmland as large as Western Europe — went through a wrenching transformation in the twentieth century. A centuries-old lifestyle adapted from the nomadic days, which relied on livestock-grazing and the occasional orchard-growing to get the most out of a meager soil, was upturned by centralized Soviet planning, and large-scale farming efforts led to completely unnecessary famines as well as the emasculation of the Aral Sea as water was diverted to grow cotton.
+Truth be told, I didn't find the traditional Kazakh cuisine all that appetizing. The much-celebrated national dish, beshbarmak, came out as greasy broth, bland boiled lamb, and slippery noodles. To be fair, I didn't cook with horse meat or sausage, and I couldn't find fermented camel's milk, and maybe steppe-grazed Kazakh mutton has a better flavor and certainly would have been more freshly slaughtered than what I got at SE 122nd and Division in a sack labeled "LAM." So, we didn't have exactly what would have been served in any respectable yurt, but I have to imagine that even those foods would have benefitted from a little spice and some degreasing.
+
+It was a smaller crowd for this first Nosh in the new place: Derek, Alondra, and Rachael.
+
+Baursak | Fried puffy bread |Recipe
+
+How can you go wrong with fried bread? The stuff of street vendors the world 'round, Central Asia has hopped bigtime on the wheat-dough-in-hot-oil bandwagon. Yes, they look like tofu squares. But they were a lot tastier, and went great with tea as an appetizer. Too bad this was the best part of the meal.
+
+Chai | Tea | Recipe
+
+Fermented mare's milk seems to be a very important part of Kazakh culture and hospitality, but my feeble attempts to find the milk of a horse utterly failed. Since there's apparently no substitute, I leaned on another, if not at all unique, tradition of drinking tea. At least the high (cow's) milk content pays homage to the high position of dairy within the traditional nomadic diet.
+
+Kuyrdak | Meat and organs with onions | Recipe
+
+I know a half-dozen places in New York where you could get lamb liver any day of the week. But apparently there isn't the critical mass to keep such a thing in ready supply even at the more ambitious Portland butchers, so calling around the day before proved useful only to learn that I could have gotten it with a few days' notice. I got a little obsessive with the hunt, and skipped out of a friend's birthday party at a bar to check if the fancy supermarket across the street might have something, and they indeed had a little frozen tub of calves' liver — good enough! Except it was hardly worth it, as the resulting dish, a supposed delicacy, was mushy, greasy, and bland. Sigh.
+
+Beshbarmak | Boiled meat and noodles in broth | Recipe
+
+The famous pinnacle of hospitality in this part of the world, this stew atop lasagna-esque noodles is embedded with ritual around giving different body parts to different family members based on superstitions about the effects on each person's virtue. All I had was randomly cut shoulder, I think, but I think that no matter the body part, boiling (without spices even!) really is probably one of the worst ways to cook lamb. Greasy, bland. Oh well, at least it was sorta fun to roll out and cut up the noodles — rolling out dough is something I've gotten a lot better at the past few years!
+
+Chak-chak | Fried dough in honey syrup | Recipe
+
+Whereas I suspect the above dish just is what it is, I know for sure I screwed this one up. It's promising enough: what could be bad about fried dough bits doused in a honey sauce? Well, failed technique, that's what. Rather than mixing the two components first in a bowl and then making the traditional pyramid, I misread the instructions, and made the pyramid before pouring over the syrup. Half the fried bits were oversoaked, half were totally dry, and there was a sticky mess from the spillover. Oops.
+
+I found essentially nothing about Kazakh desserts, but I did read that nuts and fruits are often served, so I scraped together some seasonal fruits (persimmon, apple) and some dried ones (apricots, figs) along with almonds. Went nicely with the tea.
+
+One thing that was a pleasant success about the meal was discovering that Portland holds more promise for ethnic-market shopping than I'd expected. While small, and not particularly helpful for this meal, Roman Russian Food has a lot of the base ingredients I'll need for Slavic foods, and Mingala International Foods where I got the lamb has a surprising variety of global foods. Makes me hopeful I'll find plenty more.`,
   cardImage: "https://farm4.staticflickr.com/3950/15691358216_21d18e1e11.jpg",
   dishes: [
   {
@@ -3625,6 +4637,51 @@ export const meals: Meal[] = [
   country: "Kenya",
   slug: "meal-88-kenya",
   originalPath: "/countries/2014/meal-88-kenya",
+  intro: `We've already enjoyed three meals from the Horn of Africa, but it's taken us until the K's to start into East Africa proper. It looks a whole lot more like Central African, though I'm happy and relieved to report that we found it quite a bit tastier.
+
+As with so many former colonial countries, the borders of Kenya arbitrarily threw a bunch of tribes together. Accordingly, there's not exactly a national cuisine as such, but there are a few dishes that are extremely common throughout the country. So we made those collards and corn mush dishes, and rounded out the meal with dishes chosen from around the counties that stretch from the sea to Africa's highest mountain.
+
+After our small trial run for Kazakhstan, we went big for this meal, taking advantage of our new, large dining room to seat twelve around two tables. Our guests were Hannah, Emily, Frank, Don, Chelsea, Sebastian, Craig, Laura, Kaely, and Brett. The first four arrived a half hour early, due to an error in my email, but they proved super helpful in the kitchen, as I'd once again misestimated the prep time in the dishes and was relieved to have a small army of choppers, stirrers, and washers appear! Thanks, folks!
+
+And extra-special thanks to my buddy Walter, who lived in Kenya for several years, and gave me some excellent and very useful advice on what to serve. I love it when someone can distill the essence of a country's foodways and the culture around it — I still do plenty of research to support and understand, but the guidance and structure is invaluable.
+
+Dawa | Vodka and lime with honey swizzle | Recipe
+
+Dawa is the Swahili word for medicine. In this case, it's got the spoonful of sugar built right in, as this drink is essentially a caipiroska (vodka-lime-sugar) taken to the next level with a swizzle-stick dipped in honey. It's tart, it's sweet, it's boozy. And it's in my hand in the above photo!
+
+Ugali | Cornmeal porridge | Recipe
+
+Just about all of sub-Saharan Africa has some sort of mush as the bedrock of a meal. Kenya's no different. I read in a few places that a meal is considered incomplete without this simple mix of cornmeal and water, mixed so thick that you can stand a spoon in it, and then tear off clumps with your hand to use as a vessel for scooping whatever else is on the plate.
+
+Sukuma wiki | Collard greens | Recipe
+
+If you're the average Kenyan on an average day, that other thing on your plate is probably the humble, tasty, nutritious collard greens, simmered for a long time with maybe some onions, tomato, and a bouillon cube. The name means "to stretch the week," as in, it's the food you can afford to eat when your money's running out before you're next paid.
+
+I was afraid I'd find it pretty bland, given that it wouldn't have the benefit of ham or bacon as done in Southern cooking. Maybe it's because this was some super fresh (and enormous! the leaves were like two feet long!) farmers-market collards, or maybe it's really that easy to bring good flavor with a few hours of simmering, or maybe the MSG in the bouillon saved the day. Whatever the reason, the greens were tasty and popular.
+
+Nyama choma | Grilled goat
+
+Some cultures, such as Chinese, bring romance and storytelling to the names of their dishes. So too with parts of Africa: Cameroon has a dish Poulet D-G, standing for directeur général, since the dish is considered so fancy and tasty it's fit for the boss. Not so much with nyama choma, which literally means "burn the meat." To be fair, that's pretty much all you do: once the meat's on the skewers, all you do is slather it with warm salted water every few minutes while letting the flames sear the outside and seal the tasty juices on the inside.
+
+The meat in question here is goat. Several months ago, someone who I wish I could remember so I could give them the credit said, "Goat is like soccer: popular in most of the world, but not the U.S." Fortunately, it's not too hard to find in Portland. I biked in the rain to a Somali market up on Killingsworth, which offered me a choice of leg or shoulder — and we agreed that the latter is the better choice for kabobs. $5/pound including cutting into kabob size. In Kenya, the sale price would have also included free grilling with a place to sit in the back!
+
+But who cares about what it's called or where I got it. The suckers were scrumptious, embarrassingly so given how little I had to do in terms of cheffing to get them on the table. I'm certainly doing this one again on a warm weeknight.
+
+Kachumbari | Tomato "salsa" | Recipe
+
+Mexican pico de gallo is a great foil for the rich meat on a taco. The East Africans pair their grilled meats with almost exactly the same condiment — fresh tomatoes, onions, cilantro, lime, chili — but it came to them via a completely independent and unlikely source: the English! Just as, in the Egypt nosh, we saw how they introduced a rice-and-lentil dish from India that transformed into the national food, they also brought an onion-and-tomato salad that became ubiquitous on the other side of the Indian Ocean. No point in reviewing: this really was exactly the same as how I'd make a pico de gallo.
+
+Mchuzi wa samaki | Swahili fish curry | Recipe
+
+Whereas the grilled goat was the essence of simplicity, likely borne of the necessity of a nomadic lifestyle, this coastal curry shows off what you can do when you're in a tropical setting on the sea, with both the fish and the trading it entails. It gets its name from the coastal Swahili people, whose Kiswahili language has become the common language of much of East Africa. The dish was quite tasty, with a double-dose of turmeric imparting a pleasing color and a haunting flavor that brought zing to an otherwise simply flavored meal.
+
+Muthokoi | Cracked corn and pigeon pea stew | Recipe
+
+This dish of cracked corn and pigeon peas takes us back inland to the Akamba tribe of Eastern Kenya, and we're back to simple, earthy foods. I wasn't planning on making it, but at Mama Pauline's African Market, I got the two ingredients on a hunch that I'd find something to make with them. As you'd guess, this was a hearty and filling dish, with the flavor again coming from store-bought seasoning, a specific brand name called Royco. It's not even listed in the ingredients, and it's even written in lower-case in the recipe, that's how common the spice blend is. (Should you want to make this dish, you could use a bouillon cube, or look up "homemade royco" to find several variants. I can't remember which I used!)
+
+Walter, my buddy who'd lived several years in Kenya, gave me all sorts of specific and useful advice on the other dishes. But what he said about dessert cracked me up: "You MUST serve Bad Cake. It's effectively the national dish and national pastime. Kenyans love cake more than any people I've ever known, and they make cake worse than any people I've ever known also." This proved quite a challenge: how to make a cake that'd be intentionally bad? And bad in what way? Well, since I had a few gluten-free folks coming, I took advantage of the opportunity, and simply made a gluten-free yellow cake. Maybe it wasn't bad-to-Walter's-taste in the way Kenyans do it, but it definitely was, well, a gluten-free cake. To make the cake more Kenyan, I decorated it like the flag, which was easier and more fun than I expected.
+
+A surprisingly nice start to East Africa, let's see how things go as we explore farther down the coast.`,
   dishes: [
   {
     name: "Tea and cake",
@@ -3641,6 +4698,40 @@ export const meals: Meal[] = [
   country: "Kiribati",
   slug: "meal-89-kiribati",
   originalPath: "/countries/2015/meal-89-kiribati",
+  intro: `Move over, Equatorial Guinea: Kiribati, a constellation of a few dozen atolls in the heart of the Pacific, now holds the title of Country the Least People Have Heard Of, judging from an unofficial tabulation of "huh?"s and "where's that?"s as we told friends and family of this meal.
+Even if you've heard of it, you geography nerd you, you're probably pronouncing it wrong. Say it "KEE-ree-boss," because it's really a Polynsianism for Gilberts, the British colonial term for the territory they arbitrarily created. That's why it's not called by any native name: as a collection of disparate chains of tiny clumps of land, there was no pre-colonial precedent for what to call it.
+
+Kiribati is right up there in the hardest countries for figuring out the menu. My usual tricks didn't work: No Wikipedia article. No awkward but workable site from an embassy or the Ministry of Culture. No lovingly compiled blog by an expat living there, or a homesick student abroad. No chatter on food discussion boards. Even when I granted myself a temporary reprieve from the prohibition on looking at other cooking-around-the-worlders' sites, much of what I saw didn't ring true (though I ended up borrowing some). When I couldn't find even a Peace Corps cookbook, a trick that rescued me for some smaller West African countries, I took my search to the next level and reached out to a Peace Corps volunteer whose name I found in a newsletter of returned volunteers. Thankfully, Laura Montez quickly replied, and we had a great chat on the phone.
+
+She explained the challenge: there's no cuisine as such, no recipes handed down from grandmothers around the hearth. On the further-flung islands where life is at its most traditional, food is, quite literally, catch as catch can: whatever you manage to pull from the sea; coconuts, breadfruits, and a few sweet fruits from trees; and a limited assortment of roots and squashes. Whatever greens exist are for the pigs and chickens that run around for a special-occasion meal. With that limited assortment, and the notable lack of herbs or other embellishments, it now makes a lot of sense why I didn't find much in the way of recipes. (Note that on the most populated island where the capital is, life is totally the opposite: it's so crowded that there's no land for farming, not even coconuts, so everything has to be shipped in: some from other islands in the country but mostly from Australia/New Zealand. Accordingly, the cuisine is quite different, with canned corned beef, curry powder, and other smatterings of global cuisine.)
+
+So thank you, Laura, for the advice! And to Jaymee, her brother, and Deena for coming. It was a small crowd but we scarfed it all down! (Alas, we were having such a good time we didn't end up getting a group photo. Imagine happy people with their faces stuffed. Done!)
+
+Papaya cocktail
+
+In the spirit of throwing together what you've got, I juiced a papaya, which Deena mixed with some palm juice, lime juice, and rum, and voilà! A suitably tropical-esque drink to get us in the mood.
+
+Te ika | Raw tuna
+
+Laura told me that yellowfin tuna is the most common, but the closest I could find was albacore. I defrosted a few frozen steaks from Trader Joe's — if that sounds weird or unsafe for sashimi, keep in mind it's frozen on the ship very shortly after being pulled out of the water, and much of what you eat in a sushi restaurant was previously frozen anyway. (I also grilled some for those less inclined to raw fish.)
+
+Not knowing how an I-Kiribati would prepare it, I cut the fish into random bite-sized morsels, with little bowls of coconut milk I painstakingly extracted by hand from fruit I cracked, pried out, and shredded. I've done this a few times, and frankly I can't taste much of a difference. From now on, I'll stick to canned, or at least buying it frozen pre-shredded.
+
+Te inai | Fried parrotfish
+
+Fiji Market didn't have most of what I was looking for — dried pandanus fruit, for instance, which I'd read about as being used as a starch — but they came through with a few fun things. A load of this fantastically exotic fish had "just come in last week" according to the friendly owner. A quick search on my phone revealed a parrotfish on a Kiribati stamp, which was good enough evidence for me that they've got it there. I let it thaw overnight in the fridge, removed the scales, and did a halfway decent job at filleting it. Right before we ate, I slipped it into the oil I'd already had going for the breadfruit.
+
+Te mai | Fried breadfruit
+
+We first tasted this peculiar food with the Jamaica meal. Popular as it is in the Caribbean, the tree is actually is native to Polynesia, and appreciated everywhere it grows for providing abundant, filling fruit. It's not sweet, though; like a green plantain, it's mostly starches and needs to be cooked. The tastiest preparation is to boil and then fry it, and that's just what we did, with a generous dusting of salt. Unlike in Brooklyn, I could only find frozen breadfruit at Fiji Market, but my palate, unaccustomed as it is to the food, couldn't tell the difference after cooking. Its artichokey aspect was less pronounced after frying than with grilling, but of course the texture was a whole lot more pleasing.
+
+Te bwaukin | Pumpkin simmered in coconut milk with pandanus leaf | Recipe
+
+Coconut milk isn't just for dipping, it's also a great simmering medium. Coconut milk and pumpkin are both foods that can go either sweet or savory, and in this case tossing on some sugar brings out nice flavor in both. On the islands it'd probably been a palm sap that seems like the Polynesian version of maple syrup; as an attempt of replicating the flavor, I threw in a bit of that palm juice along with regular sugar. (If I'd had my druthers I'd have bought palm sugar, which is easily found at Asian markets.) It's worth noting that coconut and palm are different flavors: while they both definitely have that toasty-nutty undertone in common, coconut is richer and brighter, and palm is muskier.
+
+A new-to-me ingredient showed up in this preparation: pandanus leaf. It's used like bay leaf: added in a simmering dish for the flavor it lends. I later learned that I've definitely tasted it – in the water at Pok Pok, Portland's famous Thai restaurant. I'd always thought the flavoring came from rice, and I wasn't far off: according to Wikipedia, Basmati rice and pandanus share the exact same aromatic compound. So, if you want to impart a Basmati-esque flavor to your next simmered dish, pick up some pandanus from your Asian grocer's freezer.
+
+All this said, a very tasty dish. We gobbled it all down.`,
   cardImage: "https://farm8.staticflickr.com/7470/16042003259_4e7e659ac9.jpg",
   dishes: [
   {
@@ -3662,6 +4753,74 @@ export const meals: Meal[] = [
   country: "Kuwait",
   slug: "meal-90-kuwait",
   originalPath: "/countries/2015/meal-90-kuwait",
+  intro: `When I asked my parents if we could host the Kuwait nosh at their house while visiting over Thanksgiving, I had no idea that their new neighbor across the street, Amira, had grown up in Kuwait! The happy coincidence made planning and cooking this meal a dream, especially because Amira's father Al, now living in northern Wisconsin, was more than happy to dictate his family recipe for a chicken-and-rice dish with a great deal of precise advice.
+
+Amira taught me a fascinating perspective on recipes: in Kuwaiti cuisine, what defines a dish isn't so much what kind of meat or vegetable is used, but rather the blend of spices. Hence, a machboos could be chicken, or lamb, or something else, but if the spices are about the same, then it's all under the same name. And if we were going super-authentic, we'd all be eating cross-legged on the floor with our hands, but that didn't quite feel comfortable with over a dozen people two days after Thanksgiving, so we stuck to a table.
+
+This may look like a small menu, with only two dishes plus dessert, but trust me that there was plenty of variety to be had. The machboos is essentially three dishes in one, and we also had an assortment of pickles and olives on the table, plus copious lemons and parsley to freshen up each dish at will.
+
+It was a full house at my parents' place: Chris, my Aunt Jody, Uncle Guy, Amira and her husband Grant, Chris, Terry, Albert, Karen (another neighbor!) and Betty (who wrote a story on us in 2013); my cousin Bryan and his wife Shilpi joined soon after Laura snapped the photo.
+
+Vimto | Berry-flavored drink
+
+Alcohol is completely illegal in Kuwait; not even foreigners can bring it in or enjoy it at a hotel bar as in Dubai. One favorite beverage in Kuwait and several other Arab countries is this cordial from a British company. I thought it tasted one step above cough syrup, but many around the table took more than just polite sips, particularly appreciating the dash of rosewater. Although most of us were enjoying wine with our meal, Amira stuck with Vimto, declaring that even though she has a drink now and then, it just felt too strange to have alcohol with Kuwaiti food!
+
+Laban | Yogurt drink
+
+Another, more traditional, beverage is kefir or yogurt mixed with an equal amount of seltzer, plus a pinch of salt. From Turkey to Afghanistan, this is a very popular and healthy beverage in a hot part of the world. While yogurt has finally cemented its position in the American kitchen, it rarely makes it into our beverages. I happen to love it (particularly with the slight improvement of a crumble of dried mint), but this pitcher just didn't get passed around as much.
+
+Machboos | Chicken with spiced tomato sauce and split peas over rice | Recipe at end of post
+
+I've never done so much to chicken in one dish: you first boil it, then sear it, then braise it, then finally bake it. All this work is to lend flavor to the rice and the sauce, and also serves to make the meat simply fall off the bone by the end. None of the individual steps in this dish is particularly difficult, but the combination, especially when tripling as we did, makes for a whole lot of chopping, stirring, and monitoring. Making the spice blend from scratch also added to the effort.
+
+The peas also took more attention than expected, particularly because it took them longer to soften up than expected when simmering with the raisins and onion. It was worth it, 'cause they ended up tasting so nice! I'd never considered that split peas could marry well with sweet, but it sure did, and that gentle sweetness was a good contrast to the thoroughly meaty chicken.
+
+If you've got a few hours for a weekend cooking project, the effort will pay off. Even an hour before dinner, the enchanting smells of freshly ground spices, earthy chicken, and tangy tomato got us all really hungry. And the final result, of cinnamon-encrusted chicken on top of all that rice and sauce, was just fantastic. The split peas, with that improbable studding of raisins, also exceeded expectations — just a great dish overall, and easy to see why Amira's family cooks it time and again.
+
+Zubaidi | Stuffed fish over rice | Recipe
+
+What with so many people coming over, and knowing that Kuwait has a long and storied maritime history, I wanted to try out a fish dish. As with many meals from far-off countries, I had to substitute the fish, as silver pomfret is a few oceans away from the West Coast, and went with snapper. The dish came out okay, with some of the haunting tang of the dried lime playing off the sweetish white flesh, but it just couldn't hold a candle to the fantastic chicken. It felt to me like the ham on the Thanksgiving table: it has to know from the start that it's just playing second fiddle to the turkey.
+
+Gers ogely | Cardamom saffron sponge cake | Recipe
+
+While Amira suggested we cook lugaimat, a seasoned doughnut rolled in honey, I passed because of the "don't deep-fry in other people's kitchens" rule we codified early on in the project. It was probably a kind gesture to our full stomachs to give them something lighter, in the form of this fragrant sponge cake. With bold but not overpowering spices, a little went a long way: a single cake fed the whole crowd. Which is good, because Mom's first attempt at making a double batch failed. Turns out some recipes simply can't be scaled, such as those leveraging the complex and delicate physics required to make a sponge cake.
+
+We ate the cake with sweet, strong black tea with cardamom, in classic Kuwaiti style. Unfortunately, being unused to a late-night caffeine jolt, many of us stayed awake into the wee hours! The occupational hazards of experiencing other cultures!
+
+Thanks again to Amira and Al for all the help, and to everyone who came and gave generously to our new non-profit cause, Mercy Corps!
+
+Recipe for Machboos from Al, Amira's dad
+
+Serves four, but if you're going through all this effort, consider doubling it and inviting friends over or freezing it.
+
+Basmati rice, according to how hungry your crowd will be (maybe 1/2 cup per person)
+1 chicken, cut in half, or in pieces; or four leg quarters
+A few cloves
+Vegetable oil
+2 onions, chopped
+2 cloves of garlic, minced
+Small can of tomato paste
+Arab spice blend: look for “bezar” or “chicken spices” at an Arab market, or make the fantastic blend from this recipe (and use the leftovers for barbecuing)
+1/2 pound yellow split peas
+1/2 cup golden raisins
+Ground cinnamon
+Pinch of saffron
+
+Thoroughly wash the rice, then leave to soak as you prepare the rest of the dish.
+
+Heat water, cloves and a pinch of salt in a pot to boiling, reduce the heat to medium, and cook the chicken just until the flesh turns white, maybe 5 or 10 minutes. Save the flavorful broth for cooking the rice. Note that some recipes call for adding other spices to the boiling water: cinnamon, cardamom, bay leaves, and whatnot.
+
+Heat a skillet on medium heat. Sauté half the onion and garlic with vegetable oil until soft. Add the chicken, and nestle it in so as much flesh as possible is touching the pan, skin-side-down. Once the first side is seared, flip and sear the other side. Add the tomato paste, a generous dose of the spice blend, and enough water to let the chicken braise. Add some salt, too. Stir to break up the tomato paste into the water, and once things starts bubbling, turn down the heat. Cook until the chicken is soft and the sauce tastes amazing, maybe a half hour. Remove the chicken to a baking dish, which you can optionally line with foil for easier clean-up.
+
+While the chicken’s simmering, get the split peas going. Cover them with water in a small pot, bring to a boil, and simmer until tender but not mushy. Drain and set the peas aside for a moment. In the same pot, sauté the remaining onion and garlic, plus the raisins, with oil until the onion is soft. Add the peas back in with a splash of water if it, add salt and your favorite seasonings (to keep it simple just use a pinch of cinnamon, or you could add allspice or whatever other spices strike your fancy). Simmer gently until it’s all nicely soft.
+
+You can cook everything up to this point well in advance if that suits your schedule better.
+
+45 minutes before you want to serve, start heating the oven to 350, Sprinkle a healthy dose of ground cinnamon all over the chicken on both sides, if it’s too hot use tongs to flip. Bake skin-side-up until the smell is unbearable.
+
+About a half-hour before it’s time to serve, drain the rice and put it in a pot or a rice cooker. Add enough of the chicken-clove broth to cover the rice by the length from your fingertip to your first knuckle, somewhere between a half an inch and an inch. (Don’t throw out the remaining water just yet, you may need a splash at the end if you didn’t use enough water.) Crumble some saffron in your fingers and sprinkle it over the water. If using a rice cooker just set it going; if on the stovetop, bring the water to a boil, then reduce to a very low simmer and cover tightly for about 20 minutes. Fluff.
+
+Serve on a large platter, with the rice in the center, the split peas on the edge, and the chicken and tomato sauce in the center. Whether to put the tomato sauce under or over the chicken is a matter of your aesthetics. (Ours was actually on the side to accommodate allergies.) Serve alongside abundant parsley and limes.`,
   cardImage: "https://farm8.staticflickr.com/7578/16040781188_c6b827a1f9.jpg",
   dishes: [
   {
@@ -3687,6 +4846,28 @@ export const meals: Meal[] = [
   country: "Kyrgyzstan",
   slug: "meal-91-kyrgyzstan",
   originalPath: "/countries/2015/meal-91-kyrgyzstan",
+  intro: `Kyrgyzstan is the very definition of landlocked. It's farther than any other in the world from the sea, its rivers end in lakes rather than flowing toward the ocean. The vast majority of the country is situated over 5,000 feet, with massive mountain ranges covering most of its modest expanse.
+Yet the country hardly isolated: this land played host to part of the Silk Road, and several nomadic groups have called the area home. As with so many other countries, a land named for one ethnicity neither fully encompasses that group's expanse, and also incorporates other peoples. Accordingly, the menu I planned for Kyrgyzstan samples from various influences on the country. (Also, were I to go for a strictly traditionally Kyrgyz meal, it would have turned out a lot like what we had for Kazakhstan, which we didn't enjoy so much.)
+
+Our guests were Sarah, Estel, Alondra, Heidi, Ken, Miguel, Ana, and Maya. We're pictured doing the traditional gesture of thanks after the meal: you raise your hands in the air, say "omen," and rub your open palms slowly down your face.
+
+Lapyoshka | Flatbread | Recipe
+
+Though the name has a classically Russian sound, this is a truly Central Asian bread, puffy and substantial. I found it pretty fun to make, especially since I've recently developed the touch and patience to do rolled breads slowly. Letting the bread rest for even just 3o seconds when it feels like it's about to rip makes a world of difference. Not having the traditional tandoor-like stone oven, I opted for a pizza stone as the surface, which did the trick. It only takes fifteen minutes to bake, but by the time I took the second loaf out of the oven, the first was nearly gone! Clearly a successful, if unfancy, appetizer.
+
+Laghman | Soup with hand-stretched noodles | Recipes: noodles, soup
+
+The patience I've learned with flatbread was ten times as important with these amazing noodles, an incredible demonstration of the magic of gluten. (Don't even think of trying to make this one gluten-free, it won't work!) These come from the Dungan people, who came from eastern China and settled across the region and are known for being farmers, in contrast to nomadic herders, which may explain their association with a grain-based specialty. Though their percentage of the population is small, their impact on what people eat is big, as these noodles are really popular. With good reason!
+
+Assuming you have lots of time and patience, they're not difficult to make. The trick is to let the dough relax, once when it's in a big mass, again after it's rolled out and cut into chunks, and maybe even a third time while you're in the process of stretching. What a pleasure it was to take a piece of dough that shaped like a slightly oversized piece of Trident gum, and pull and stretch it nearly effortlessly into a strand over two feet long! Toward the end I was trying out the showier and speedier technique of wrapping the noodle around my hand to accomplish the stretching.
+
+The soup was fine, a fairly basic broth of lamb and vegetables (including that pretty watermelon radish, which is the closest I could find to the "green radish" the recipe calls for), but the noodles were really the star. The texture was great: enough tooth to provide substance, but still soft and easy to slurp. Next time — and there will be a next time — I'll try them pan-fried.
+
+Paloo | Rice with lamb and carrots | Recipe
+
+Paloo, plov, pilau, polo, pilaf...so many languages, so many nearly identical ways to refer to rice with stuff in it. Compared to how intricate this sort of thing can be in Persian or Indian cuisine, this version with carrot sticks and lamb may seem pretty modest, but this felt like a big step compared to the utter blandness of Kazakh food. The dish wasn't as exciting as the noodles, probably in part because I discovered after everyone had left that I'd forgotten to distribute cloves from the garlic head that I'd steamed on top!
+
+The drinks were just about the same as for Kuwait: watered down kefir and tea. After the hyper-caffeinated experience with the last meal, Laura and I took it easy with the tea this time!`,
   cardImage: "https://farm8.staticflickr.com/7472/16217259746_b7ec01e7b8.jpg",
   dishes: [
   {
@@ -3708,6 +4889,51 @@ export const meals: Meal[] = [
   country: "Laos",
   slug: "meal-92-laos",
   originalPath: "/countries/2015/meal-92-laos",
+  intro: `If a lot of this food looks like what you've eaten at a Thai restaurant, it's no mistake. Much of the population of northern Thailand is ethnically Lao, and many "Thai" restaurants in the US are actually run by Lao families, or Isan, which is a term for people in northern Thailand whose language and culture have Lao roots. In fact, the Center for Lao Studies is encouraging "Lao people laying claim to the food that is rightfully theirs." So if you like green papaya salad, sticky rice, or larb, well, you like Lao food!
+
+(At this point, I should mention that while Lao is the predominant ethnicity, there are several other groups who can be called Laotian, that is, coming from the territory of the country of Laos. Notably, the Hmong are Laotian, but not Lao. I didn't specifically aim for any Hmong or other ethnicities' food in this meal. Also, I by no means mean to imply that all Thai food is of Lao origin, there's a whole universe of amazing food in Thailand that blends influences from all over with local ingenuity and ingredients.)
+
+Lao food is a riot of herbs; just about everything is abundantly flavored with super-fresh greens like cilantro, mint, scallion, basil, and a variety of others that barely have English names — seriously, I bought four bunches of cilantro and probably should have gotten more. It's also got a distinctive fish sauce, padaek, which is almost as thick as ketchup and has a richer complexity than the liquid kind seen in Vietnamese and Thai. Recipes didn't specifically call for it, but padaek turned up enough in my research that I felt emboldened to use it. But the number one distinctive aspect of a Lao table is the sticky rice. Laos is the world leader in per-capita consumption of sticky rice, and it's considered an essential part of the Lao experience. Apparently it can also get pretty spicy, but I toned that down quite a lot so the crowd would enjoy the food.
+
+Joining us for this post-holiday meal were our neighbors Chris, Cam, and Colin; my aunt Marcia and her boyfriend Jeff; Deena; and Laura's parents Eileen and Lyall and her sister Jen.
+
+Beerlao is probably Laos's best-known export, and it's really pretty good. I'm not sure if I'd go so far as the newspaper review that deemed it the "Dom Perignon of southeast Asian beers," but it's quite satisfying. The dark version's maltiness was a lovely balance to the sour and fishy flavors of the dishes, and apparently it's gluten-free, which I'm assuming means they brew it entirely with rice and no barley. (The standard lager is apparently about 20% rice, and while less flavorful to my tastebuds, certainly satisfying and easy to drink plenty of.) I implied earlier that Thai restaurants show no explicit hint of Lao influence, but that's not quite true — some of them serve Beerlao, and if you see it, I encourage you to try it as a more flavorful alternative to lighter Thai beers.
+
+Larb gai | Chicken and herb salad | Recipe
+
+Larb, laap, lahb, lab — it's the Hanukkah of southeast Asian cuisine, what with how many ways there are to transliterate it into English. There's also as many types of meats you can make it with: pork, beef (cooked or raw), fish, and beyond. I went with chicken, as it's a milder flavor that creates a platform for all those other flavors to launch from.
+
+Perhaps foolishly, I decided to hand-chop rather than grind the chicken thighs. Maybe there was a slight difference in texture, but after fifteen minutes with the chef's knife (and regretting several times that I'd gotten rid of my cleaver in the move), I was regretting my choice. The rest of the recipe proceeded nicely, and I was glad that I was able to find all the ingredients, because that little bit of toasted sticky rice powder ended up having a huge impact on the texture and flavor, adding both a rich nuttiness and a little bit of grit to contrast the squeaky chicken and crisp herbs.
+
+The only lettuce I could find was really sad and brown, but fortunately I picked up a bunch of shiso (chrysanthemum) leaves on a lark. They probably don't use those as the taco-like vessel for eating larb, but the leaf's haunting mint-basil-esque flavors sure worked well.
+
+Nam khao | Crispy rice salad | Recipe
+
+Holy wow, this is a delicious dish. It's a lot of work, but what a payoff! And it introduced me to a brand new food I never new about: sour sausage, a fermented and uncooked — and bright red — pork product, usually called nam or nem in your better-equipped southeast Asian market. (Before you get all grossed out, remember that salami works on the same uncooked-fermentation principle, just for longer until much of the moisture is lost.)
+
+So, once you've made rice and cooled it (or, if you've got leftover rice on hand, so much the easier — turns out you want jasmine and not sticky rice for this one), you mix it with both shredded and powdered coconut, egg, and a bunch of garlic, make it into balls, and fry it to crispy. Then here's where it gets fun: after those fried balls have cooled, you break them up, so some bits are crispy and others are the soft inside, and mix that with herbs, fish sauce, lemon juice, and crumbles of the aforementioned sour sausage. It's a similarly abundant burst of flavors and textures, but in a different direction from the larb, so even though the two are meaty salads, they're certainly different enough to count for variety on the table.
+
+Khao niao | Sticky rice | Recipe
+
+The name I saw in all the recipes was "sticky rice," but when I got to the store, the closest thing I saw was called "sweet rice." It was also labeled in Chinese, Vietnamese, and Hmong, so as I stood in the aisle of Hong Phat Supermarket, I pulled up a PDF scan of a health-practioner's Hmong-English dictionary to verify that what I saw on the package could also be translated as "sticky rice." (Here's what I bought, though I only got 5 pounds.)
+
+I generally make a rule of not buying cooking equipment I'll use only once, but happily I found the proper steaming basket for a mere 2 bucks at another market, so I made an exception. It did require a bit of adaptation to fit over the steaming water, but it turns out the ring from one of those two-part deep cake pans (the kind with the hole in the middle) worked pretty well. I didn't do the flipping right: rather than a single assertive jostle to get the grains on top closer to the steam, I ended up stirring it around, which was slower and less efficient. I think going for five pounds all at once wasn't the right approach, and with so much rice it probably would have benefitted from an overnight soak rather than the 4 hours I afforded. But hey, it turned out tasty. And abundant.
+
+Jeow mak keua | Eggplant dip | Recipe
+
+While there's an abundance of fresh herbs in the other dishes, there wasn't anything featuring a vegetable proper, so I took a shot at this eggplant dip. I was also interested to see how the combination of sticky rice and dip would work. It's pretty easy to make this dip, just roast everything, let it cool, peel it, throw in that funky padaek fish sauce, and mash. But, whooo-eee! On first taste, it was really pungent, the uncooked fish sauce overpowering everything. Good thing I made this a bit in advance, because like a complex wine, an hour of breathing allowed it to mellow out and become decent, like a bizarro fishy baba ghannoush, eaten in an equally bizarro manner with little clumps of sticky rice. Not sure if this was the pinnacle of Lao cuisine, and it sure ain't pretty, but it was fun to try.
+
+Tom hua pa | Fish soup | Recipe
+
+This one involved a bit of adaptation. While the recipe says it's for fish heads, I made it with chunks of catfish. And the grocery store didn't have the normal button mushrooms that are probably intended, so you see oyster mushrooms here. Finally, instead of arugula, I opted for watercress, which is also what the store had and what I figured was probably more likely to be what you'd get in Laos.
+
+The soup was tasty enough, with the tang of lime, the trinity of lemongrass, ginger and galangal, and the freshness of herbs, but it was missing depth. And then I realized I forgot to add the padaek, the fish sauce! With a little swirl of sauce, the soup took on a vibrancy and richness that made all the difference.
+
+Khao niao ma muang | Sweetened coconut sticky rice with mango | Recipe
+
+An astute reader will note that there's no mango in this photo. I should have read the writing on the wall when both Asian markets I went to had no mangoes for sale, opting for another option such as banana, but I kept plowing ahead until I found a produce stand with five sad mangoes left. They were terrible, overripe and too starchy at the same time, and went straight to the compost bin.
+
+Fortunately, the rest of the dish was tasty enough to stand on its own. It's really nothing more than a sauce of palm sugar dissolved into warm coconut milk, poured over the rice left from the meal. It was surprisingly reminiscent of the sticky toffee pudding I'd made for Christmas dinner two nights before: thick, rich, and addictive, with a caramel-esque flavor from the palm sugar. A satisfying, and filling, end to one of the better meals of the year!`,
   cardImage: "https://farm8.staticflickr.com/7542/16243021195_cce60f4f49.jpg",
   dishes: [
   {
@@ -3729,6 +4955,85 @@ export const meals: Meal[] = [
   country: "Lebanon",
   slug: "meal-93-lebanon",
   originalPath: "/countries/2015/meal-93-lebanon",
+  intro: `As I caught myself grumbling about having to clean my two food processors and the mixer with a meat-grinder attachment, I realized how it’s unlikely I’d take on this project without the aid of electric appliances. I shudder to think of how long it would have taken to mash the hummus, emulsify the garlic sauce, and grind or chop the meat with only the power of my arms. I wouldn’t have cooked nearly as many dishes if I’d had to do that!
+
+Lebanese food is an incredibly popular cuisine. In fact, many of these dishes are extremely common throughout the Middle East, and it’s taken a lot of restraint not to make hummus and tabbouli for just about every Arab country’s meal. I was eager to throw in some variety, to explore Lebanese dishes that aren’t as familiar to our palate, but in talking with our dear friend Kate and our new friend Melia about what their Lebanese families would cook, it kept coming back to the classics. Authenticity isn't just what you make, but how much and how it's served, so we had a whole messload of mezze, sharable platters, to create a sense of abundance and a variety of flavors. (One might argue that authenticity also involves the cooking techniques, which my Cuisinart and I acknowledge but, frankly, often ignore.)
+
+In addition to Melia, who was very generous with her time both in helping to plan the meal and also in cooking, we had her boyfriend Zef, as well as Laura, Laura (pronounced the Italian way!), Andrew, John, Alicia, Iris, Alley, Ana, Miguel, and Will.
+
+Note: for dishes where recipes aren't linked, they were taken from a cookbook called Alice's Kitchen.
+
+Kabees | Pickles | Recipes: turnip, mixed
+
+From what I read on multiple sites, the annual process of preserving the summertime abundance of fruits and vegetables in Lebanon, mouneh, is a cherished tradition. Naturally, then, pickled foods are commonplace on the Lebanese table, and I tried out two different recipes.
+
+The one I was most eager to make was for turnips, stained pink by beets in the bottom of the jar, and kept crisp because rather than boiling to sterilize, I simply moved them to the fridge once they’d sat out for about a week in their vinegar brine. Sour, slightly sweet, slightly bitter, and with a dazzling color, I’d call these a big success, a great burst of flavor and crunch to accompany just about anything except dessert.
+
+The other was a mixed quick pickle, featuring everything from cauliflower to green beans to carrots. I thought this one turned out okay, though to my taste there was too much sugar. Maybe I should have also left it on the counter to age for a few days rather than throwing it straight into the fridge.
+
+Moutabal | Mashed eggplant dip | Recipe
+
+Sometimes I find connections between faraway cuisines in the funniest way. While I was planning this eggplant dip, the chunkier and less creamy cousin of baba ghannoush, it hadn’t crossed my mind that I did an eggplant dip for the previous meal, Laos. But when I looked around the kitchen for a suitable vessel for mashing up the dish and logically arrived at my oversized African mortar and pestle, I realized that I’d used the exact same vessel for making an eggplant dip a few weeks prior.
+
+Anyway, if you can get over the fact that the scraped-out innards of roasted eggplant have the appearance and texture of alien brains, you might enjoy this one as a more rustic alternative. It’s pretty simple ingredient-wise, though it does take some time to let the juice drain out of the roasted vegetable. Skip the food processor for this one, both because you don’t want a purée, and also because if you’re cooking other Lebanese dishes, that appliance is probably being put into service for another dish too.
+
+Hummus | Chickpea-yogurt dip | Recipe
+
+I like the Lebanese version of hummus: lower on the garlic, higher on the tahini, and a hefty dollop of yogurt to make things nice and creamy. I cooked the chickpeas from scratch, which is really very little work and just requires some advanced planning, and tastes so much better and makes an incomparably better texture, both smoother and fluffier, than if using canned. The one tweak I made to the recipe was one I learned for the Israel meal, using a bit of reserved cooking water instead of the plain warm water.
+
+I was thinking of skipping this dish, as it’s really well known and I was trying to make a point of getting in some variety, but then I read that Lebanon takes its National Tabbouli Day really seriously, and Melia shared her family’s handwritten recipe.
+
+A true Lebanese tabbouli should be mostly parsley, with just enough fine fine burghul wheat to hold things together, flecks of tomato for color and contrast, and oil and lemon to make it sing. A lovely, fresh contrast to all that dairy. Thanks to John for all that chopping!
+
+Lebneh | Thickened yogurt | Recipe
+
+Lebneh, the simple yet incredibly addictive strained yogurt, came so close to taking off in the US. For a good while, Trader Joe’s stocked it, but unfortunately they gave it the unromantic name of “yogurt cheese.” With a name that makes it sound more like a health food than an the exotic, versatile food-with-a-story that it is, TJ’s dropped it a few years back in favor of the Greek yogurt craze that swept the nation like a very thick, stick-to-the-roof-of-your-mouth wave.
+
+Fortunately, lebneh is easy to make, but yet again takes some foresight: just take some thicker yogurt (Nancy’s works great, a pourable Bulgarian won’t) and strain it in cheesecloth. How long to strain is a matter of how you plan to use it: 2-8 hours to make a dip of varying thickness, or 24+ hours if you’re going to make intense, oil-preserved balls with a distinctive cheesy heft. I made both!
+
+The dip, anointed with a pool of olive oil and a generous shower of za’atar spice blend, is just heavenly, simply scooped up with pita. Or use it as a spread in your sandwich. The balls were really thick, dry and dense enough that you could pick it up with your fingers — and remember, it’s nothing more than strained yogurt! — and hence would make for a great piece on a finger-food platter.
+
+Toum | Garlic sauce | Recipe
+
+If you’ve gotten kebab at a Middle Eastern restaurant, chances are it was accompanied by a pungent, unctuous snow-white sauce. It’s toum, a very close relative of mayonnaise, except instead of eggs, it’s garlic that holds oil and garlic in spreadable, well-blended suspension. So long as you’ve got a food processor, the hardest part of making this versatile, long-storing condiment is peeling all those cloves of garlic! I ended up making this with about 2/3 less oil than called for, so it was extremely strong, but still had the right texture.
+
+Man’oushe | Za'atar flatbread | Recipe
+
+Most spices you use a little pinch here, a dab there. Za’atar is best as a healthy dousing. This blend of thyme, sumac (a tart dried berry, apparently) and sesame seeds has a musty flavor and a fun little grit in the mouth that’s somehow excellent in large doses. There’s so many uses for it, but the most reverent presentation is mixed with olive oil as the sole topping for a flatbread.
+
+I thought this recipe turned out great. It was quite sticky as warned, but as I kneaded and rolled, little dustings of flour helped keep everything from gluing to my work surface. I got a pizza stone and my big cast iron griddle really hot in the oven, and by gum, these things turned out just beautifully: a lightly browned crust, and a soft, dry, mild, toothsome interior providing just the right contrast to the oily, gritty, and bold topping.
+
+I’m glad this wasn't the only bread I made, because I wasn’t too happy with these. Despite the evident care that went into a technique for using foil to get the right puffiness and avoid crisping, in the end my pita were, well, crispy and flat. It probably has something to do with the fact that a home oven just can’t achieve the blistering heat and correct humidity to make a bread that cooks almost instantly and puffs up before it can brown to make that lusciously soft, big pita like you get at a Lebanese restaurant. What I made wasn’t bad, it was just more cracker-like than a pita ought to be.
+
+Kibbeh bil sanieh | Bulgur meat casserole | Recipe
+
+The classic kibbeh is a torpedo-shaped ball of bulgur wheat stuffed with meat and typically fried, though many variations abound. For our Iraq meal we make a kibbeh with a shell of rice; you can also stuff it with squash, or serve it raw similar to a tartare, or, as we did, make a casserole. I chose this variation for two reasons: I’ve never had it before, and it’s way easier to bake and keep warm than batches of fried balls.
+
+Good thing I have a meat grinder attachment for my Kitchenaid, because the beef needed to be ground several times to be super fine. Some of that beef was then ground up further in the Cuisinart, with the soaked bulgur. That’s right, both the filling and the “crust” have meat in them! If you don’t have a grinder, make sure to go to a butcher who can do the extra grinding for you. It makes an important difference in the texture.
+
+I thought this was really tasty, though if I do this dish again I’ll be a little more generous with the spices — this one was light and delicate, but if there’s spices in my meat, I prefer them to be bold!
+
+Warak inab | Stuffed chard leaves
+
+Surely you’ve heard of stuffed grape leaves, a bundle of green filled with rice, herbs, etc. But what do you do when it’s winter and the vines are bare? Well, you can either use leaves that you pickled or froze, but like an idiot, I didn’t do that even though we have a great grape vine in our new back yard. (Yes, I could buy them, but what’s the fun in that?) Or, you can substitute with a more seasonable vegetable, like chard.
+
+What a pleasant surprise! Earthy, bitter chard, slightly toothy even after a long simmer, balances the soft, bright, lemony filling so well. Give it a shot, just prepare for it to take longer than the recipe suggests.
+
+Shourbat adas | Lentil soup
+
+This was nice enough, and easy to make, but didn’t quite have the sort of rich, satisfying flavor I’ve enjoyed in some lentil soups I’ve had before. Maybe it’s that it’s a vegetarian recipe, or maybe it doesn’t have enough spice (definitely could have used more cumin). Not bad, but you can probably find a better recipe somewhere. Note the dollop of garlic sauce in the foreground — that sure helped!
+
+Sfouf | Turmeric-anise yellow cake | Recipe
+
+How exotic and beautiful, right? Spices we rarely encounter in dessert, with rich ingredients. and a fanciful name to boot. Well, sorry to say, this was a dense, bland disappointment. More sugar and spices would have helped, but I’d also look for a recipe with a bit more leavening. Unless this is just how it’s supposed to be, and I just wasn’t in the right mainframe or something.
+
+Muhallabieh | Rosewater pudding
+
+Now this was a winner in my book. I love the exotic fragrance of orange blossom and rose waters, and just a little goes a long way on a bright-white canvas of milk simply thickened with cornstarch. It’s super easy to make, so long as you do it enough ahead of time to let it cool, and you don’t need much per person since just a little dish is quite satisfying.
+
+Arak | Anise liqueur
+
+If you like ouzo, sambuca, raki, pastis, or any of those other anise liqueurs, you might like arak. If not, you won't. Incidentally, we've got about 3/4 of a bottle of arak on hand in case anyone wants some.`,
   cardImage: "https://farm9.staticflickr.com/8579/16110440453_16d20cb417.jpg",
   dishes: [
   {
@@ -3756,6 +5061,81 @@ export const meals: Meal[] = [
   country: "Latvia",
   slug: "meal-94-latvia",
   originalPath: "/countries/2015/meal-94-latvia",
+  intro: `Thanks to my grandfather’s Latvian physical therapist, I got plenty of on-the-ground advice. She connected me to folks from back home, so huge thanks to my new Latvian buddies Mara, and particularly Zane, for the help — I’m sure what I ended up cooking was tastier and more authentic because of your suggestions.
+
+The heart of Latvian food is similar to its Balkan neighbors’ — fish, preserved and roasted meats, root vegetables, some dairy — though with even more of an emphasis on rye than I saw elsewhere. Not only did we have two types of rye bread, we also had a drink and a dessert made out of it!
+
+We also enjoyed stories, artwork, and photos from Bill, our guest of honor who lived in Riga, the capital, while managing Peace Corps operations in the Baltic states in the mid-90s. Our other guests were Haley, Alondra, Annette, Jason, Jens, Molly, Sarah, and Estel.
+
+Kvass | Rye soda
+
+This is a soda made from rye bread. Yes, it’s weird, but not as weird as I’d expected. To me, it tasted like a bizarro version of root beer. I actually rather liked it!
+
+Jāņu siers | Caraway cheese | Recipe
+
+This cheese, traditionally eaten for the midsummer festival but now popular year-round, sure has a lot of ingredients! I’m not sure if it’s quite accurate to call it truly homemade cheese, since it starts with store-bought curds as a base, but given all the work done to it — regular and buttermilk, plus egg yolks and whites, not to mention the caraway seeds, and all that straining! — it certainly feels legit to say I made cheese.
+
+It sure looked right: nice and firm, lightly yellow, attractively flecked with seeds. Just one problem, it wasn’t nearly salty enough, and hence it was pretty bland out there on the table. The recipe said “salt to taste,” which to me makes sense for something easily adjusted like a sauté or a stew, but in hindsight I should have looked to another recipe for guidance on how much to use, since by the time I could actually taste it as a cheese, it was too late. Oh well!
+
+Speķa pīrāgi | Bacon buns | Recipe at end of post
+
+A rich dough, made with the holy dairy trinity of butter, milk, and sour cream, envelops a filling of smoked bacon, and it tastes just as good as you’d expect. Zane, the son of a professional baker, was extremely helpful with his advice, carefully and thoughtfully conveyed. I’ve tweaked it (but not much!) for easier comprehension for an American cook — for instance, I’ve converted “half an Ikea bowl” into a more standard measurement :)
+
+The dough is fun and relatively easy to work with, as all that butterfat makes it so nice and soft, and so long as you get it all wrapped up you don’t need to worry too much about the shape. The real genius of this recipe, though, is that by using uncooked bacon as the filling, you get the fat to render inside the bun, and hence to drop into and crisp up the bottom. Really, really delicious! I could see bringing these to a potluck.
+
+Rupjmaize latviskā gaumē | Pumpernickel bread | Recipe
+
+It’s maybe a good thing that even these days you can’t find everything at the local fancy supermarket, because that means you just have to go to an ethnic market for some things. In this case, it was the hunt for kibbled rye, aka pumpernickel, that sent me to Good Neighbor Market on SE 82nd. (Thanks, Deena, for the recommendation!) This was a no-nonsense Russian market: every sign in Cyrillic, no music playing, just slow-moving elderly immigrants studiously shopping for groceries from back home. It took me a while to find, but I did indeed sight some bags of this minimally processed grain in a pile of other bagged dry goods. (They also had a surprising number of foods from the Baltics, including the kvass (see above) and herring (see below).)
+
+By the time I went to the store, I’d trained my sourdough starter on (standard) rye flour, so it was ready to go to work overnight on the pumpernickel. The recipe starts out looking all precise with measurements for this much flour and that much caraway, but then, as so many bread recipes do, it evolves into trying to giving you a sense of what the bread should feel and sound like, and a suggestion to add dry or wet as necessary to make it right. Fortunately I’ve made enough rye breads now not to be intimidated by how ridiculously sticky it is, and resisted the temptation to add more than a little white flour, and the result paid off: a dense, but moist, loaf! I ended up making so much that even after what was served on the table with the meal, as well as the bread soup (see below), I was able to freeze a whole loaf. I’ll probably keep that for Lithuania!
+
+Saldskabmaize | Sweet & sour bread | Recipe
+
+Yes, I made two breads, I couldn’t help myself. But this one’s rather different. Instead of water, it uses apple cider as the liquid, adding the “sweet” to add contrast to the sourdough. The recipe didn’t at all specify whether this was to be hard cider, or simply pressed apple juice, but since I only had the former, that’s what I went with. The resulting bread was really tasty, certainly lighter than the pumpernickel but with stilly plenty of that good ol’ Baltic rye taste. This, too, provided a full extra loaf for freezing.
+
+Galerts | Jellied pork | Recipe
+
+One admittedly excellent problem of living in a place where such excellent ingredients are available is they can throw a recipe out of whack. For instance, this jellied pork loaf recipe calls for 6-8 pork hocks plus a pound of meat, but the hocks at Tails and Trotters were so meaty that I got three of them plus an extra bone to make sure I’d have enough natural gelatin to make it set. It was still way too much meat! I saved about a pound for other recipes beyond what I made into this dish.
+
+Not surprisingly, this was an odd one: bits of pulled-pork-soft meat and chunks of skin held together by pork-flavored jello, flavored with little more than salt plus some carrot slices on the bottom. The flavor was nice if a little bland. I regret forgetting the mustard to go with it, and I also read later that sometimes it’s sprinkled with vinegar. I had the leftovers a little later with mustard, and despite the odd texture, I found it actually pretty tasty.
+
+Selyodka pod shuboy | Layered herring salad | Recipe
+
+I call it the Baltic seven-layer dip. Instead of guacamole, beans, salsa, etc., you have a base of herring with beets, apples, potatoes, and a mayonnaise dressing. We had something very similar for the Estonian meal, and I’ve seen it at Russian markets, so it’s clearly quite a thing. And pretty much everywhere, it seems to be called “herring under a blanket” or “herring in a jacket.” It’s an ingenious way of using cheaper and filling ingredients to extend the intense flavor of the herring.
+
+I really enjoyed this dish. The apples provide a crunchy contrast to an otherwise mushy dish, and the flavors run the gamut from fishy to earthy to sweet to herby (from the dill) to, well, whatever beets taste like. With a mayonnaise-sour cream dressing holding it all together, it’s pretty much a Slavic sampler platter minus meat!
+
+Rasols| Potato salad | Recipe
+
+Apparently every Latvian family has its own recipe for potato salad. As Mara, another helpful Latvian looped into the email chain, told me, “everyone will swear- this is The Recipe :) And I swear - my potato salad tastes better than that one!” I was a bit skeptical of the canned green peas and other ingredients that I hadn’t seen in other recipes, so I ended up making a more generic recipe than her family’s, and maybe that was a mistake. The one I made was totally passable, but was fairly boring. The one good thing was the mayo: I got a Russian mayonnaise from the store, which was excellently tangy. Maybe Mara’s statement wasn’t hyperbolic, but actually true, that hers is The Recipe :)
+
+Pelēkie zirņi ar speķīti | Grey peas with bacon | Recipe
+
+One of those hidden gems that doesn’t sound or look like much, but is actually really darn tasty, especially if you use high-quality bacon. The hardest part of making this dish is finding the dried, round, grey peas. After that it’s a cinch to boil them, mix with fried bacon and onion, and that’s it. Serve, enjoy.
+
+Maizes zupa | Rye bread soup dessert | Recipe
+
+Soup for dessert, or rye bread soup, would be notable enough. But a sweet, cold, rye bread soup for dessert? Leave it to the rye-crazy Latvians to come up with this one. In the tradition of French toast or panzanella salad, it’s a creative reuse of otherwise unpalatable old bread, with some cranberry juice and dried fruit to liven it up. I found it pretty tasty with that distinctive rye nuttiness, though it was really heavy for a dessert!
+
+Zane’s father’s bacon buns
+
+3 cups of flour, roughly
+
+3 tbsp sour cream
+
+1/2 pound bacon, chopped
+
+1/2 onion, finely diced
+
+Mix dry yeast with warm about a quarter cup of water and half a teaspoon of sugar, set aside to proof.
+
+Use a pot large enough to mix up the dough. Pour in milk, place on stove and heat, then add butter, sugar and salt. Don’t let it boil, just warm up and mix until butter is melted. Remove from heat, add oil and sour cream, mix everything together. Then add risen yeast.
+
+Now you will have to use your palm. Add flour with your left hand and knead with the right hand. You can add one cup of flour right away, but then add in smaller portions. And then you have to see.. clap a bit dough.. if it comes of easy (jumps) from the palm when you lift it fast and is not too soft, the dough will be good. It should be sticky, but if it’s too sticky and doesn’t jump off your hand, then add more flour. Don’t add too much flour or it won’t puff up properly. That is the trickiest part!  So when you have the right feeling :))) sprinkle flour over the dough and cover with towel. Leave for ~ 30 min to rise in a warm place.. then check and when the dough has risen, punch it down and let rise again.
+
+Preheat the oven to 410°F and prepare a work surface with flour. When the dough has risen, punch it down, take a large piece of the dough. Roll it into a rope 1.5 inches in diameter. Cut it to pieces about 1.5 inches wide. Roll out each piece into an oval. On one half of it, put a teaspoonful of the filling. Fold the dough over, pinching the edges together. Make sure there are no openings left, or the filling will leak out of the seam.
+
+Place the finished buns on an ungreased cookie sheet, with the seams underneath. When pan is full let it stand a bit in warm place and then brush with beaten egg. Bake for about 15 minutes, until golden brown.`,
   cardImage: "https://farm9.staticflickr.com/8636/16729557271_e05f9acb48.jpg",
   dishes: [
   {
@@ -3781,6 +5161,56 @@ export const meals: Meal[] = [
   country: "Lesotho",
   slug: "meal-95-lesotho",
   originalPath: "/countries/2015/meal-95-lesotho",
+  intro: `I didn't plan it this way or expect it to happen, but my gosh, what a pretty meal Lesotho offered. All these portions with different colors and textures look almost like an artist's palette. The dishes are quite plain, with such simple preparation that many barely have a recipe, but in combination there's lots of variety. It also happens to be quite healthy! This meal is definitely representative of summertime, when more food can be eked out of the meager, mountainous soil.
+
+This was our first Nosh after getting press on NPR and our local OPB, and one of the many people who reached out to us was Erin, who did Peace Corps in this little country surrounded by South Africa. Between her fellow volunteer Anne and others who've blogged about their eating experience there, I was able to piece together a decent idea of what to serve. To be clear, this is far more variety than most people in Lesotho eat most days, but the intention is always to go a step up to what would be at a celebration or a feast.
+
+Our guests were Levi, Julie, another Julie, Greg, Matt, Will, Annie, Lauren, Will, and of course Erin, who told some fascinating stories, including the habit of hiking to hilltops for cell reception!
+
+Motoho | Sour sorghum porridge
+
+I read that Basotho (that's the name for the people of Lesotho) have a taste for fermented and tangy things, so I wanted to give this a shot. I figured I'd make a batch of this and then we'd move onto pap, the more typical cornflour-based porridge that's the true foundation of Basotho cuisine, but one batch of the sorghum got us through the meal!
+
+As with most soured foods, the way you make it is by putting a bit of the previous batch in the new batch so the bacteria and yeast can grow, but of course I don't know anyone with motoho at the ready, so I did the next best thing and dropped in some of my own sourdough starter which is typically intended for breads with wheat flour, and mixed in enough water for a stiff dough. (You can also leave it out for a few days and hope it sours right, but that method is unpredictable and I couldn't take the risk.) After an overnight in an oven gently heated by the warming drawer, this dough had the unmistakable, slightly sweet and definitely sour whiff of fermentation gone right. Add more water, simmer and stir, done.
+
+I found this surprisingly tasty, definitely more palatable than the fermented cornflour we'd tried once or twice for West African countries. And it was thick enough to pick off a piece with your hand in the traditional way.
+
+Morogo | Greens
+
+Anne's recipe for greens is pretty simple:
+
+Tamati | Tomato-carrot stew
+
+With three ingredients (plus oil and salt), this was just about the most complicated dish, and even then it's pretty simple. Anne again:
+
+-Heat some oil in a pan
+-Add quite a bit of diced onion and saute until translucent
+-Add chopped carrots and cook/stir for a few minutes
+-Add lots of diced tomato
+-Let simmer as long as you want and add salt to taste
+(this recipe is not an exact science, just follow your gut re: proportions. It should end up thick-sauce consistency. In a lot of villages, they make this without the carrots, but I think it is a lot tastier with...).
+
+For being such simple vegetables and nothing more than salt, somehow this came out really tasty. I credit the carrots.
+
+Nothing more than pink beans (which I found at a Mexican market) simmered for a long time with a bouillon cube. I told you this was a pretty healthy cuisine!
+
+Lekhotloane | Bashed beef | Recipe
+
+Beef is a special food, apparently rather less common than chicken, but I couldn't find a distinctively Basotho chicken recipe but I did for beef. It sounds unpleasant to describe a brisket that's boiled for a long time before being bashed in a large mortar and pestle, but that's exactly what this was and it was delicious.
+
+Mokopu | Pumpkin
+
+Kabocha squash, boiled, mashed, with salt. Can it get simpler?
+
+Yes! Even simpler! One ingredient only: beets, boiled, cooled until I could peel them, then sliced. A big boost to the color-wheel, and no seasoning needed since several other dishes were pretty salty.
+
+Gemere | Ginger beer | Recipe
+
+If you've ever wanted to experiment with home brewing, ginger beer is absolutely the easiest way to start. It may seem like a lot of steps, but it's all very easy and forgiving; so long as you have a large vessel and some plastic bottles, you're in business. (Of course, you need other stuff like ginger.) You end up with a very mildly alcoholic brew, and the unique satisfaction of tasting effervescence on your tongue that you made happen by mixing yeast and sugar and sealing it off. Goes great with gin, by the way.
+
+Jello trifle | Recipe
+
+One Peace Corps blogger mentioned a curious dessert that combines Jello and custard with cookies for good measure, and that was just too wonderfully weird to pass up. Indeed, I found a recipe in a Mormon newsletter from the '70s of just this sort of dish from neighboring South Africa, so voila. Without any guidance on the flavors I went with lemon and strawberry gelatins. It wasn't half bad, though the soaked cookies were a bit disconcerting. I'll keep this recipe in my back pocket in case I need to go to a "Midwest in the '70s" potluck or the like.`,
   dishes: [
       { name: "Motoho", description: "Sour sorghum porridge. Fermented overnight with sourdough starter, it had a slightly sweet and definitely sour whiff of fermentation gone right." },
       { name: "Morogo", description: "Greens. Cabbage or chard chopped finely, cooked in oil with salt and a Maggi bouillon cube. Quite tasty for how basic it is." },
@@ -3798,6 +5228,41 @@ export const meals: Meal[] = [
   country: "Liberia",
   slug: "meal-96-liberia",
   originalPath: "/countries/2015/meal-96-liberia",
+  intro: `Thanks to Jeff, Mark, and Heather, all folks who've worked in Liberia, for advice that translated directly into my choice of dishes. (Sorry none of you could make it!) And to Mama Pauline's, the African market that's a short bike ride away, for having everything I needed and plenty of friendly advice!
+
+This was our first-ever meal where we didn't know any of the guests, and it was a great success! We met an astrophysicist, a Portland Police detective, and a caterer from Hood River, among other fascinating characters. Thanks to Jia, Daniel, Katie, Mary, Dave, Courtney, Emily, Brynden, Bonni, and Geo for coming, and for donating generously!
+
+Kanyah | Peanut snack | Recipe
+
+A really simple treat made from just peanuts, rice, and sugar. To avoid turning it into peanut butter, I crushed the peanuts by hand in my big mortar and pestle, which was easy enough. (You could use a Ziploc and a rolling pin to similar effect.) But crushing toasted rice grains by hand was getting mighty tedious, so I just threw them into the food processor. The resulting mix of the three ingredients is like slightly wet sand and hence quite crumbly; I used a measuring cup to create the forms. It’s reminiscent of halva or those other crumbly sweets from the heart of the Near East.
+
+Palm butter | Recipe and some advice
+
+The rich sauce extracted from palm nuts can be found all along the coast of West Africa, and it’s typically prepared in the same way, as a stew. When we’ve cooked this dish for other countries, it has one type of meat, if any at all. But Liberians seem to revel in tossing in whatever treasures of land and sea they manage to come across, hence why the recipe calls for [[CRAB??]], shrimp, chicken, beef, and smoked turkey. (Of course if you don’t have them all on hand, just use what you’ve got!) Given that these palms are native to this part of the continent, it’s little wonder that this is considered a very important dish, one that a woman is traditionally expected to be able to make before she’s considered marriageable.
+
+I messed up in one big way. As the name implies, this dish is supposed to be cooked down until it’s thick and rich. But I started with a bunch of water to boil the meats, and then added more to thin the palm sauce, and even after an hour and a half of boiling it was too thin. Alas, it was time to eat, so we ended up with more of a soup. It was definitely tasty (though I found the shrimp to be quite overcooked — my preference would have been to add them at the very end!), but if you’re going to make this, make sure to err on the side of less water as you can always add more. Alas, doesn’t look like I’m quite cut out to be a Liberian housewife yet.
+
+Sweet potato greens | Recipe
+
+Add these to the list of foods I’m surprised we don’t see more often in American markets. They’re tasty, nutritious, easy to cook, and we’re already producing them everywhere we grow sweet potatoes. (My guess is they’re being fed to pigs.) Fortunately, Mama Pauline’s had them frozen in a big lump imported from Cameroon, and they cooked up quite like frozen spinach would. As with the palm butter, it’s a stew with a jumble of meats, though with a fresher and less heavy flavor. This was the clear crowd favorite!
+
+Check rice | Recipe
+
+I couldn’t figure out where the name comes from, does anyone know? The special ingredient is jute, which is known as molokhiya in the Arab world, an astonishingly mucilaginous green that until now I’d only encountered as a really goopy soup. Fortunately I find it goes a lot better when mixed in judicious quantities with rice.
+
+Speaking of rice, it’s the main grain of this corner of Africa, and is typically made these days from the parboiled (aka converted) variety. Despite the bad rap that Uncle Ben gets for his converted rice, it turns out to actually be healthier than plain white rice, because the parboiling process forces vitamins from the germ into the heart of the grain.
+
+Hot fried pepper | Recipe
+
+If the intense spice of the peppers doesn't get you, then the pungency of the smoked fish will! Be sure to open the windows and turn on the vent when preparing and frying up this intense condiment, which brings an unmistakably West African flavor to the table. I scaled down the recipe by 2/3 and still had way too much left over!
+
+Pineapple beer | Recipe
+
+“Beer” is a misnomer, as there’s no yeast or brewing or alcohol involved. But it wouldn’t be right to call it “juice” either, since instead this is more of an extract made by boiling pineapple and leaving it to sit overnight, then straining the solids from the flavored water. I’m not quite sure why this is considered a better technique than simply juicing a pineapple and adding a weak simple syrup, it’s certainly more labor-intensive! But I guess you can do it with nothing more specialized than a knife and a strainer (or a substitute like an old, clean t-shirt), rather than something to press juice with.
+
+Ricebread | Recipe
+
+While much of Liberian food is quite similar to that of the surrounding countries, one distinctive aspect is a tradition of baking that returned feed slaves brought back from the US. This recipe’s understated name leaves out an important part, it’s full of plantains along with broken rice. It’s rich and hearty, though not too sweet, a nice gluten-free breakfast option that we happened to eat for dessert.`,
   dishes: [
       { name: "Kanyah", description: "Peanut snack. Just peanuts, rice, and sugar — the resulting mix is like slightly wet sand, reminiscent of halva.", recipeUrl: "http://www.congocookbook.com/snack_recipes/kanyah.html", recipeLabel: "Recipe" },
       { name: "Palm butter", description: "Rich palm nut sauce stew with whatever proteins are available — crab, shrimp, chicken, beef, and smoked turkey.", recipeUrl: "http://www.african-recipes-secrets.com/palm-butter.html", recipeLabel: "Recipe" },
@@ -3813,6 +5278,49 @@ export const meals: Meal[] = [
   country: "Libya",
   slug: "meal-97-libya",
   originalPath: "/countries/2015/meal-97-libya",
+  intro: `After nearly four years, we've finally hit halfway! And how fitting to celebrate with a cuisine that's a synthesis of several influences. Libya is a real culinary interface between Africa and the Mediterranean: stews over a ball of pounded dough definitely evoke many of the sub-Saharan meals we've had so far, while spice-heavy preparations of lamb have the influence of the Ottoman Empire all over them. There's even a little legacy of the Italian occupation. For being a cuisine you hear very little about, it was really, really good — and little known, to the extent that I could find only one site with more than a few Libyan recipes. (Though it was a great site that provided all the recipes!)
+
+To mark the occasion, we decided to make a bigger occasion out of it, and the stars aligned — our local Whole Foods donated the food and connected us to the Oregon Culinary Institute, which provided a beautiful space and a chef and several students to make it all happen. Huge thanks to Leora at Whole Foods, and to Tera, Chef Maxine, and all the students who chopped, stirred, and (blessedly) cleaned for fifty people. I fret that the leftovers they took home was scant compensation for so many hours of work! They're in the far back of the photo here, but they deserve to be front and center!
+
+We passed one more milestone on this meal, crossing $25,000 in fundraising for charities addressing hunger around the world. For this one meal, we split the proceeds between Mercy Corps and Whole Planet Fountation — if you shopped at Whole Foods in March, you may still have one of those fetching purple-printed bags explaining how their microloans help families around the world.
+
+Mseyer | Quick pickles | Recipe
+
+Simple to throw together, just cut some veggies into matchsticks and mix with a brine with the right balance of hot peppers. It's a vibrant texture and color contrast to the rest of the meal. Or you can do as we did, and just nibble on them as an appetizer.
+
+Bazeen | Recipes: Dough and lamb stew; tomato soup
+
+This dish centers around a lump of dough made mostly of barley. It's one of the stranger techniques I've seen, where you dump a whole lot of flour in a little bit of salted water but don't mix it for 45 minutes. The outside of course gets wet but the inside is dry. Then you mix it all up — thankfully, a stand mixer works great, otherwise it'd be a ton of tough stirring — and amazingly it all comes together into a mass that can be made into balls. This means of preparing starch is attributed to the Berbers, but its popularity has spread.
+
+What's far tastier, to me and apparently most of the guests, is the stew that goes on top. The primary choice was a lamb stew with spices like turmeric and fenugreek with potato chunks and a little tomato sauce to redden it up. Nothing particularly fancy or more exotic than what you can find in a supermarket, but it was well-balanced and rich, a real crowd pleaser. For a vegetarian stew, I found a lovely soup of tomato with herbs like mint and basil, and followed a hunch from another recipe and used dried fava beans — no soaking, boiled on their own, then added to the soup — which turned out amazingly well. The flavor was more delicate, as you'd imagine with fresh herbs, and surprisingly full for a vegetarian sauce. (Check out the quantities we were cooking in!)
+
+Due to serving logistics, we only had small cup-size soup bowls, so it was essentially impossible to eat the dough with the stew on top as would be traditional. If you're making this, you'll want to make an effort to get bigger stew bowls, or better yet serve it all in an enormous platter to be eaten directly with the hands.
+
+Note that I anguished over whether to make a shorba libiya, the oft-proclaimed national dish, but in the end I figured it's pretty similar to the lamb stew that went with the bazeen, and the bazeen's so distinctive that I just had to do it!
+
+Makaruna imbaukha | Steamed pasta with pumpkin and raisins | Recipe
+
+Couscous is traditionally made by steaming over the sauce with which it is to be served. But who knew you could prepare Italian-style pasta the same way? (Confession: due to issues of timing and logistics we ended up boiling the pasta the normal way, but I'd like to try it the traditional way someday!)
+
+The sauce is also really intriguing. Not only are the base ingredients a sweet-savory blend of chickpeas, pumpkin, and raisins plus generous bay leaves, but the spices really take it over the top, with a generous dose of cinnamon, ground ginger, butter, and rosewater right before serving. I'm pretty sure nobody in the room had had pasta with quite that variety of seasonings before! The reviews were a bit mixed: some people were thrown for a loop by flavors they traditionally associate with dessert, while others found it intriguing and compelling.
+
+Mbattan kusha | Potato and ground lamb casserole | Recipe
+
+The more common, and certainly more distinctive, version of mbattan involves cutting a big notch out of a potato, stuffing it with seasoned meat, and deep-frying it. While that would have been fun, it would have been too complicated to pull off for serving to several dozen people at once, even in a commercial kitchen. So instead, we went with a deconstructed, oven-baked variant with layers of pre-roasted potato slices sandwiching a very ample ground-lamb filling. While this was probably the least exotic dish of the evening, it was perhaps the most popular, and rightly so: a great contrast of crunchy potato with soft meat, and a nicely balanced seasoning throughout.
+
+Harissa | Spicy sauce | Recipe
+
+I didn't realize, until I tried to find them, that fresh red chili peppers are only available seasonally. Nowhere in town had them! So I went to my standby Asian market up on Killingsworth for two packages of frozen Thai peppers. (This coming summer I'll make a point of freezing the best red peppers I can find!)
+
+Finding the peppers was the second-hardest part; the hardest was making sure not to get any bit of it in my eyes! Once I accomplished those two, it was as simple as a little chopping of the ancillary ingredients, a blender, and a bit of time on the stove. I thought I'd made too much, but it turns out I underprepared, because every last bit was gone before the meal was over.
+
+Basbousa bil tamr | Semolina cake with date filling | Recipe
+
+The general technique for making cakes in the Middle East and the kitchens it's influenced is quite a bit foreign to my Eurocentric sensibilities. Whereas the cakes I know tend to be fluffy with the sugar baked in, these cakes are instead dense and fairly unsweet until they're doused with syrup after baking. (That's why baklava's so darn sticky.) In fact, this batter, based around semolina and coconut, was so thick that I pressed rather than pouring it into the pan. It was also a challenge to put together, since there's a layer of date paste sandwiched between two layers of that semolina-coconut dough. (Protip: try rolling out the date paste between waxed paper or saran wrap, it'd be a whole lot messy than pressing sections between your hands like I did!) The baking went fine, though the cake was positively swimming in syrup and we had to pour much of it off, so you can safely make quite a bit less than the recipe calls for.
+
+I found it pretty tasty, but I've grown to like this type of dense, cloying treat. It went really well with the recommended qashta cream — if you can find it it'll probably be in a can with the Puck brand name, but World Foods in Portland happens to carry a fresh version that goes under a name that escapes me but is a heavenly rich, medium-tangy accompaniment.
+
+Thanks once again to Whole Foods and everyone at Oregon Culinary Institute. This was a really special evening, a fittingly collaborative way to celebrate going halfway around the world, one feast at a time!`,
   cardImage: "https://farm8.staticflickr.com/7637/16554405893_b855c3a840.jpg",
   dishes: [
   {
@@ -3846,6 +5354,39 @@ export const meals: Meal[] = [
   country: "Liechtenstein",
   slug: "meal-98-liechtenstein",
   originalPath: "/countries/2015/meal-98-liechtenstein",
+  intro: `Liechtenstein is one of two doubly-landlocked countries, meaning that every country it borders is also landlocked. So it was entirely unfitting, then, that we held this meal at a party house on the Oregon coast, as part of the celebrations of Laura's 30th birthday.
+
+Sandwiched between Austria and Switzerland, the cuisine is emphatically Alpine Germanic, with dairy products dominating. While this meal wasn't as grand or as eagerly anticipated as Laura's previous birthday feasts of Canada, France, and Italy, it was surprisingly tasty and satisfying. Then again, maybe it's hard to go wrong with so much cheese, cream, and butter!
+
+What a fun crowd for celebrating this birthday: Molly, Ellen, Bryce, Laura, Craig, Kristine, Tim, Sebastian, Chelsea, Haley, Derek, and Alondra!
+
+Spargel vom grill | Grilled asparagus | Recipe
+
+Asparagus is a classic spring vegetable, though I didn't manage to find the fat, white asparagus that's much more common in Europe. So we doctored up plain ol' skinny green asparagus with "spring herbs" (in this case, dandelion greens I plucked from the yardm green onions I grew over the winter, and parsley from the store), plus a smear of butter, and wrapped them in foil and grilled them. (Have you ever seen an indoor grill on a kitchen range? It was kinda weird and uneven, but it worked!) I'm a fan of asparagus, but I really liked this version: the herbs, butter, and grill-steaming all really worked nicely.
+
+Kaninchengeschnetzeltes | Rabbit in cream sauce | Recipe
+
+I should have realized it'd be hard to find a rabbit on Easter weekend! After calling around to a half dozen butcher shops, I found what may have been the last bunny in Portland in a Whole Foods freezer.
+
+I'm glad I didn't have to revert to the backup plan of just using chicken, because this dish really brings out the subtly rich flavor of rabbit, especially with the tweak I made in preparation. See, the recipe calls for cooked rabbit but doesn't say how to cook it, so I browned and braised it in champagne (left over from the previous night's party!), and subsequently boiled down the braising liquid to contribute to the cream sauce.
+
+The dish is rich, soft, creamy and meaty, so the accompaniment of a poached pear half filled with tart jam is a cleverly tart and toothsome contrast. I couldn't find cranberry preserves (other than the stuff in a can, that is), so I went with lingonberry, which was awesome. All in all, a pretty time-consuming and decadent dish, but tasty!
+
+Käsknöpfle | Cheesy mini-dumplings | Recipe
+
+What a crowd-pleaser! Better known by the common German word spätzle, these little squirts are halfway between dumplings and noodles, and you use a special apparatus to form little strands from a mass of dough which then fall into boiling water. It's a fair amount of work to make, but fortunately we had an enthusiastic expert on hand who'd learned to make them when living in Germany. Thanks, Ellen!
+
+I couldn't find the traditional sura kees anywhere, nor was I successful finding advice on a substitute, partly because its English translation, "sour cheese," happens to be a marijuana strain so the search results weren't helpful. I ended up with a grab bag of Alpine cheeses: Emmental, Gruyère, and Fontina. It probably wasn't as sour as it should have been, and we may have put on too much cheese because the recipe didn't specify...nope, no such thing as too much cheese, it was fantastic. We also made one little variation on the recipe by throwing the whole mess under the broiler to brown the top a bit, and then returned to the recipe to shower the top with crispy-fried onion slices. So tasty!
+
+Ribel | Milky cornmeal gruel | Recipe
+
+This was supposed to be a milky, crumbly version of polenta. To keep it vegan we made it with almond milk, and in the chaos of getting ready for dinner, forgot the part about baking it. It wasn't bad, but it was just kinda like regular polenta.
+
+Öpfelküechli | Apple fritters | Recipe
+
+"Don't worry, everyone, I'm about to flambé." Famous last words before a splash of cognac turned into an eight-foot column of flame!
+
+These batter-dipped apple slices were tasty enough, but frankly not worth the effort. Especially since we had no way of coring an apple that would keep it intact as rings, it was just really tedious to batter and fry every little piece — like, making a whole apple pie would have been less work. But without the righteous two-second fireball.`,
   cardImage: "https://farm9.staticflickr.com/8813/16554625433_06861c78f0.jpg",
   dishes: [
   {
@@ -3873,6 +5414,12 @@ export const meals: Meal[] = [
   country: "Lithuania",
   slug: "meal-99-lithuania",
   originalPath: "/countries/2015/meal-99-lithuania",
+  intro: `Bye-bye, Baltics! Lithuania is the southernmost, and alphabetically last, of these three little countries across the sea from Finland. While they do indeed have the roasts and fish and rye breads and casseroles common to this part of the world, happily there were enough local variations that I managed to do a rather different meal from the other two. (Note, no herring!) This meal was also a first in that we had a guest brewer — more on that below!
+
+Just as the Balkans cluster, so do some of our guests' names: we had Alley, Abby, and Andy, plus two Margarets! (OK, one of them spells it with two T's.) Non-conforming guests included Kevin, Maryann, Daniel, Lynne, and Susannah. Margaret and Daniel were on vacation to Portland and their visit perfectly coincided with a Nosh, we're glad it worked out!`,
+  wrapup: `It really seems like a stoner came up with this one, but legend has it that it was a housewife in the '60s who messed up with mixing chocolate into milk, and somehow butter and condensed milk and biscuits came into play. It's apparently a very common Lithuanian dessert, with as many variations as there are families.
+
+Its popularity is justified: it tastes every bit as good as this indulgent mix of ingredients would promise! I mean, unless you don't like things like butterfat and chocolate and that unique slightly-caramelized richness of condensed milk. It should have been firmer — the recipe says to freeze it if you can't find the right Lithuanian butter; while I did against the odds find Lithuanian butter, it clearly wasn't the right kind because we ended up with something goopy rather than firm. But it still tasted fantastic.`,
   dishes: [
   {
     name: "Keptinis alus",
@@ -3911,6 +5458,18 @@ export const meals: Meal[] = [
   country: "Luxembourg",
   slug: "meal-100-luxembourg",
   originalPath: "/countries/2015/meal-100-luxembourg",
+  intro: `Food from this little Grand Duchy bordering Belgium, France, and Germany is for sure Germanic, with pork and potatoes, but also with a surprisingly strong showing from fresh beans. It’s also one of the most northerly wine-growing areas in Europe — just about all of which is white — and we Noshers bring our A-game when wine is culturally appropriate. Or preserved meats.
+
+For a relatively simple meal from a little country, Luxembourg turned out to be a big occasion! It was our first Nosh in Brooklyn since moving nine months ago, and a nice round Meal 100 to boot. Michael and China were super-generous in hosting us in (and renting a second table for!) their ample Park Slope apartment, so we had a grand crowd of 16 for really fun evening with friends old and new. And I really enjoyed heading back up to Astoria to do the shopping.
+
+Among the attendees were our friends Jessica, Miriam, Lisa, Kirsty, Anna, Eli, and Sarah-Doe!
+
+The wines of Luxembourg are similar varieties to those grown in the adjacent German Mosel and French Alsace regions: Müller-Thurgau and Auxerrois (very similar to Chardonnay) top the list, along with pinot gris and riesling. Alas, we couldn’t find any wines from the Grand Duchy, so we substituted with said neighbors. Generously.`,
+  wrapup: `A quetsch is a damson plum, a tart variety best cooked into jam or pie. It’s also only available in the fall, and not exactly the sort of thing that’s popular enough to be shipped fresh from the Southern Hemisphere, so I had to get creative. One market I stopped into had both regular ripe plums (thanks, Chile!) as well as the sort of sour plums used to make those weird and wonderful Japanese preserves (who knows where they came from), so I got some of both in a vague hope that the combination would resemble a quetsch.
+
+I’m not sure if I was successful in attempting the original with that combination, but it was tasty! China played the role of pastry chef, working together a really nice and solid crust. I think the egg in there helped. It’s an extremely simple recipe, but with a little whipped cream I think it turned out just fine. If I ever see damson plums at the market, I’m now intrigued enough to try making something with them.
+
+Big thanks again to Michael and China for being so generous in so many ways for this special occasion, our 100th Nosh and return to New York! This feast couldn’t have happened without you.`,
   cardImage: "https://images.squarespace-cdn.com/content/v1/5a8a382cf14aa1408b29abde/1519341021172-0ML9Q5SNNJGOUAC0F4WS/IMG_20150502_110939-300x225.jpg",
   dishes: [
       { name: "Wäin", description: "Wine. Luxembourg's wines are similar to those of the adjacent German Mosel and French Alsace — Müller-Thurgau and Auxerrois top the list." },
@@ -3924,6 +5483,14 @@ export const meals: Meal[] = [
   country: "Madagascar",
   slug: "meal-101-madagascar",
   originalPath: "/countries/2015/meal-101-madagascar",
+  intro: `The same geographic isolation that's led to the lemurs and other unique fauna and flora for which most of us know this island, also meant that even though it's not far on an absolute basis from where humankind emerged in East Africa, it wasn't settled until around 2,000 years ago. And, improbably, those settlers were Austronesian, probably from Borneo, having crossed the Indian Ocean westward in canoes — in other words, from the same ethnic core as Hawaiians and even Easter Islanders. As they did wherever they went, those Austronesians brought rice and pork with them, too.
+
+Madagascar is so big — the fourth-largest island in the world — that before Europeans showed up, the folks living there didn't have a name for it. So there was nobody to tell Marco Polo that he really messed up when he confused the island with Mogadishu, the port city and current capital of Somalia, and then got it really wrong. So while Madagascar is indeed an exotic-sounding name, it was accidentally invented by a Venetian.
+
+Our guest of honor was Mimi, from Madagascar, who helped us plan the meal and also help us understand what we were eating and why. We also had his wife Kirsten, their son, and Deena, Bengt, Molly, Julie, Levi Laura, Anna, Judy, Haley, and Mary — a big enough crowd that we needed two whole tables!
+
+The basis of virtually every Malagasy meal, it’s typically served in tremendous quantities. I’m figuring its predominance is a legacy of the Austronesians. Despite its importance, I couldn’t find any description of how they cook it; Mimy said to just do the “normal” method of bringing to a boil then steaming.`,
+  wrapup: "Fried desserts are a delicious treat, but really annoying for a chef who also wants to enjoy the dinner party rather than clean up the kitchen and spend time away from the guests wrangling hot oil. So, instead of the fried bananas which seem to be Madagascar's number one dessert, I went for another that can thankfully be made ahead of time: a batter of mashed bananas and rice flour spread onto banana leaves, wrapped around ground peanuts, and poached for a long time (I used the crock pot). The texture firmed up as it was supposed to, but it was pretty bit bland, and Mimy pointed out how it should be improved: put caramelized sugar in with the peanuts! Makes sense to me.",
   dishes: [
   {
     name: "Vary |",
@@ -3972,6 +5539,20 @@ export const meals: Meal[] = [
   country: "Malawi",
   slug: "meal-102-malawi",
   originalPath: "/countries/2015/meal-102-malawi",
+  intro: `Malawi's a landlocked country in southern Africa, hugging the lake with which it shares a name. And Laura's sister's husband just so happened to do Peace Corps there, so Scott provided some enthusiastic and thorough advice on what to cook.
+
+Joining us for the meal were Brett, Kaely, Lisa, Audrey, Elizabeth, Amy, and Jérémy and his French companions.
+
+Probably the single food item that other Africans will recognize from Malawi is this notoriously spicy chili sauce. While there's a site in Australia that seemed to be the only way to get it shipped to the US, they were completely out of stock when I checked before the meal. So, I had no alternative but to try it on my own, and to help me with this, Scott shared the ingredients and a description:
+
+"Ingredients: water, birds-eye chilies, fresh paprika, onions, acetic acid, garlic, salt, stabilizer (E415), antioxidant (E300), preservative (E211).
+
+It's quite simple. It doesn't come off as vinegar based despite the acetic acid... very heavy on the paprika and onion. No oil-- that would be more of a west african Piri Piri, at least in my experience. Out of the bottle it flows but is still a bit chunky."
+
+So into the blender I threw these ingredients, minus the preservatives, and used dried paprika instead of what was probably meant to be bell pepper. To keep things easy (and spicy!) I used a whole pack of frozen Thai chilies, seeds and all. I regret not taking down the proportions, because the result was quite tasty, spicy for sure but with some body from the onions.
+
+As Scott describes: "at all markets and bus stands you will find chippies, which are thick cut potatoes fried in low grade vegetable oil in a freestanding, flat-topped fryer. These are the best thing ever, sprinkled with caked salt, chili powder, and fresh minced cabbage with vinegar. Man I am getting hungry." I couldn't stomach getting the actually cheapest oil I could find, but I did go with good old Wesson. Armed with a really puny french-fry slicer I got for a quarter at a yard sale, a sack of Russets, and a wok, I did my best version of roadside stand chips, complete with toppings. Very tasty.`,
+  wrapup: "The only thing this has to do with Malawi is featured ingredient. Dairy is rare in Malawi and refrigeration even less common. But I'd just gotten the machine and we were in a heat wave, so I took some creative license. It tasted like Christmas with cinnamon and nutmeg, and had a bit of graininess to it which was surprisingly pleasant.",
   dishes: [
   {
     name: "Nali sauce",
@@ -4011,6 +5592,14 @@ export const meals: Meal[] = [
   country: "Malaysia",
   slug: "meal-103-malaysia",
   originalPath: "/countries/2015/meal-103-malaysia",
+  intro: `It turns out there's a subtle but important distinction between "Malaysian" and "Malay." The latter refers to an ethnic group and their language; the former is the name of a country composed of many ethnicities of whom the Malay are but the largest. There are large populations of both Chinese and South Asian origin, as well as indigenous groups. And naturally, all of them, plus the English and Dutch colonizers, have sprinkled their spices and poured their sauces into an extremely tasty, and surprisingly deep, melting pot. Indeed, the hardest part of this meal was choosing just a few dishes from the pantheon of dishes to represent the country.
+
+This meal was very popular, so we tried out a two-table arrangement for the first time. We were fortunate to have two Malaysians in our midst: Robert, a forester from Borneo learning from his counterparts in Oregon, and Christina, the mom of our dear friend Laura, who was there with her husband Craig. Also present: Will, Caitlin, Laura, Jill and her husband, our realtors Scott and John, Dede and Chris, and Robyn, Miles, and Aliza.`,
+  wrapup: `You’d think I’d have learned from the Borneo starch disaster that tapioca is not an appropriate substitute for palm sago, but no. My attempt at making a boiled dessert requiring the latter turned out to be a gloppy, tasteless mess, and was useless except for fueling my backyard compost. Thankfully, I have absorbed another lesson, which is to make dessert first, especially if it needs time to chill, so I had time to change course, and desperately searched for more Malaysian desserts.
+
+I hit upon the Southeast Asian answer to Jell-O, and by a stroke of luck I had all the ingredients. Coconut milk was no problem as I’d bought a huge can, and I happened to have palm sugar left over from a previous meal. The agar agar, like gelatin but derived from seaweed, came from a molecular gastronomy kit Laura gave me two birthdays ago. Ten minutes later and this sweet and creamy dessert was sitting in the fridge, on its way to Jiggletown.
+
+It was a hit! In fact, it probably went over better than my original choice would have. Being fairly intense with all that sugar and richness, a small square was enough for most, a godsend after such a big meal. Except for Aliza, who couldn’t get enough of it, and after eating several portions took the leftovers home.`,
   dishes: [
   {
     name: "Teh tarik",
@@ -4050,6 +5639,11 @@ export const meals: Meal[] = [
   country: "Maldives",
   slug: "meal-104-maldives",
   originalPath: "/countries/2015/meal-104-maldives",
+  intro: `If you go to the Maldives, off the southwest coast of India, for a tropical beach vacation, you're more likely to find steaks and French cheese than any of the local cuisine. I'm not entirely surprised, because the intense flavor of sun-dried and smoked tuna runs that through nearly every meal is probably a bit too intense for the holiday-package crowd.
+This is only the second meal for which I've ordered an ingredient online, but there's simply no way to cook Maldivian food without that uniquely prepared fish. I was able to get it from a Sri Lankan market outside of LA, which wasn't a surprise, since they've imported so-called "Maldive Fish" for nearly a millennium.
+
+Our guests: Maxwell and his mother Leslie, Bitsy, Anne, Steve, Julie, Levi, Kal, Lauren, Karen, and Andrea.`,
+  wrapup: "This rice pudding would seem familiar to Western tastes — sugar, milk, vanilla, mild spices — but for one flavor unique to the tropics, pandan leaf, which imparts a gentle yet haunting nutty flavor. Compared with the intense flavors of the rest of the meal, this made for a nice wind-down.",
   dishes: [
   {
     name: "Karaa fani",
@@ -4094,6 +5688,10 @@ export const meals: Meal[] = [
   country: "Mali",
   slug: "meal-105-mali",
   originalPath: "/countries/2016/meal-105-mali",
+  intro: `Mali sits squarely in the Sahel, the semi-arid band between the Sahara Desert and the more tropical West African coast. It's the original home of the peanut sauce stew found all over West Africa, while in the north you'll find influences from across the desert.
+
+Our guests were Linda, David, Caitlin, Zoie, Amy, Nicole, David, Stephanie, and friend. Nicole and Stephanie did Peace Corps in Mali, as well as my friend Emily who was a huge help with the menu.`,
+  wrapup: "A dessert common to this part of the world involves various sorts of soured dairy mixed with grain. Given that I had fonio on hand, that's what I used. Whether or not you like this dish depends entirely on how much you like your dairy tangy, and whether creamy-mushy is your thing. (It is for me.)",
   dishes: [
   {
     name: "Salade malienne&nbsp;",
@@ -4125,6 +5723,12 @@ export const meals: Meal[] = [
   country: "Malta",
   slug: "meal-106-malta",
   originalPath: "/countries/2016/meal-106-malta",
+  intro: `Situated between Sicily and Tunisia, this tiny cluster of three islands blends Italian and Arab influences with smatterings of the legacies of the empires that ruled over the centuries. As a linguist I'm fascinated by the Maltese language, which derives its structure and pronunciation from Arabic, yet takes plenty of vocabulary from Italo-Romance and other languages. With food, it's the opposite: the structure comes from the north, with breads, stews, and pies reminiscent of the cuisine of southern Italy, but with spices and other accents clearly from North Africa.
+
+Guests included Julie, Levi, Trish, Ericc, Michael, Katerina, Annette, and Sam.`,
+  wrapup: `While there are several other folks in the fellowship of "Hey, wouldn't it be fun to cook one meal for every country in the world," I really try not to see what the ones who are ahead of me have done, since I'd rather challenge myself to do original research. But when Sasha posted this recipe on her Global Table Adventure Facebook page, timed for the Day of the Dead on which this meal fell, I just had to make it. Plus, as you'll see in the recipe, this is a special one that can't be found elsewhere online.
+
+I'm normally not a big fan of multi-stage piecework, but this was worth it, even considering I had to make the marzipan from scratch since I couldn't find it in the grocery store. (Actually, assuming you have almond meal and a food processor, it's a cinch to make.) The marzipan "marrow" is studded with the exotic aromas of cardamom and clove, and the pastry "bone" features the brigthness of lemon zest. But best of all, the bone shape is a little bit macabre and a lot bit fun.`,
   dishes: [
   {
     name: "Ftira",
@@ -4168,6 +5772,11 @@ export const meals: Meal[] = [
   country: "Marshall Islands",
   slug: "meal-107-marshall-islands",
   originalPath: "/countries/2016/meal-107-marshall-islands",
+  intro: `For centuries, the fate of this Micronesian island group has been entirely subject to the machinations of much greater powers. Its very name, after an English explorer, was consecrated in maps by French and Russian explorers. It's been a territory of Spain, Germany, Japan, and the US. It saw major battle and deprivation in World War II, and was the site of enormous nuclear tests with all the destruction and long-term consequences you'd expect, and many displaced Marshallese who haven't moved to Arkansas (true story!) now live crammed on an island nicknamed the "ghetto of the Pacific." The Republic of the Marshall Islands is now an independent nation in "free association" with the United States, yet its future is very much out of its hands, as climate change now threatens to wipe these low-lying nations off the map in a way that war and nuclear testing couldn't.
+As you might expect from all this outside influence, the cuisine has absorbed some ingredients from elsewhere, but there still is plenty of food there that's stayed true to the place. It proved quite a challenge to figure out what to cook, since there aren't any Marshallese cookbooks or food blogs I could find, which is why you will see some of these recipes on discussion sites and other random places. This was actually a really fun one to research, as I learned a lot about life on these islands along the way.
+
+Guests included Stephanie, Anna, Julie, Amanda, Terry, Geo, Bonnie, Audrey, and friends.`,
+  wrapup: "Readers of previous posts will be familiar with my description of pandan leaf as the \"vanilla of Southeast Asia,\" and this nutty-green leaf also flavors dishes across Oceania. (They also use the fruit of the tree for food, but good luck finding that in the US.) I'm not sure how common pandan ice cream actually is, but it's sure tasty, especially when you avoid artificial pandan extract (sold in Asian markets) and take five minutes to make your own with the leaves (also sold in Asian markets). Anyone who knows a vegan knows that coconut milk is a successful dairy substitute for ice cream; mixed with dairy, it takes on a more complex mouthfeel. This was a tasty one that went so quickly we forgot to take a picture!",
   dishes: [
   {
     name: "",
@@ -4217,6 +5826,12 @@ export const meals: Meal[] = [
   country: "Mauritius",
   slug: "meal-108-mauritius",
   originalPath: "/countries/2016/meal-108-mauritius",
+  intro: `What happens when an uninhabited tropical island in the Indian Ocean suddenly gets people of various backgrounds showing up? Well, aside from other things including the extinction of the dodo, a complex and delicious cuisine emerged in Mauritius. French, Indian, and Chinese cuisines, plus rich soils, waters, and a longstanding sugarcane industry, make for an abundant cuisine whose variety far outpaces the island's modest population. Mauritians are also enthusiastic about their cuisine to the extent that there are a lot of recipes out there, so it was tough to pick out what to cook!
+
+The evening's guests included: Julie, Julie's mom, Levi, the Tenenbaum/Ellenby family, Marguerite, Kristin, Rene, Kerri, and their companions.`,
+  wrapup: `Mauritius has a small, but culinarily influential, Chinese population. This meal fell right in the middle of Chinese New Year celebrations, the perfect time to try out this dessert. While I've seen hints of versions with other additions such as dried fruits, I stuck with what as far as I can tell is the traditional version, flavored with nothing but sugar. Luckily, I was able to find real Mauritian sugar, the "dark muscovado" type with the full molasses content, and a quite complex flavor with hints of various spices, retained. (Weirdly, most of what we know as "brown sugar" is actually white sugar with a bit of molasses added back in.)
+
+The direct translation of the French name "wax cake," and that's a pretty close description of the texture, which is not a surprise given that it's sticky rice flour steamed for hours. It was acceptably tasty, thanks to the proper sugar, but really interesting enough to want to try again.`,
   dishes: [
   {
     name: "Alooda",
@@ -4267,6 +5882,11 @@ export const meals: Meal[] = [
   country: "Mauritania",
   slug: "meal-109-mauritania",
   originalPath: "/countries/2016/meal-109-mauritania",
+  intro: `Writ large, Mauritania is where two larger regions converge in the far west of the African continent. The north is the southwesternmost portion of the Maghreb, bordering Algeria and the disputed Western Sahara which is occupied by Morocco. The south is where the Sahel, the semi-arid strip south of the Sahara but north of the rainforests of West Africa, meets the sea; it borders Mali and Senegal. The population, and thus the food, reflects this division. To generalize over the complexities, it's people of North African descent who speak a dialect of Arabic in the North, and sub-Saharan Africans in the south.
+There isn't a ton of documentation of Mauritanian cuisine online, so I was lucky to have plenty of help. Marion worked at the American Embassy in Nouakchott, the capital, and introduced me to her friend Sarah who still lives there. Rachel was a Peace Corps volunteer in the south. And the Jones family, who lived there for several years, led a very special end-of-meal experience.
+
+Our guests were Rachel, David, Scott and wife, Eric, Melia, Chelsea, Sarah, Estel, Douglas, and our guests of honor the Joneses, who lived in Mauritania for six years.`,
+  wrapup: "Marion and Sarah advised that a wonderful, and traditional, snack was to dip dates in cream. I had trouble ascertaining the specific type of each, so I erred on the side of delicious, with fresh (not dried) Medjool dates, and crème fraîche. If you dislike either dates or crème fraîche, you won't like this. Otherwise, you'll wonder why don't eat this, like, all the time. A beautifully rich and indulgent dish. I just reread Sarah's email that said to serve this at the start of the email, but goodness, this went well as a dessert with tea at the end of the meal.",
   dishes: [
   {
     name: "M\u00e9choui",
@@ -4307,6 +5927,9 @@ export const meals: Meal[] = [
   country: "Mexico",
   slug: "meal-110-mexico",
   originalPath: "/countries/2016/meal-110-mexico",
+  wrapup: `One of the region’s preferred desserts is torta de tres leches, “three milks cake,” made with a can each of evaporated milk, sweetened condensed milk, and light cream. Another is flan, that cold, jiggly custard with a caramel sauce, just as they enjoy in Spain and France. So what a delight to see that you could make a tres leches flan!
+
+The hardest part of the recipe is making and pouring the caramel, it requires particular attention to avoid burning the sugar or yourself. The second hardest part is setting up a bain marie for even cooking in the oven. Other than that it's as simple as opening cans and blending the contents. The result is a flan that’s thicker and milkier than the traditional custard. It was a hit!`,
   dishes: [
   {
     name: "Tortillas",
@@ -4373,6 +5996,13 @@ export const meals: Meal[] = [
   country: "Micronesia",
   slug: "meal-111-micronesia",
   originalPath: "/countries/2016/meal-111-micronesia",
+  intro: `At 1 million square miles with only 100,000-ish people, the Federated States of Micronesia is both huge and tiny. (Obviously, almost all of that square mileage is ocean.)
+As with much of the rest of the Pacific islands, the traditional bland starches and simply cooked fish aren't the most stimulating cuisine. Micronesians have swung the pendulum far to the other side, with some really intense and novel uses of imported flavors. (Read below for what they do with ramen and Kool-Aid.)
+
+There's precious little about Micronesian cuisine online. The two most useful sources I found were a few posts from this teacher's blog for traditional foods, and this astonishing account of some of the uses of modern foods on the island of Chuuk.
+
+Along for the adventure were Emily, Jens, Molly, Will, Caitlin, Trish, Amy, Jordana, David, Michele, Emily, and guests.`,
+  wrapup: "Straightforward and tasty, though yes, it's yet another mushy thing covered in coconut milk. The banana leaf made for a little variety in presentation.",
   dishes: [
   {
     name: "Ramen snack",
@@ -4406,6 +6036,10 @@ export const meals: Meal[] = [
   country: "Monaco",
   slug: "meal-112-monaco",
   originalPath: "/countries/2016/meal-112-monaco",
+  intro: `Another beachside birthday party, another meal from a tiny, rich European country! The principality of Monaco is a Central Park–sized nugget on the French Riviera, whose Italian-sounding name is a giveaway of a linguistic, cultural, and culinary heritage that’s more closely connected to northern Italy than southern France.
+
+For such a small place, there’s a surprisingly thorough culinary heritage, which is far better documented online than those of countries several orders of magnitude larger. Of course, it’s squarely within the Mediterranean flavor realm, though with its own twist.`,
+  wrapup: "Laura wanted cherries, so cherries she got. This is a fairly simple dessert, just fruits pressed into a fairly rich flat yeasted dough. And tasty!",
   dishes: [
   {
     name: "Barbagiuan |",
@@ -4450,6 +6084,14 @@ export const meals: Meal[] = [
   country: "Mongolia",
   slug: "meal-113-mongolia",
   originalPath: "/countries/2016/meal-113-mongolia",
+  intro: `To get one thing out of the way: Mongolian barbecue isn’t Mongolian. It was invented in Taiwan. So we didn’t make that.
+
+Mongolia isn’t a good place for growing produce, so the cuisine barely has fruits or vegetables. For a bit of perspective, Mongolians following a traditional diet get their Vitamin C from organ meat, and at least one guidebook recommends that vegetarians bring whatever food they may need into the country. Instead, animals, especially sheep but also camels, yaks, cattle, horses and more, turn the grasslands into meat and milk, and grains and spices can be acquired through trade, and that’s the basis of the food of Mongolia.
+
+While I was super excited about trying out a novel cooking technique (see below!), I didn’t have high hopes for how things would taste. Well, my low expectations were certainly exceeded!
+
+Our guests included Kristen, Marcia, Jeffery, Jeremy and his parents visiting from France, Wayne, Robert, Anya, Laure, and Jonathan.`,
+  wrapup: "This isn’t the first dessert I’ve had with animal fat — lard is a traditional component of pie crust, after all — but it’s certainly the first with lamb fat. I trimmed it from the meat from the other dishes, slowly rendered it in simmering water, and then used it as the medium for frying up lozenges of sweet dough. As an accompaniment we had jam and clotted cream, which went surprisingly well with the musty-sweet lamb-cookies. (I tried making a form of cheese, but I failed to get the milk to curd properly. Oh well.)",
   dishes: [
   {
     name: "Airag",
@@ -4487,6 +6129,15 @@ export const meals: Meal[] = [
   country: "Mozambique",
   slug: "meal-114-mozambique",
   originalPath: "/countries/2016/meal-114-mozambique",
+  intro: `Wherever the Portuguese colonized, the exchange of ingredients and dishes was intense. Mozambique's spicy grilled chicken spread throughout the empire, becoming beloved from Lisbon to Goa, while bread is still baked everywhere throughout the Southern African country. I was also struck by how, even though the country is halfway around the world, this was one of the easiest meals to shop for, as every ingredient is available at a standard American supermarket.
+This was our second Nosh at Laura's parents' place on Anderson Island in Washington's South Puget Sound. Friends from around the island joined the table.
+
+Pão | Rolls | Recipe
+
+A fairly simple, moderately crusty, hamburger-bun-sized roll with a generous dusting of flour. If I'd had access to a wood-burning oven I imagine there'd have been a nice faintly smoky flavor, but as it was these were nice enough. There were many varieties of the recipe, and on a whim I went with the one that has you make a sponge with a bit of molasses before building up the bulk of the dough. We enjoyed them, but frankly I probably could have let them rise a tad longer (perhaps an extra 20 minutes after shaping), and the insides were a tad bit gummy so I should have baked them an extra few minutes.`,
+  wrapup: `This is the first potato-based dessert I've ever seen! It works, and is rich and tasty, but man, is it dense. And between the cashew, butter, and all those egg yolks, it's quite a fatty marvel. This would work plenty well as a gluten-free cake, the flour in the recipe is an almost insignificant amount and could surely be replaced by any GF flour. Note that it took way longer than the specified 30–45 minutes for the middle of this cake to cook through for me.
+
+If you're a Mozambican wealthy enough to afford it, you might have a taste for Portuguese wine. So that's what we drank. Otherwise, (decent light) beer and (apparently low-quality) rum are the preferred alcoholic drinks.`,
   dishes: [
   {
     name: "P\u00e3o",
@@ -4534,6 +6185,11 @@ export const meals: Meal[] = [
   country: "Montenegro",
   slug: "meal-115-montenegro",
   originalPath: "/countries/2016/meal-115-montenegro",
+  intro: `While the language, culture, and some of the food of this little seaside country are definitely Slavic, the food of Montenegro evinces a strong Italian influence. It's the consequence of centuries under Venetian rule and influence, plus the lingering effect of being a hop across the Adriatic from the boot of Italy. The result is a cuisine that is both high in milkfat but that also has a place for delicate flavors. Really, it was quite delicious.
+Ellenby Ellenby Ellenby Ellenby Elizabeth Elizabeth +1 Tink Tink +1 Kristin Winslow Ana DLR Ana DLR +1 Anna Marti Anna Marti +1 Anna Sagatelova
+
+Our guests were the Ellenby family, Elizabeth, Tink, Kristin, Miguel, Ana, Anna, Anna, and friends.`,
+  wrapup: "Probably the most appropriate way to enjoy Montenegro’s most representative fruit would have been to simply peel and eat, but they were out of season. Given the Italian culinary influence, I figured a sorbet would be appropriate. It’s hard to tell if this is something they’d actually eat in Montenegro, but it was a delicious and light conclusion to an otherwise heavy meal.",
   dishes: [
   {
     name: "Sok od \u0160ipka",
@@ -4587,6 +6243,11 @@ export const meals: Meal[] = [
   country: "Morocco",
   slug: "meal-116-morocco",
   originalPath: "/countries/2016/meal-116-morocco",
+  intro: `I love spices. I love meats cooked with sweet flavors. I love Moroccan food.
+This was one of our very most anticipated meals, and I went pretty overboard with all the dishes and condiments. But with all the meats and flavors, how could I have cut back? The house smelled fantastic, we all got super full, and there was so much food going on that I even left one whole dish uncooked to be enjoyed later. Thank goodness for mint tea that helped our digestion.
+
+Our guests for a lovely summer evening were Andrew, Laura, Craig, Laura, Tennessee, Alley, Amos, Nik, Deena, Bengt, Tim, Kristine, Haley and Mary.`,
+  wrapup: "An accident that turned out great! These are intended to be cookies, but when we put everything together the batter was just too slack. So instead of dolloping",
   dishes: [
   {
     name: "Baghrir",
@@ -4661,6 +6322,20 @@ export const meals: Meal[] = [
   country: "Myanmar",
   slug: "meal-117-myanmar",
   originalPath: "/countries/2016/meal-117-myanmar",
+  intro: `Burmese food is intense. Funky, fiery, crunchy, soupy, tangy, herby…a full meal is a real workout for your palate. It bears some resemblance to Thai food, but with more crispy bits, more turmeric, and a lot more fermentation.
+
+It’s also a good amount of work to prepare! A birthday gift of an outdoor street-vendor-style wok was extremely well timed, as there were several smelly, splattery things to be fried up. I’m never going to claim my cooking is authentic, but as I squatted next to the wok in the driveway in the mid-afternoon mid-summer heat, I felt like my approach was a bit closer to the on-the-ground reality than my normal induction-range cooking.
+
+I’m also super lucky that there is a Burmese market in town. I’ve sung the praises of the highly global selection at Mingala before, but man, they really came through with every last ingredient I was looking for! I was the most grateful to find the fermented tea leaves, so I wouldn’t have to ferment them myself from scratch. (Though maybe I should have, as you'll see.)
+
+(To address the Burma/Myanmar confusion: according to the BBC, they're essentially the common and literary version of saying the same word: "B" and "M" are both voiced consonants made with closed lips, for instance. The former is both the British colonial name as well as the democracy movement's preferred name, while the latter was instituted by the military junta and codified via its UN membership.)
+
+It was a loverly summer evening so we enjoyed it outside with Pat, Debbie, Jeff, Denise, Chelsea, Al, Pan, Quinn, Lisa, Trish, Douglas, Kristen and friends.`,
+  wrapup: `If you’ve had the tea leaf salad at a place like Burma Superstar in San Francisco, with intriguingly tangy strands mixed in with cabbage and crunchy beans, apparently you were served the Westerner-friendly version. From what I’m led to understand, a true tea leaf salad in Myanmar is deconstructed, with a little pile of spicy, fermented tea leaves in the middle and surrounded by all sorts of other things to mix in.
+
+Maybe I’ll stick to the Westernized version. The pre-prepared tea leaves were insanely intense: sour, spicy, and ferment-y in equal proportions. They were also were like spinach in how they make the back of your teeth feel. Really, it was more like an intense condiment than a salad. If anyone’s feeling adventurous, I’ve got one extra packet of these leaves that we didn’t end up opening… Though we didn't save you any of the crunchy fried-bean mix, that stuff was MSG-licious and went a long way in overcoming that intense tea-leaf flavor.
+
+Many thanks to Emily for the advice on what to cook and buy!`,
   dishes: [
   {
     name: "Mohinga",
@@ -4692,6 +6367,9 @@ export const meals: Meal[] = [
   country: "Namibia",
   slug: "meal-118-namibia",
   originalPath: "/countries/2017/meal-118-namibia",
+  intro: `Namibia is a dry place. Most of it is desert, the best-known of which being the Kalahari, with a little strip classified as "semi-arid." In such an environment, few vegetables grow, so for thousands of years people living in this part of the world have relied on animals to turn meager grasses and shrubs into edible food. Accordingly, everyone, including the poor, makes meat a large portion of their diet, so naturally this meal featured meat in several forms.  It was hard to find any recipes that were truly Namibian, so I mostly went with South African recipes that seemed most in line with what I could gather is eaten in Namibia. (Perhaps we can blame the fact that the land was administered by South Africa as "South-West Africa" from 1915 through 1990.) Since Laura and I went to South Africa the previous winter, we had a decent frame of reference for the food.
+
+While Namibia is a sparsely populated country, our backyard was packed for this meal, since 25 of our neighbors showed up to a block-wide Nosh invite! It was a grand time, with old-timers and newcomers alike, and many neighbors who'd never gotten beyond "Hi" finally getting to know each other. We'll surely do it again.`,
   images: ["https://images.squarespace-cdn.com/content/v1/5a8a382cf14aa1408b29abde/1519341022230-7CT8P1EGYQFKT97EPLJD/Screen-Shot-2017-01-16-at-9.32.40-PM-1024x633.png"],
   dishes: [
   {
@@ -4733,6 +6411,7 @@ export const meals: Meal[] = [
   country: "Nepal",
   slug: "meal-119-nepal",
   originalPath: "/countries/2017/meal-119-nepal",
+  wrapup: "A lovely, gentle way to end an intense meal after all those spices and textures. A just-barely-holding-together fudge of ground cashews with a judicious dosing of cardamom.",
   images: ["https://images.squarespace-cdn.com/content/v1/5a8a382cf14aa1408b29abde/1519341022863-ER25J88CIE20YFQFSBFQ/Screen-Shot-2017-04-17-at-9.49.21-PM.png"],
   dishes: [
   {
@@ -4772,6 +6451,13 @@ export const meals: Meal[] = [
   country: "Nauru",
   slug: "meal-120-nauru",
   originalPath: "/countries/2017/meal-120-nauru",
+  intro: `If you've heard of Nauru, it's likely because of the refugee detention center that Australia operates there. It's just about the only thing going on economically there, since the decline of the phosphate mines that briefly made the country the richest in the world per capita in the 70s. It's a strange and sad story, in which a small population decides to turn over most of the island to mining bat guano, making everyone on the island instantly wealthy with no reason to work, but the whole artifice crashes within a few decades as the phosphate dries up and the sovereign fund is woefully mismanaged. If you can believe it, one of the things that brought them down was an investment in an unsuccessful musical in London about Leonardo.
+While Leonardo did a whole lot of just about everything, now just about nothing (save for the detention center) happens on the island. Virtually all of the workable land was destroyed through mining, and the population gets by on foreign aid and leveraging its UN membership to trade diplomatic recognition for cash. (It's proven adept at playing Taiwan and the People's Republic of China against each other.) Anyway, the present reality of no farming, combined with the recent history of a taste for imported goods, means that the island's diet is limited and, frankly, unhealthy, as manifested in Nauru's inglorious status as the world's most overweight country.
+
+Bringing a sense of obscure adventure to the table were Jon, Nicole, Annie, Will, Amie, Vincent, and his guest.`,
+  wrapup: `I have no idea if they actually drink this in Nauru, but this recipe on a random site claims they do (see the pattern?), so I made it. As I've described in a few other Pacific meals' writeups, pandan leaf has the same nutty scent as basmati rice.
+
+I had no clue of what to make for dessert, so given the indications of cheap-and-cheerful western foods, I went for mid-low-grade vanilla ice cream.`,
   cardImage: "https://images.squarespace-cdn.com/content/v1/5a8a382cf14aa1408b29abde/1519356967476-AGQSRMYYVY3I3VIVF16C/NAURU.jpg",
   dishes: [
   {
@@ -4805,6 +6491,8 @@ export const meals: Meal[] = [
   country: "The Netherlands",
   slug: "meal-121-the-netherlands",
   originalPath: "/countries/2017/meal-121-the-netherlands",
+  intro: `What good fortune that the Netherlands arrived right at Christmastime! I love it when there's a seasonal connection for the meal, and better yet when it matches our own weather: the Dutch kerstfeest is definitely designed to keep you warm and well-fed while also bringing the cheer. Also, I just realized, every bit of food was soft, save for the lettuce garnish on the shrimp cocktail.
+Our guests for the festive evening were Kale, Rachael, Elena, Michael, Haley, Chelsea, and Al.`,
   cardImage: "https://images.squarespace-cdn.com/content/v1/5a8a382cf14aa1408b29abde/1519357043368-VW29G150SDTYYLRTPP0Z/NETHERLANDS.jpg",
   dishes: [
   {
@@ -4855,6 +6543,16 @@ export const meals: Meal[] = [
   country: "New Zealand",
   slug: "meal-122-new-zealand",
   originalPath: "/countries/2017/meal-122-new-zealand",
+  intro: `A little over two years ago, when our now-good-friend Deena did an NPR piece about United Noshes, someone in New Zealand noticed and I did a phone interview on Radio NZ. I promised that when we got to their country, I'd get back in touch. And I did! We did a fun bit where they had listeners send in advice through social media of what to cook, which we chatted through live on the radio.
+So what do Kiwis eat? Well, lamb, of course, since that's what they raise a ton of for wool and meat alike. Otherwise it's in large part based on traditional English foods like sweet and savory pastries, with a growing influence of fresher Mediterranean flavors, blended with some indigenous influences like sweet potato.
+
+Joining us on a cold winter's night for a taste of the other hemisphere were Estel, Sarah, Laura, Patrick, Kal, Julie, Levi, Martha, Karen, and Red. (Oh, and Reba!)
+
+While we Americans love our convenience, one thing we really haven't gotten into is canned milk products, so we suffer the inconvenience of a perishable product as the base for our otherwise dead-simple French onion dip (recipe: mix one packet of onion mix into sour cream; serve). Well, Kiwis have no such aversion, and their reward is no temporal constraint on their ability to whip up the equivalent dip, using a can of what they call reduced cream and what we can find in the States in Hispanic markets or supermarket aisles as media crema. They even gussy it up a bit with a dash of malt vinegar, but since any self-respecting NZer would have that on hand anyway, the extra effort is still less.
+
+It's really tasty. Eat with thick or wavy potato chips, or veggies if you want to pretend you're being at least a little healthy.
+
+Along with the dip, we had ray oysters on the halfshell. They were in homage to, but certainly no replica of, Bluff oysters, a particular species that's found at the southern tip of the South Island. Equally fatty, but much classier.`,
   cardImage: "https://images.squarespace-cdn.com/content/v1/5a8a382cf14aa1408b29abde/1519356908373-65W0P5K21DJSOZF268K5/NEW.ZEALAND.jpg",
   dishes: [
   {
@@ -4943,6 +6641,7 @@ export const meals: Meal[] = [
   country: "Nigeria",
   slug: "meal-124-nigeria",
   originalPath: "/countries/2017/meal-124-nigeria",
+  wrapup: "Many Nigerian sweets are fried, but making them would have violated my \"no deep frying in other people's kitchens\" rule. And fortunately, the market had packages of chin-chin, little semi-sweet fried nuggets. But we had to do something more, and the grill was already hot, so we made the simple yet very satisfying treat of sweet plantains cooked with nothing more than charcoal. There's something exotic about grill marks on fruit, and the end-of-the-coals low heat made for some very nice caramelization. While grilled plantains are most often eaten alongside fish and sauce, in this case they made for a very nice gently sweet finish to the meal.",
   cardImage: "https://images.squarespace-cdn.com/content/v1/5a8a382cf14aa1408b29abde/1519356567107-999N0MFNYGS18AEEHNZS/NIGERIA.jpg",
   dishes: [
   {
@@ -4981,6 +6680,11 @@ export const meals: Meal[] = [
   country: "Niger",
   slug: "meal-125-niger",
   originalPath: "/countries/2017/meal-125-niger",
+  intro: `Niger is Nigeria's much lesser known northern neighbor. To reduce the inevitable confusion, its English pronunciation imitates the French: nee-ZHEHR, and the demonym is Nigerien, with only that second E providing the needed distinction. It's a Sahel nation, meaning it's in the transition zone between the Sahara and the tropical West African coast. Mercy Corps, our fundraising beneficiary, does a lot of work in Niger, including both emergency food relief and helping farmers improve their long-term resilience.
+Joining us for the meal were Kal, Douglas, Annette, Eric, Robin, Cara and friends. We were also honored to welcome Issa, a recent refugee from Chad, which has a somewhat similar cuisine, so he very kindly pointed out which dishes worked and didn't.`,
+  wrapup: `I cooked just about the same dish for Mali, but it was so good I couldn't help doing it again. I love lamb, I love dates, and I love spices, and it turns out the three of them together with some vegetables to make a rich sauce is a super winner. The only major change from last time is that I left out the steamed bread balls, because there was quite enough starch from the rest of the meal.
+
+Used what tropical fruits were good at the market: pineapple, blood orange, and mango.`,
   cardImage: "https://images.squarespace-cdn.com/content/v1/5a8a382cf14aa1408b29abde/1519356676196-XN4PIT33UCN4GCMHNZJL/NIGER.jpg",
   dishes: [
   {
@@ -5022,6 +6726,11 @@ export const meals: Meal[] = [
   country: "Oman",
   slug: "meal-126-oman",
   originalPath: "/countries/2017/meal-126-oman",
+  intro: `Out of the 193 UN members, Oman's the only one that begins with O. It sort of stands alone geopolitically, too. It's a lot lower-key than its Middle East neighbors, with neither the flashiness of other sultanates, nor the strife of some neighbors. On the other hand, Oman has a rich history given its strategic position at the mouth of the Persian Gulf: its traders plied the Indian Ocean for centuries, and it wasn't until the middle of the 20th century that it finally relinquished its claim to Zanzibar off the Tanzanian coast. In fact, limon omani, the dried lime with a hauntingly earthy tang, was the creation of Omani traders preserving fruit they bought in Malaysia on the decks of their ships.
+It was Laura's birthday weekend, so for the third year in a row we had the meal on the Oregon coast with friends.
+
+Recipes from Oman are shockingly hard to find online. Everything I cooked came from the book Food of Oman. I link to websites that have adapted versions of the recipes from this book where I can find them.`,
+  wrapup: "Sticky toffee pudding is a British treat made with dates and covered in a sinful sauce of brown sugar and butter. It only stands to reason that a place that grows dates would make its own variant. This one was a little more cake-like, as you can see it was baked as a solid cake and then doused in sauce. Certainly not a classic birthday cake, but really tasty and incredibly moist.",
   cardImage: "https://images.squarespace-cdn.com/content/v1/5a8a382cf14aa1408b29abde/1519356318567-YNTVHJHFSAYG5NAKN82B/OMAN.jpg",
   dishes: [
   {
@@ -5055,6 +6764,9 @@ export const meals: Meal[] = [
   country: "Norway",
   slug: "meal-127-norway",
   originalPath: "/countries/2018/meal-127-norway",
+  intro: `The Midsummer festival, which is celebrated in Norway with the rest of Scandinavia, is a bit of a misnomer, in that it's actually around first day of summer. But whatever, it does celebrate the peak of the year, when days are super long and gardens are finally abundant with fruits and vegetables. We held ours a few weeks earlier, which actually worked out in Portland's seasons because we got the new potatoes, strawberries and rhubarb at their peak.
+Certainly not all Norwegian food is colorful and zippy. The most representative aspect of the traditional Norse diet is porridge, called grøt — from which we get the English word "grout," to give you a sense of the texture. Its centrality is represented in the Great Porridge Feud of the 19th century, in which a debate over whether to throw in a handful of raw flour right before serving served as a proxy for the conflict between tradition and science.`,
+  wrapup: "I made so many dishes that I ran out of time to assemble the cake. I baked it, but just didn't have the time to make it up, so I froze it. And everyone wanted waffles anyway. Maya did a super good job of making them (unfortunately I've lost the recipes we used!), covering them with strawberries, and making everyone happy.",
   cardImage: "https://images.squarespace-cdn.com/content/v1/5a8a382cf14aa1408b29abde/1519356196431-QSFGKO9I7RHFSKS0VLEX/NORWAY.jpg",
   dishes: [
   {
@@ -5116,6 +6828,12 @@ export const meals: Meal[] = [
   country: "Pakistan",
   slug: "meal-128-pakistan",
   originalPath: "/countries/2018/meal-128-pakistan",
+  intro: `Pakistan was, until 1947, part of India. While the intention was to create a new country for Muslims, the dividing line was in many ways arbitrary, ill-informed, or simply doomed, given that religious communities intermixed plenty. In particular, the huge state of Punjab was split in two. Then, millions of people moved across the lines in both directions (or died in the attempt) to the country that reflected their religion. Both of these factors explain why Pakistani food seems so similar to the North Indian food we know: they were once the same country — in fact, much of the Indian food in the US is Punjabi style — and many immigrants brought foods from other parts of what's now the Republic of India.
+
+This meal fell during Ramadan, which posed both an opportunity and a challenge. I was excited to have a guiding principle, since the food after the fast is often ritualized. But the challenge was the risk of offense by indulging in all the post-fast treats without observing the fast itself. Several Muslims assured me not to worry, and in fact a Pakistani member of the US Embassy's staff in Islamabad graciously gave me plenty of advice on what to prepare. (Thank you Erin for the connection!) In addition to the below recipes, we began the meal with the traditional fast-breaking food: dates.
+
+Our guest of honor was Kal, a previous Nosher, who was born in Afghanistan but spent a decade as a refugee in Pakistan before coming to the US. We also had Katherine, Carlo, Marsha, Robert, Chie, Lyall, Eileen, and friends.`,
+  wrapup: "This recipe represents Balochistan, a mostly arid province bordering Afghanistan and Iran. This dish is a whole lot more like what I know of Gulf cuisine, with the animal roasted rather than cooked in a sauce. What's more, the rice is parboiled, which is a technique I associate with Persian food. (A stickler will note that rice in biryani, a pinnacle of Indian cuisine, is similarly boiled hard until nearly done. I will rejoinder that, in fact. biryani is of Persian origin.) Anyway, I loved this. Cardamom, vinegar, dried pomegranate, and even dates all feature, and make for one scrumptious whole.",
   cardImage: "https://images.squarespace-cdn.com/content/v1/5a8a382cf14aa1408b29abde/1519355898455-RS2XV3JNIZG99M2U1D7B/PAKISTAN.jpg",
   dishes: [
   {
@@ -5166,6 +6884,10 @@ export const meals: Meal[] = [
   country: "Palau",
   slug: "meal-129-palau",
   originalPath: "/countries/2018/meal-129-palau",
+  intro: `Palau is another one of those low-population island countries in the vast Pacific. We've discovered along the way that the traditional foods tend to be quite straightforward, and that recipes are quite hard to come by, as often the cooking is more defined as a way to put things together rather than a set of instructions and ingredients to follow. Once again I ended up figuring out what, if not now, to cook by scrolling through Facebook groups. 
+
+Joining us on this probably inaccurate adventure through this gorgeous country's food were Christina, Nancy, Dale, Mary K,aren, Mark, Jeff, Carla, and friends.`,
+  wrapup: "This seemed like it would be fun, but the contents froze very firmly to the cup, so there was no way to pull it out like a popsicle as we expected. When it softened a bit we managed to taste some with a spoon, and it tasted about how you'd expect sweetened, frozen cornstarch slurry to taste: fine, a bit refreshing, but at least to me not something to crave.",
   cardImage: "https://images.squarespace-cdn.com/content/v1/5a8a382cf14aa1408b29abde/1519355361719-0X45FOEG7CGDBYRY03AJ/PALAU.jpg",
   dishes: [
   {
@@ -5203,6 +6925,13 @@ export const meals: Meal[] = [
   country: "Palestine",
   slug: "meal-130-palestine",
   originalPath: "/countries/2018/meal-130-palestine",
+  wrapup: `None of our guests reported any adverse affects, so we can confess the story of why we didn’t have enough of this really tasty dessert.
+
+First, to explain what it is, it’s like a baklava but instead of flat filo dough you have a similar pastry called kataifa that’s shredded, and instead of a sweet walnut filling you have a bland, kinda squeaky cheese that’s sweetened up. Upon baking, the kataifa crisps up, the cheese softens, and like a baklava, after cooling it’s doused in a warm scented syrup and then topped with finely ground nuts. Then it’s cut into diamonds, and left to sit and cool.
+
+After the main course, Laura asked me if I’d already plated the dessert, which I’d left to cool in the living room while we dined outside. I hadn’t, so I walked in to see why she’d asked. Half of the tray was missing! Then we remembered that just a few minutes ago we’d been wondering why our mutt Reba was so gleefully rolling around in the grass…
+
+We swore the other guests who were inside to secrecy, put one modest piece on each plate — thankfully we had just enough — and meekly apologized when guests asked for seconds. Which they did, because it was so tasty`,
   cardImage: "https://images.squarespace-cdn.com/content/v1/5a8a382cf14aa1408b29abde/1519355522152-KRY6851DWN5SBEGJ4JK2/PALESTINE.jpg",
   dishes: [
   {
@@ -5247,6 +6976,11 @@ export const meals: Meal[] = [
   country: "Panama",
   slug: "meal-131-panama",
   originalPath: "/countries/2018/meal-131-panama",
+  intro: `For the second year, we invited everyone on the block for a late-summer Nosh. Laura got a permit to close down the street, neighbors brought over tables and chairs, and everyone sat down…just in time for the very first rain of the season to arrive!
+
+Since most of what people know about Panama is its role in transportation due to its canal, it felt appropriate to be eating this meal in a long line in the street! It was also a treat to have the Smiths over from the other side of town; we were happy to have them crash our otherwise neighbors-only event because they lived in Panama and shared stories of living in the American community there.
+
+A big thanks to the two dozen or so neighbors who showed up, both physically as well as for fundraising. It was one of our biggest meals yet in terms of money raised.`,
   cardImage: "https://images.squarespace-cdn.com/content/v1/5a8a382cf14aa1408b29abde/1519355622924-MS4DNKMW164QUHTDNEEF/PANAMA.jpg",
   dishes: [
   {
@@ -5286,6 +7020,14 @@ export const meals: Meal[] = [
   country: "Papua New Guinea",
   slug: "meal-132-papua-new-guinea",
   originalPath: "/countries/meal-132-papua-new-guinea",
+  intro: `Papua New Guinea, which sits north of Australia and east of Indonesia, is arguably the most diverse country in the world, with upward of 800 languages and even a few uncontacted tribes. Even though it shares the large island of Papua with Indonesia, a Southeast Asian country, it’s considered part of Melanesia, the southwestern reach of the many islands of the Pacific. The cultural grouping is certainly reflected in the ingredients and methods of cooking.
+
+We’ve come to discover that food in Oceania isn’t centered so much around recipes, as it is around techniques that can be applied to whatever you’ve got on hand. Fortunately, a returned Peace Corps volunteer got in touch and dropped off a well out of print cookbook that provided enough guidance to pull together a meal.
+
+I ended up cooking the entire meal with fire. While digging out a hole for an earth oven wasn’t an option, I have both the chiminea pictured above as well as a kamado-style barbecue, so I made it work!
+
+Our guests for the evening were Susan, George, Josh, Sofie, Andrew, Quinn, Philip, Leigh-Anne, Jessica, a few friends whose names I didn’t grab, and of course Mary.`,
+  wrapup: "This dish was a disaster. I even managed to find true palm sago and order it from Amazon (most of what’s labeled as “sago” is actually tapioca), but in the end the dumplings broke apart and then I forgot to stir it and it burned so badly that the pot was ruined. So we didn’t have dessert.",
   cardImage: "https://images.squarespace-cdn.com/content/v1/5a8a382cf14aa1408b29abde/1523247936757-ZUSNDGSRCLHYZRGB811L/38952573485_cc1edd8ec2_k.jpg",
   dishes: [
   {
@@ -5320,6 +7062,14 @@ export const meals: Meal[] = [
   country: "Paraguay",
   slug: "meal-133-paraguay",
   originalPath: "/countries/meal-133-paraguay",
+  intro: `Paraguay is one of two landlocked countries in the Western Hemisphere (quick, try to guess the other without looking!), and is the only one where the native language (Guaraní) is understood by more people than the colonizers’ (Spanish). It follows, then, that both the content of the food as well as the cooking techniques have a pretty direct Guaraní legacy, though some Western ingredients like cheese and beef have weaseled their way in.
+
+It turns out that Paraguay is a common Peace Corps destination; we had four guests who’d volunteered there! It was great to have their perspective, not just on the food but also about life both in the cities and way out in the country. I also never would have figured out how to make the drink that involves putting burning coals directly on sugar without Emily’s help.
+
+In addition to our Peace Corps volunteers Emily, Gina, Caleb and Ashley, we also had Lyndi, Lisa, Craig, Laura, and friends.
+
+Note that, other than the dessert, this meal was naturally gluten-free.`,
+  wrapup: "These are the most beloved dessert of southern South America: crumbly cookie sandwiches, filled with something sweet and covered with a dusting of powdered sugar. Dulce de leche is the classic filling, and as you can see above, it’s a lot easier (and less messy) to apply with a squeeze bottle than from the can. One of our guests baked the cookies so I don’t have the recipe, but I made some dulce de membrillo (quince paste) that made for another sort of filling.",
   cardImage: "https://images.squarespace-cdn.com/content/v1/5a8a382cf14aa1408b29abde/1523316155201-OSTZUNU44A2B6F6I4VOE/28072237309_59da6ffef5_k.jpg",
   dishes: [
   {
