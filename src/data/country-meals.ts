@@ -1213,3 +1213,12 @@ export function getCountryBySlug(slug: string): CountryMeal | undefined {
 export function getCountriesSorted(): CountryMeal[] {
   return [...countryMeals].sort((a, b) => b.mealNumber - a.mealNumber);
 }
+
+export function getHeroImage(meal: CountryMeal): string | undefined {
+  if (meal.heroImage) return meal.heroImage;
+  // Fallback: first image from content blocks
+  const { getContentBlocks } = require("@/data/content-blocks");
+  const blocks = getContentBlocks(meal.slug);
+  const firstImage = blocks.find((b: any) => b.type === "image");
+  return firstImage?.url;
+}
