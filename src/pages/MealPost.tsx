@@ -73,6 +73,11 @@ const MealPost = () => {
           ))}
         </div>
 
+        {/* Wrapup */}
+        {meal.wrapup && (
+          <p className="text-muted-foreground leading-relaxed mt-8">{meal.wrapup}</p>
+        )}
+
         {/* Images gallery */}
         {meal.images && meal.images.length > 0 && (
           <div className="mt-10 space-y-4">

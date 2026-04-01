@@ -17,6 +17,8 @@ export interface Meal {
   images?: string[];
   /** Intro text before the dishes */
   intro?: string;
+  /** Wrapup text after the dishes */
+  wrapup?: string;
   dishes: Dish[];
   /** Date of the meal (ISO string) */
   date?: string;
