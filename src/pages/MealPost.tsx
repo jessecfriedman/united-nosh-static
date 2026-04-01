@@ -1,12 +1,14 @@
 import { useParams, Link } from "react-router-dom";
 import Layout from "@/components/Layout";
-import { getMealBySlug } from "@/data/meals";
+import { getCountryBySlug } from "@/data/country-meals";
+import { getDishesByCountry } from "@/data/food-items";
 
 const MealPost = () => {
   const { slug, year } = useParams<{ slug: string; year?: string }>();
-  const meal = slug ? getMealBySlug(slug) : undefined;
+  const country = slug ? getCountryBySlug(slug) : undefined;
+  const dishes = slug ? getDishesByCountry(slug) : [];
 
-  if (!meal) {
+  if (!country) {
     return (
       <Layout>
         <div className="container mx-auto px-4 py-16 text-center">
@@ -23,11 +25,11 @@ const MealPost = () => {
   return (
     <Layout>
       {/* Hero image */}
-      {meal.cardImage && (
+      {country.heroImage && (
         <div className="w-full h-[40vh] sm:h-[50vh] overflow-hidden">
           <img
-            src={meal.cardImage}
-            alt={`Meal ${meal.number}: ${meal.country}`}
+            src={country.heroImage}
+            alt={`Meal ${country.mealNumber}: ${country.name}`}
             className="w-full h-full object-cover"
           />
         </div>
@@ -39,12 +41,12 @@ const MealPost = () => {
         </Link>
 
         <h1 className="text-3xl sm:text-4xl font-bold mb-2">
-          Meal {meal.number}: {meal.country}
+          Meal {country.mealNumber}: {country.name}
         </h1>
 
-        {meal.intro && (
+        {country.preamble && (
           <div className="text-muted-foreground leading-relaxed mt-4 mb-8 space-y-4">
-            {meal.intro.split('\n\n').map((para, i) => (
+            {country.preamble.split('\n\n').map((para, i) => (
               <p key={i}>{para}</p>
             ))}
           </div>
@@ -52,48 +54,49 @@ const MealPost = () => {
 
         {/* Dishes */}
         <div className="space-y-8 mt-8">
-          {meal.dishes.map((dish, i) => (
-            <div key={i} className="border-l-2 border-primary/30 pl-5">
+          {dishes.map((dish) => (
+            <div key={dish.id} className="border-l-2 border-primary/30 pl-5">
               <h2 className="text-xl font-semibold text-foreground">
-                {dish.name}
-                {dish.recipeLabel && (
+                {dish.nativeName}
+                {dish.englishName && (
                   <span className="text-muted-foreground font-normal text-base ml-2">
-                    | {dish.recipeLabel}
+                    | {dish.englishName}
                   </span>
                 )}
-                {dish.recipeUrl && (
+                {dish.recipeLinks.map((link, j) => (
                   <a
-                    href={dish.recipeUrl}
+                    key={j}
+                    href={link.url}
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-primary text-sm font-normal ml-2 hover:underline"
                   >
                     Recipe →
                   </a>
-                )}
+                ))}
               </h2>
               <p className="text-muted-foreground leading-relaxed mt-2">{dish.description}</p>
             </div>
           ))}
         </div>
 
-        {/* Wrapup */}
-        {meal.wrapup && (
+        {/* Postscript */}
+        {country.postscript && (
           <div className="text-muted-foreground leading-relaxed mt-8 space-y-4">
-            {meal.wrapup.split('\n\n').map((para, i) => (
+            {country.postscript.split('\n\n').map((para, i) => (
               <p key={i}>{para}</p>
             ))}
           </div>
         )}
 
         {/* Images gallery */}
-        {meal.images && meal.images.length > 0 && (
+        {country.images && country.images.length > 0 && (
           <div className="mt-10 space-y-4">
-            {meal.images.map((img, i) => (
+            {country.images.map((img, i) => (
               <img
                 key={i}
                 src={img}
-                alt={`${meal.country} meal photo ${i + 1}`}
+                alt={`${country.name} meal photo ${i + 1}`}
                 className="w-full rounded-lg"
                 loading="lazy"
               />

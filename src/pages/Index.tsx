@@ -1,11 +1,11 @@
 import { Link } from "react-router-dom";
 import Layout from "@/components/Layout";
-import { getMealsSorted } from "@/data/meals";
+import { getCountriesSorted } from "@/data/country-meals";
 
 const heroImage = "https://images.squarespace-cdn.com/content/v1/5a8a382cf14aa1408b29abde/1522800490205-HSHU963N58J764OTAPS6/39851386631_ccb9ceb619_o.jpg";
 
 const Index = () => {
-  const meals = getMealsSorted();
+  const countries = getCountriesSorted();
 
   return (
     <Layout>
@@ -33,35 +33,30 @@ const Index = () => {
       {/* Meal Grid */}
       <section className="container mx-auto px-4 pb-16">
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
-          {meals.map((meal) => (
+          {countries.map((country) => (
             <Link
-              key={meal.slug}
-              to={meal.originalPath}
+              key={country.slug}
+              to={country.originalPath}
               className="group block overflow-hidden rounded-lg border border-border bg-card hover:shadow-lg transition-all duration-300"
             >
-              {meal.cardImage ? (
+              {country.heroImage ? (
                 <div className="aspect-[4/3] overflow-hidden">
                   <img
-                    src={meal.cardImage}
-                    alt={`Meal ${meal.number}: ${meal.country}`}
+                    src={country.heroImage}
+                    alt={`Meal ${country.mealNumber}: ${country.name}`}
                     className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
                     loading="lazy"
                   />
                 </div>
               ) : (
                 <div className="aspect-[4/3] bg-muted flex items-center justify-center">
-                  <span className="text-4xl text-muted-foreground/40 font-bold">#{meal.number}</span>
+                  <span className="text-4xl text-muted-foreground/40 font-bold">#{country.mealNumber}</span>
                 </div>
               )}
               <div className="p-4">
                 <h2 className="text-lg font-semibold text-card-foreground group-hover:text-primary transition-colors">
-                  Meal {meal.number}: {meal.country}
+                  Meal {country.mealNumber}: {country.name}
                 </h2>
-                {meal.dishes.length > 0 && (
-                  <p className="text-sm text-muted-foreground mt-1">
-                    {meal.dishes.map(d => d.name).join(" · ")}
-                  </p>
-                )}
               </div>
             </Link>
           ))}
