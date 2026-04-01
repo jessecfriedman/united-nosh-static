@@ -11,9 +11,9 @@ export const meals: Meal[] = [
 I had it easy with the research for what to cook, since my good friend Oliver lived in Kabul for two years and is very into food. I took his advice on what to cook just about exactly, merely turning to the internet for the recipes. (Don't think I know anyone with deep experience on Albania, so next week will require some more planning.)
 
 Afghan food turned out to be super good. It's got a lot of spices, especially cardamom, which has a mysteriously floral aroma. But none of the dishes were at all spicy, at least none of the dishes I made.`,
-  wrapup: "The weather was lovely, so we ate outside with our inaugural guests Jessica, Natasja, and Mike. Once the sun set and with the firni mostly gone, we watched Afghan Star, an excellent documentary about the equivalent of American Idol, but in a country where singing was not too long ago a grave offense, and dancing on TV a national scandal.
+  wrapup: `The weather was lovely, so we ate outside with our inaugural guests Jessica, Natasja, and Mike. Once the sun set and with the firni mostly gone, we watched Afghan Star, an excellent documentary about the equivalent of American Idol, but in a country where singing was not too long ago a grave offense, and dancing on TV a national scandal.
 
-For more shots by Laura, check out the Picasa album, including live-action grilling snaps!",
+For more shots by Laura, check out the Picasa album, including live-action grilling snaps!`,
   dishes: [
   {
     name: "Dough",
@@ -57,7 +57,7 @@ For more shots by Laura, check out the Picasa album, including live-action grill
 Our guide for the evening was Rudina, a radio producer from UNICEF from the north of Albania. (Thanks also to Elton and Quinn who sent their advice!) We met her through Snezan, the agent who found us our amazing apartment, and his girlfriend Neely. Rudina gave me a bunch of suggestions of what to cook, and the recipes that went with them. Along with the three of them, we had my college roommate Jeff, his girlfriend Elly, another college friend Sarah-Doe, and Laura's coworker Kirsty.
 
 There were six dishes in the meal, four of which were oven-baked and three of which were fried in olive oil. (Huge thanks to Kirsty for helping with chopping, frying, and much more.) For those of you doing the math, that means that one dish was indeed fried and then baked. It required some gymnastics to do it all on the small range, but it all turned out quite well. Most of the dishes came from Rudina directly; she's graciously allowed me to include them at the bottom of this post.`,
-  wrapup: "• 10 italian frying peppers, seeds removed, cut into strips
+  wrapup: `• 10 italian frying peppers, seeds removed, cut into strips
 • 1-1/2 cups olive oil
 • 4-5 big, ripe tomatoes, peeled and cut into small pieces
 • 1 tablespoon flour
@@ -104,7 +104,7 @@ Tavë Kosi
 • little rice (a handful, I used about a half tup)
 • 2 tbs flour
 
-Cut the meat in five or six pieces. (Note: I used lamb stew meat and it turned out great.) Put it in the baking pan with some olive oil, salt, pepper and bake in miedum heat (I did 350 degrees). Just before the meat is ready, add rice with ½ glass of hot water. Mix the rice into the juices and let it cook. In a bowl mix yogurt, eggs and flour. When rice is done, add the yogurt sauce slowly, stirring it in so it doesn't shock. Put it back in the oven for another 10-15 mins until the top begins to firm up, then remove and serve.",
+Cut the meat in five or six pieces. (Note: I used lamb stew meat and it turned out great.) Put it in the baking pan with some olive oil, salt, pepper and bake in miedum heat (I did 350 degrees). Just before the meat is ready, add rice with ½ glass of hot water. Mix the rice into the juices and let it cook. In a bowl mix yogurt, eggs and flour. When rice is done, add the yogurt sauce slowly, stirring it in so it doesn't shock. Put it back in the oven for another 10-15 mins until the top begins to firm up, then remove and serve.`,
   dishes: [
   {
     name: "Rakia",
@@ -292,9 +292,9 @@ We're crossing the Atlantic to the Caribbean nation of Antigua and Barbuda next 
 My prep-work was made really easy this time: I found the recipes for the entire meal on just one page! Big thanks to Cordy for that, especially the photos which helped me make sure I did it right.
 
 This was our first meal on a weeknight, thanks to Irene. Our guest of honor was Ed, better known as the NYC Nomad — for the last year and a half he's been staying in a different neighborhood of New York each week, and this week he's camping in our backyard. Our other guests were Lauren, Cory, Elsa, Jess, and Laura's friend Laura.`,
-  wrapup: "All in all, pretty good! I could even see making the saltfish again, although the ducana was pretty intensely sweet to make on a regular basis.
+  wrapup: `All in all, pretty good! I could even see making the saltfish again, although the ducana was pretty intensely sweet to make on a regular basis.
 
-We're off next weekend due to Labor Day travels. The next meal is Argentina — good thing I own a grill.",
+We're off next weekend due to Labor Day travels. The next meal is Argentina — good thing I own a grill.`,
   dishes: [
   {
     name: "Ducana",
@@ -488,11 +488,11 @@ Combine oats, sifted flour, sugar and coconut. Combine butter and golden syrup s
   country: "Austria",
   slug: "week-10-austria",
   originalPath: "/countries/2011/week-10-austria",
-  intro: "Laura learned early in our relationship that I'd never seen The Sound of Music. (That's around the same time I learned that she'd never seen Star Wars.) Turns out this musical classic, set in Salzburg, Austria, was the movie of her childhood household, so much so that the two VHSes had worn out. (And now I've seen it, while she still hasn't watched Star Wars. Too bad Tatooine isn't a UN country or that would be a surefire way to obligate her.) Needless to say, with Laura's parents and sister in town, there's no way we could do Austria night without the Von Trapps' dulcet tones.
+  intro: `Laura learned early in our relationship that I'd never seen The Sound of Music. (That's around the same time I learned that she'd never seen Star Wars.) Turns out this musical classic, set in Salzburg, Austria, was the movie of her childhood household, so much so that the two VHSes had worn out. (And now I've seen it, while she still hasn't watched Star Wars. Too bad Tatooine isn't a UN country or that would be a surefire way to obligate her.) Needless to say, with Laura's parents and sister in town, there's no way we could do Austria night without the Von Trapps' dulcet tones.
 
-Now, as far as the food, there were two dishes I found named as Austria's \"national dish\": tafelspitz and Wiener schnitzel. I put the matter to a vote of our attendees, and they chose the latter, breaded-and-fried veal cutlets, over the boiled beef option. Austrian cuisine, and particular that of Vienna, is best known for its desserts, and while a Sacher torte might have been fun, a strudel just seemed too perfect. (Plus, Fraulein Maria's favorite things include schnitzel and strudel, so there's yet more justification.)
+Now, as far as the food, there were two dishes I found named as Austria's "national dish": tafelspitz and Wiener schnitzel. I put the matter to a vote of our attendees, and they chose the latter, breaded-and-fried veal cutlets, over the boiled beef option. Austrian cuisine, and particular that of Vienna, is best known for its desserts, and while a Sacher torte might have been fun, a strudel just seemed too perfect. (Plus, Fraulein Maria's favorite things include schnitzel and strudel, so there's yet more justification.)
 
-As far as the guests, in addition to Laura's family, we had her sister Jen's friends Leila and Anthony, as well as Kirsty and Barrak. We'd have been remiss to leave out Austria's strong music heritage, so we dined to a playlist representing several genres.",
+As far as the guests, in addition to Laura's family, we had her sister Jen's friends Leila and Anthony, as well as Kirsty and Barrak. We'd have been remiss to leave out Austria's strong music heritage, so we dined to a playlist representing several genres.`,
   wrapup: `I'm not positive this is an authentic recipe, but it was sure delicious. Anything involving cream, chocolate, coffee and cinnamon is destined for success.
 
 Perhaps aided by the prior consumption of some lovely Austrian wines, the evening devolved (or evolved?) into a good-old sing-a-long. And now we're just one country away from finishing the A's — Azerbaijan is next week.`,
@@ -804,11 +804,11 @@ Our next stop around the world is Belarus, and we're taking it on the road to Sa
   country: "Belarus",
   slug: "week-16-belarus",
   originalPath: "/countries/2011/week-16-belarus",
-  intro: "(Above: Google Translate into Belarussian of, \"Cheers, bitches!\")
+  intro: `(Above: Google Translate into Belarussian of, "Cheers, bitches!")
 
 Belarus is in the heart of Eastern Europe, bordered by Russia, Lithuania, Poland, and Ukraine, a forested, landlocked country with long, cold winters. It should be no surprise then that potatoes, sour cream, rye bread, pork, and vodka form the core of the cuisine.
 
-This was our first United Noshes on the road, back in my former apartment in San Francisco. The big common space and excellently appointed kitchen (save for the comically small sink) make it easy to cook (and drink!) with friends. Our host was Jon, and guests were Alicia, Zoe, Kayla, Matt, Bryan, Cole, and Michael; Liz joined us after the meal."Cheers, bitches!\")",
+This was our first United Noshes on the road, back in my former apartment in San Francisco. The big common space and excellently appointed kitchen (save for the comically small sink) make it easy to cook (and drink!) with friends. Our host was Jon, and guests were Alicia, Zoe, Kayla, Matt, Bryan, Cole, and Michael; Liz joined us after the meal."Cheers, bitches!")`,
   wrapup: `1.   Combine honey with water, vanilla, spices, lemon in a large saucepan.  Bring to a boil; cover, simmer 5 minutes.
 2.   Add vodka. Remove from heat.   Serve hot or cooled.`,
   dishes: [
@@ -1086,11 +1086,11 @@ We're off to New Orleans next weekend (suggestions for where/what to eat welcome
   country: "Bolivia",
   slug: "week-21-bolivia",
   originalPath: "/countries/2012/week-21-bolivia",
-  intro: "Laura and I went to Bolivia for part of our honeymoon. It is telling of our unremarkable culinary experience that I can't find any representative photos of the food there, but we did take our favorite photo ever at the Salar de Uyuni, the world's largest salt flat:
+  intro: `Laura and I went to Bolivia for part of our honeymoon. It is telling of our unremarkable culinary experience that I can't find any representative photos of the food there, but we did take our favorite photo ever at the Salar de Uyuni, the world's largest salt flat:
 
 The one food that we do remember distinctly is pique macho, which is essentially meat and hot dogs on top of french fries. But that would require frying. Again. Much as I wanted to explore some native foods, it became clear through my research that this really is the most popular distinctive Bolivian dish, found everywhere from the tropical lowlands near Brazil to the Andean towns bordering Peru. So I bit the bullet and bought a deep fryer. Deep-frying is not a tool in my standard cooking arsenal, but too many of these international cuisines call for it, and stovetop frying is messy, difficult, and time-consuming.
 
-We had a record indoor crowd of 11. Noshing regulars Caroline, Kirsty, Dan, and Raven were on hand, as well as our friends Raber and Clara in from Boston, Nick and Miriam (all four of whom went to UChicago with me), and Jeremy. The meal was a rare mid-afternoon one so Raber and Clara could drive back home! And big props to Kirsty for helping a lot in the kitchen, including spud-bashing (apparently that's British slang for peeling potatoes) and dish-washing (I'm sure there's some great slang for that too.)",
+We had a record indoor crowd of 11. Noshing regulars Caroline, Kirsty, Dan, and Raven were on hand, as well as our friends Raber and Clara in from Boston, Nick and Miriam (all four of whom went to UChicago with me), and Jeremy. The meal was a rare mid-afternoon one so Raber and Clara could drive back home! And big props to Kirsty for helping a lot in the kitchen, including spud-bashing (apparently that's British slang for peeling potatoes) and dish-washing (I'm sure there's some great slang for that too.)`,
   wrapup: `Bolivians (where, I'm eager to point out apropos of nothing, the currency is the uncreatively-named yet annoying-to-say-all-five-syllables Boliviano) aren't much for sweets, but Dan gave me the heads-up that Raven's birthday was around the corner so I had to do something. You also might be thinking, "Bolivia? Isn't that where quinoa comes from?" It's true, but in recent years so much of their crop has been exported to fat-walleted countries that this native, highly nutritious grain now costs a lot more than other staples. (I think the only time we ate quinoa when we were there was part of the package lunch out on the salt flats, incidentally.)
 
 Anyway, in homage to this wondergrain, I baked this brownie-like cake the likes of which have probably never actually been seen on un plato boliviano (that's "Bolivian" as an adjective, not the money. See? So confusing). I winged it twice on the recipe: I used King Arthur Flour's Fior di Sicilia in place of half of the vanilla for a luscious orange accent, and since no baking powder measure was given I improvised with a teaspoon and a half and probably should have done a bit more. I thought it was quite nice and finished my piece, but not everyone finished theirs, so maybe the texture was too dense, the orange a bit too strong, or their machismo spent on the main course.
@@ -2799,11 +2799,11 @@ Happy holidays and New Year! May it be filled with good cheer, and of course gre
   country: "Eritrea",
   slug: "meal-55-eritrea",
   originalPath: "/countries/2013/meal-55-eritrea",
-  intro: "This wedge-shaped country on the Red Sea has seen a tumultuous history, especially in the past decade and a half: colonization by Italy after the opening of the Suez Canal, being stapled to its larger neighbor Ethiopia in the 1930s when the Italians invaded there too; a thirty-year war for independence that finally ended in 1991; and since then a highly autocratic government that is intolerant of any dissent. (Oh, and a border war with Ethiopia for good measure in the late '90s.)
+  intro: `This wedge-shaped country on the Red Sea has seen a tumultuous history, especially in the past decade and a half: colonization by Italy after the opening of the Suez Canal, being stapled to its larger neighbor Ethiopia in the 1930s when the Italians invaded there too; a thirty-year war for independence that finally ended in 1991; and since then a highly autocratic government that is intolerant of any dissent. (Oh, and a border war with Ethiopia for good measure in the late '90s.)
 
 But how about the food? Well, frankly, it's not that different from Ethiopian, especially from the north half of that country. The berbere spice blend is a bit different, the clarified butter recipe has some modifications, but when it comes down to it, you're eating spiced stews with tangy, spongy flatbread. Since Ethiopia's coming up soon, I think we'll concentrate on food from the south of that country for the sake of contrast.
 
-Joining us for this eat-with-your-hands Saturday night were Dan, Chelsea, Anna, David, Mia, Mike, and Raven.",
+Joining us for this eat-with-your-hands Saturday night were Dan, Chelsea, Anna, David, Mia, Mike, and Raven.`,
   wrapup: `With all the rich smells and flavors from the coffee, this gentle bread is a perfect contrast. Picture focaccia, with a bit less oil, and the addition of some honey and spices. It was lovely with coffee, and also made for a great breakfast snack the next morning.
 
 We're zooming across the African continent for our next meal, to another small and autocratic yet even lesser-known country, Equatorial Guinea.
@@ -2977,11 +2977,11 @@ Photos by Laura Hadden, who prefers Estonian music to Estonian food.`,
   country: "Fiji",
   slug: "meal-58-fiji",
   originalPath: "/countries/2013/meal-58-fiji",
-  intro: "We had been planning this meal with 18 Reasons, a warm and welcoming non-profit community food space in San Francisco, for almost a year. Taking the day off of work to prep and cook with my parents, the larger audience of friends new and old, and the gorgeous organic ingredients from Bi-Rite Market all contributed to a special and gratifying experience. But didn't really hit me how this meal was operating on an atypical plane until one of the volunteers very politely asked if there was enough food that they could try a bit. Two full-on staff helping to serve dishes, pour wine and wash up, without even the expectation of joining us at the table, was a first for this amateur chef.
+  intro: `We had been planning this meal with 18 Reasons, a warm and welcoming non-profit community food space in San Francisco, for almost a year. Taking the day off of work to prep and cook with my parents, the larger audience of friends new and old, and the gorgeous organic ingredients from Bi-Rite Market all contributed to a special and gratifying experience. But didn't really hit me how this meal was operating on an atypical plane until one of the volunteers very politely asked if there was enough food that they could try a bit. Two full-on staff helping to serve dishes, pour wine and wash up, without even the expectation of joining us at the table, was a first for this amateur chef.
 
 Not only was the setting unique, but this was first adventure into the islands of the Pacific, a region rich in root vegetables, tropical fruits, seafood — and in the past several decades, canned meat. Thanks to a large Indian population, courtesy of British colonial practices a century and a half ago, Fiji's cuisine has a strong fusion streak, with the spices and techniques of South Asian cooking. I found most of what I needed, including citrus (50 limes!), coconut milk (7 cans!), and some beautiful fresh fish, at 18 Reasons' parent market, Bi-Rite. We did have to adventure to the appropriately named Fiji Market in nearby San Bruno for taro, kava, and canned corned beef.
 
-We had a really wonderful time, with a fun cross-section of friends we knew, members of the 18 Reasons community, and others who'd heard about us. The spirit of getting to know food, culture, and each other through shared experience, that we and 18 Reasons both celebrate, shone through brightly. We owe a huge thanks to Olivia, the program coordinator, who not only made sure things ran smoothly and that we kept on schedule, but brought an awesome blend of hospitality and helpfulness that made us feel right at home in the unfamiliar surrounds of a commercial kitchen.",
+We had a really wonderful time, with a fun cross-section of friends we knew, members of the 18 Reasons community, and others who'd heard about us. The spirit of getting to know food, culture, and each other through shared experience, that we and 18 Reasons both celebrate, shone through brightly. We owe a huge thanks to Olivia, the program coordinator, who not only made sure things ran smoothly and that we kept on schedule, but brought an awesome blend of hospitality and helpfulness that made us feel right at home in the unfamiliar surrounds of a commercial kitchen.`,
   wrapup: `Throughout the world, we've seen cassava prepared so many ways — steamed, boiled, sauteed, fried, powdered, fermented — and you've surely had it as a dessert at some point in the form of tapioca pudding, but never have I seen this flexible and widespread root in its solid form. The ingredient list is so simple, basically just cassava, sugar, and coconut milk, though it does take labor to peel and grate the root and then squeeze it to extract liquid while retaining starch. But it's a very forgiving recipe, you can tweak the proportions to your taste, and cooking it for a few minutes more or less will pretty much just affect how brown the top is. After a meal with some pretty odd flavor combinations, this mildly sweet and moderately spongy-sticky dish was a nice wrapup.
 
 But wait, there's more! A Fijian feast would be quite incomplete without this traditional relaxing drink. We were very lucky to have Monica, a returned Peace Corps volunteer, who taught us how Fijians dry and ferment the root, grind it up, and often drink bowl after bowl. While it's not alcohol, the similarity of the effect leads them to call it "being drunk." It's pretty straightforward to make, just put some amount in cheesecloth, dunk that into water, and massage the lump until your hands start to get numb. It smells no better than mildly decomposed leaves, and tasted pretty bitter, but once the sensation of calm and lethargy starts to hit, it's amazing how easy it is to overlook all that.
@@ -3920,9 +3920,9 @@ This was our last sit-down Nosh of the year. We've got a combined Honduras/Holy 
   country: "Honduras / Holy See",
   slug: "meal-75-honduras-holy-see",
   originalPath: "/countries/2014/meal-75-honduras-holy-see",
-  intro: "Our first, and only, two-state meal! Here's why: the Holy See, as the \"legal personality\" of the Vatican City, is one of two non-member permanent observing states at the UN. The other, Palestine, has a cuisine well worth exploring, but setting aside quips about wine and wafers, there's nothing distinctive about Vatican cuisine, at least compared to the city of Rome that surrounds it. That said, the next UN country alphabetically happens to be a Catholic one — Honduras — and it was December, so it just made sense to do a Christmas party combining this Central American country's traditions with a few splashes of Roman cuisine. Thanks to the more than two dozen friends who stopped by and enjoyed this hybrid meal, along with random drinks left over from previous meals!
+  intro: `Our first, and only, two-state meal! Here's why: the Holy See, as the "legal personality" of the Vatican City, is one of two non-member permanent observing states at the UN. The other, Palestine, has a cuisine well worth exploring, but setting aside quips about wine and wafers, there's nothing distinctive about Vatican cuisine, at least compared to the city of Rome that surrounds it. That said, the next UN country alphabetically happens to be a Catholic one — Honduras — and it was December, so it just made sense to do a Christmas party combining this Central American country's traditions with a few splashes of Roman cuisine. Thanks to the more than two dozen friends who stopped by and enjoyed this hybrid meal, along with random drinks left over from previous meals!
 
-As in many Christian countries, there are ritual foods for this holiday. Without a doubt, tamales are on the top of the list — if a family makes tamales but once a year, it'll be for Christmas. Never mind that I'd made tamales recently for Guatemala, I just couldn't do a Honduran holiday meal without them. At least it's an opportunity to compare, right? Along with the tamales, I made roast pork and tried and failed at a dessert. I made up for the apparent lack of vegetables with an artichoke antipasto, and thankfully I made an  Italian dessert that actually worked."legal personality\" of the Vatican City, is one of two non-member permanent observing states at the UN. The other, Palestine, has a cuisine well worth exploring, but setting aside quips about wine and wafers, there's nothing distinctive about Vatican cuisine, at least compared to the city of Rome that surrounds it. That said, the next UN country alphabetically happens to be a Catholic one — Honduras — and it was December, so it just made sense to do a Christmas party combining this Central American country's traditions with a few splashes of Roman cuisine. Thanks to the more than two dozen friends who stopped by and enjoyed this hybrid meal, along with random drinks left over from previous meals!",
+As in many Christian countries, there are ritual foods for this holiday. Without a doubt, tamales are on the top of the list — if a family makes tamales but once a year, it'll be for Christmas. Never mind that I'd made tamales recently for Guatemala, I just couldn't do a Honduran holiday meal without them. At least it's an opportunity to compare, right? Along with the tamales, I made roast pork and tried and failed at a dessert. I made up for the apparent lack of vegetables with an artichoke antipasto, and thankfully I made an  Italian dessert that actually worked."legal personality" of the Vatican City, is one of two non-member permanent observing states at the UN. The other, Palestine, has a cuisine well worth exploring, but setting aside quips about wine and wafers, there's nothing distinctive about Vatican cuisine, at least compared to the city of Rome that surrounds it. That said, the next UN country alphabetically happens to be a Catholic one — Honduras — and it was December, so it just made sense to do a Christmas party combining this Central American country's traditions with a few splashes of Roman cuisine. Thanks to the more than two dozen friends who stopped by and enjoyed this hybrid meal, along with random drinks left over from previous meals!`,
   dishes: [
   {
     name: "Carciofi alla romana",
@@ -4029,7 +4029,7 @@ The playlist for the meal was surprisingly familiar. Betwen Björk, Sigur Rós, 
   country: "India",
   slug: "meal-77-india",
   originalPath: "/countries/2014/meal-77-india",
-  intro: "It's absurd to squeeze a survey of Indian cuisine into one meal. From Kashmir to Kerala to Kolkata, there's just a bewildering diversity of flavors, ingredients, and techniques that very well merit a 35-meal tour of all the states and territories. (Ooh, wow, that does sound fun.)
+  intro: `It's absurd to squeeze a survey of Indian cuisine into one meal. From Kashmir to Kerala to Kolkata, there's just a bewildering diversity of flavors, ingredients, and techniques that very well merit a 35-meal tour of all the states and territories. (Ooh, wow, that does sound fun.)
 
 I did my best to incorporate as much regional diversity as possible into a single meal, while also creating a cohesive whole that collectively surveys a representative expanse of what's to be found in India. Of course there's much missing — no paneer, no saag, no dosa — but I did get in a lot of classics like dal, biryani, chaat, and masala chai. Where a dish has a clear regional provenance, I've listed the place, otherwise it's something that's enjoyed over a wide area or even the entire country.
 
@@ -4041,7 +4041,7 @@ Gin and tonic
 
 You know when you have to add gin to something to make it taste better, that something had to have been pretty rough. In this case, it's quinine, whose anti-malarial properties were appreciated by the soldiers of the British East India Company, but bitter flavor was found hard to swallow. Mixed with gin, lime, and sugar, however, and it became a drink whose popularity outlived the medical need.
 
-Why the odd ruddy color and hand-labeled bottle? I made the tonic syrup from scratch, with a kit my mom sent me from Oaktown Spice Shop. With allspice, cubeb pepper, lemongrass, citric acid, and chinchona bark (the source of the quinine), plus the juice and zest of lemon, lime, and orange, the flavor was far richer and more complex than something like Schweppes. Plus, when you make it from syrup, you can choose the relative sweetness and strength of flavor of your drink. If you're a serious G&T fan, it's worth exploring.",
+Why the odd ruddy color and hand-labeled bottle? I made the tonic syrup from scratch, with a kit my mom sent me from Oaktown Spice Shop. With allspice, cubeb pepper, lemongrass, citric acid, and chinchona bark (the source of the quinine), plus the juice and zest of lemon, lime, and orange, the flavor was far richer and more complex than something like Schweppes. Plus, when you make it from syrup, you can choose the relative sweetness and strength of flavor of your drink. If you're a serious G&T fan, it's worth exploring.`,
   wrapup: `Think carrots are weird for dessert? Well, remember the existence of carrot cake, and let's talk. This is another deceptively simple dish — little more than carrots, milk, and sugar — though compared to the burfi it takes rather more labor. In particular, to boil down a bunch of milk until there's no liquid left takes a lot of stirring to avoid scorching. (Grating all those carrots could have been an even bigger pain, but fortunately I have a grating attachment for my Cuisinart.) With a dash of ghee, it becomes a pretty rich dessert, but hey, it's carrots, so it's healthy, right?
 
 Our friends the Bansals helped us with the menu; this recipe comes from their family.
@@ -6094,9 +6094,9 @@ As with much of the rest of the Pacific islands, the traditional bland starches 
 There's precious little about Micronesian cuisine online. The two most useful sources I found were a few posts from this teacher's blog for traditional foods, and this astonishing account of some of the uses of modern foods on the island of Chuuk.
 
 Along for the adventure were Emily, Jens, Molly, Will, Caitlin, Trish, Amy, Jordana, David, Michele, Emily, and guests.`,
-  wrapup: "Sukusuk | Pounded banana with coconut milk
+  wrapup: `Sukusuk | Pounded banana with coconut milk
 
-Straightforward and tasty, though yes, it's yet another mushy thing covered in coconut milk. The banana leaf made for a little variety in presentation.",
+Straightforward and tasty, though yes, it's yet another mushy thing covered in coconut milk. The banana leaf made for a little variety in presentation.`,
   dishes: [
   {
     name: "Ramen snack",
@@ -6827,7 +6827,7 @@ Used what tropical fruits were good at the market: pineapple, blood orange, and 
 It was Laura's birthday weekend, so for the third year in a row we had the meal on the Oregon coast with friends.
 
 Recipes from Oman are shockingly hard to find online. Everything I cooked came from the book Food of Oman. I link to websites that have adapted versions of the recipes from this book where I can find them.`,
-  wrapup: "Zanzibari biryani
+  wrapup: `Zanzibari biryani
 
 Biryani, a richly spiced rice-and-meat dish that probably originated in India, one of my favorite dishes to eat, and one of the most challenging to make. Everything's cooked separately, and then somehow at the end you're supposed to assemble it so the rice stays perfectly fluffy while intermingled with the sauces and chunks of meats and the rest.
 
@@ -6835,7 +6835,7 @@ In this case, the cooking is even more complicated than I'd experienced before:
 
 Sticky date pudding
 
-Sticky toffee pudding is a British treat made with dates and covered in a sinful sauce of brown sugar and butter. It only stands to reason that a place that grows dates would make its own variant. This one was a little more cake-like, as you can see it was baked as a solid cake and then doused in sauce. Certainly not a classic birthday cake, but really tasty and incredibly moist.",
+Sticky toffee pudding is a British treat made with dates and covered in a sinful sauce of brown sugar and butter. It only stands to reason that a place that grows dates would make its own variant. This one was a little more cake-like, as you can see it was baked as a solid cake and then doused in sauce. Certainly not a classic birthday cake, but really tasty and incredibly moist.`,
   cardImage: "https://images.squarespace-cdn.com/content/v1/5a8a382cf14aa1408b29abde/1519356318567-YNTVHJHFSAYG5NAKN82B/OMAN.jpg",
   dishes: [
   {
@@ -6871,9 +6871,9 @@ Sticky toffee pudding is a British treat made with dates and covered in a sinful
   originalPath: "/countries/2018/meal-127-norway",
   intro: `The Midsummer festival, which is celebrated in Norway with the rest of Scandinavia, is a bit of a misnomer, in that it's actually around first day of summer. But whatever, it does celebrate the peak of the year, when days are super long and gardens are finally abundant with fruits and vegetables. We held ours a few weeks earlier, which actually worked out in Portland's seasons because we got the new potatoes, strawberries and rhubarb at their peak.
 Certainly not all Norwegian food is colorful and zippy. The most representative aspect of the traditional Norse diet is porridge, called grøt — from which we get the English word "grout," to give you a sense of the texture. Its centrality is represented in the Great Porridge Feud of the 19th century, in which a debate over whether to throw in a handful of raw flour right before serving served as a proxy for the conflict between tradition and science.`,
-  wrapup: "Vafler | Waffles
+  wrapup: `Vafler | Waffles
 
-I made so many dishes that I ran out of time to assemble the cake. I baked it, but just didn't have the time to make it up, so I froze it. And everyone wanted waffles anyway. Maya did a super good job of making them (unfortunately I've lost the recipes we used!), covering them with strawberries, and making everyone happy.",
+I made so many dishes that I ran out of time to assemble the cake. I baked it, but just didn't have the time to make it up, so I froze it. And everyone wanted waffles anyway. Maya did a super good job of making them (unfortunately I've lost the recipes we used!), covering them with strawberries, and making everyone happy.`,
   cardImage: "https://images.squarespace-cdn.com/content/v1/5a8a382cf14aa1408b29abde/1519356196431-QSFGKO9I7RHFSKS0VLEX/NORWAY.jpg",
   dishes: [
   {
@@ -7135,13 +7135,13 @@ We’ve come to discover that food in Oceania isn’t centered so much around re
 I ended up cooking the entire meal with fire. While digging out a hole for an earth oven wasn’t an option, I have both the chiminea pictured above as well as a kamado-style barbecue, so I made it work!
 
 Our guests for the evening were Susan, George, Josh, Sofie, Andrew, Quinn, Philip, Leigh-Anne, Jessica, a few friends whose names I didn’t grab, and of course Mary.`,
-  wrapup: "Instead of a hole in the ground, I used a chiminea, which is typically used as an outdoor heating device, but can certainly be used for cooking. I built a fire in there and placed plenty of bricks on top; in the meantime I made a bulging banana-leaf-wrapped bundle of pork shoulder, greens, and chunks of taro root and pumpkin. I shoved the bundle in as best I could and let it sit for a few hours. At first it steamed and smoked a whole bunch, as the banana leaves singed and everything inside got really hot; as the heat died down, it smelled more and more like roasting pork and root vegetables.
+  wrapup: `Instead of a hole in the ground, I used a chiminea, which is typically used as an outdoor heating device, but can certainly be used for cooking. I built a fire in there and placed plenty of bricks on top; in the meantime I made a bulging banana-leaf-wrapped bundle of pork shoulder, greens, and chunks of taro root and pumpkin. I shoved the bundle in as best I could and let it sit for a few hours. At first it steamed and smoked a whole bunch, as the banana leaves singed and everything inside got really hot; as the heat died down, it smelled more and more like roasting pork and root vegetables.
 
 With help from guests, we finally extracted the now-falling-apart bundle, losing some but not too much of the vegetables to the ground. It was really tasty, with the smoke and the banana leaves imparting a ton of flavor.
 
 Sago dumplings with banana
 
-This dish was a disaster. I even managed to find true palm sago and order it from Amazon (most of what’s labeled as “sago” is actually tapioca), but in the end the dumplings broke apart and then I forgot to stir it and it burned so badly that the pot was ruined. So we didn’t have dessert.",
+This dish was a disaster. I even managed to find true palm sago and order it from Amazon (most of what’s labeled as “sago” is actually tapioca), but in the end the dumplings broke apart and then I forgot to stir it and it burned so badly that the pot was ruined. So we didn’t have dessert.`,
   cardImage: "https://images.squarespace-cdn.com/content/v1/5a8a382cf14aa1408b29abde/1523247936757-ZUSNDGSRCLHYZRGB811L/38952573485_cc1edd8ec2_k.jpg",
   dishes: [
   {
