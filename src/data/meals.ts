@@ -153,16 +153,7 @@ export const meals: Meal[] = [
       { name: "Trinxat", description: "Cabbage and potato pancake. Boil the cabbage and potato into submission, mash them up, fry up a bit of fatty pork, and form a pancake." },
       { name: "Espinacs amb Panses i Pinyons", description: "Spinach with raisins and pine nuts." },
       { name: "Coques amb Pinyons", description: "Pine nut pastry." }
-    ] yielded the answer: Pa de Pag\u00e8s. I was thrilled to learn that it's a sort of sourdough with a \"mother dough\" that can be made overnight, and doesn't rely on spontaneous environmental yeast. (Given our proximity to the Gowanus Canal and a major expressway, I shudder to think of what that would be.) As you can see, the bread turned out quite beautifully, a shocker given that I used the recipe in Spanish and converted all the weights to volume. It didn't get as crunchy on the crust as I'd have liked, but that's probably because I didn't have the wooden banet\u00f3n to bake it in and had to make do with what I had. But who really cares, because once rubbed with garlic and tomato and drizzled with olive oil, it made quite a nice appetizer.",
-    recipeUrl: "http://petiteboulangerie.blogspot.com/2010/10/pa-de-pages.html",
-    recipeLabel: "Rustic loaf rubbed with tomato and garlic"
-  },
-  {
-    name: "Escudella",
-    description: "How lucky I am to be a few minutes' bike ride from a great butcher, because this recipe put them through their paces. Veal bones? Black pudding? Ham hocks? No problem! In terms of calorie-loading, it's a no-holds-barred stew, with at least four different animals (depending on what went into the sausages) and three grains (or four, if you include beans). But what a lost opportunity for flavor! How I wish I could have roasted the veal bones to bring out their flavor, or drop in a bouquet garni to freshen up the stock. Oh well. It still turned out ok, although all the meat was, strangely, the same color pink. Apparently every church in Andorra cooks up a huge pot of this on some saint's day in January, and gives it out to all comers, so keep that in mind if you're ever in the area.",
-    recipeUrl: "http://www.andorra.ad/en-US/Resources/Pages/ESCUDELLA_DE_PAGeS_O_BARREJADA.aspx",
-    recipeLabel: "Stew"
-  },
+    ]
   {
     name: "Trinxat",
     description: "I definitely didn't do this one very well, but even still I wonder how much potential it has. Essentially, boil the cabbage and potato into submission, mash 'em up, fry up a bit of fatty pork, and make big ol' pancakes out of them. I've never been good at things that fill a whole pan and require flipping (all my attempts at omelets magically become scrambles toward the end), and as you can see by the mounding mess, this was no exception. I guess the dish was OK, since most of it got eaten, but it could have done with some more spices and maybe an egg.",
