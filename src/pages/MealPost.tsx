@@ -56,32 +56,30 @@ const DishHeader = ({ text }: { text: string }) => {
       <h3 className="text-xl font-bold text-foreground font-serif">
         {parsed.name}
       </h3>
-      <p className="text-muted-foreground text-sm italic">
-        {parsed.description}
-        {parsed.recipeParts && (
-          <>
-            {" · "}
-            <ReactMarkdown
-              remarkPlugins={[remarkGfm]}
-              components={{
-                p: ({ children }) => <span>{children}</span>,
-                a: ({ href, children }) => (
-                  <a
-                    href={href}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="text-primary hover:underline not-italic"
-                  >
-                    {children}
-                  </a>
-                ),
-              }}
-            >
-              {fixLinkSpacing(parsed.recipeParts)}
-            </ReactMarkdown>
-          </>
-        )}
-      </p>
+      <div className="text-muted-foreground text-sm italic">
+        <ReactMarkdown
+          remarkPlugins={[remarkGfm]}
+          components={{
+            p: ({ children }) => <span>{children}</span>,
+            a: ({ href, children }) => (
+              <a
+                href={href}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-primary hover:underline not-italic"
+              >
+                {children}
+              </a>
+            ),
+          }}
+        >
+          {fixLinkSpacing(
+            parsed.recipeParts
+              ? `${parsed.description} · ${parsed.recipeParts}`
+              : parsed.description
+          )}
+        </ReactMarkdown>
+      </div>
     </div>
   );
 };
