@@ -17,7 +17,9 @@ const Header = () => (
           All Countries
         </Link>
         <a
-          href="#signup"
+          href="http://eepurl.com/bbdsJr"
+          target="_blank"
+          rel="noopener noreferrer"
           className="text-muted-foreground hover:text-foreground transition-colors"
         >
           Sign Up
